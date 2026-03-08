@@ -1,37 +1,64 @@
 ﻿using System;
 
-class HospitalPerson  
+class UniversityPerson   
 {
-    public string Name { get; set; }
-    public int Id { get; set; }
-}
-
-class Patient : HospitalPerson
-{
-    public string Disease { get; set; }
-}
-
-class Doctor : HospitalPerson
-{
-    public string Specialization { get; set; }
-}
-
-class Nurse : HospitalPerson
-{
-    public string Shift { get; set; }
-}
-
-class Appointment
-{
-    public Patient Patient;
-    public Doctor Doctor;
-    public DateTime Date;
-
-    public void ShowAppointment()
+    public string Name
     {
-        Console.WriteLine("Patient: " + Patient.Name);
-        Console.WriteLine("Doctor: " + Doctor.Name);
-        Console.WriteLine("Date: " + Date.ToShortDateString());
+        get;
+        protected set;
+    }
+    public int Id 
+    {
+        get;
+        protected set; 
+    }
+
+    public UniversityPerson(string name, int id)
+    {
+        Name = name;
+        Id = id;
+    }
+
+    public virtual void Display()
+    {
+        Console.WriteLine($"{Id} - {Name}");
+    }
+}
+
+class Student : UniversityPerson
+{
+    public string Course { get; set; }
+
+    public Student(string name, int id, string course)
+        : base(name, id)
+    {
+        Course = course;
+    }
+}
+
+class Professor : UniversityPerson
+{
+    public string Subject
+    {
+        get;
+        set;
+    }
+
+    public Professor(string name, int id, string subject)
+        : base(name, id)
+    {
+        Subject = subject;
+    }
+}
+
+class Staff : UniversityPerson
+{
+    public string Department { get; set; }
+
+    public Staff(string name, int id, string dept)
+        : base(name, id)
+    {
+        Department = dept;
     }
 }
 
@@ -39,27 +66,10 @@ class Program
 {
     static void Main()
     {
-        Patient p = new Patient
-        {
-            Name = "Aarav",
-            Id = 1,
-            Disease = "Fever"
-        };
+        Student s = new Student("Aarav", 101, "B.Tech");
+        Professor p = new Professor("Dr. Sharma", 201, "Maths");
 
-        Doctor d = new Doctor
-        {
-            Name = "Dr. Sharma",
-            Id = 101,
-            Specialization = "Physician"
-        };
-
-        Appointment a = new Appointment
-        {
-            Patient = p,
-            Doctor = d,
-            Date = DateTime.Now
-        };
-
-        a.ShowAppointment();
+        s.Display();
+        p.Display();
     }
 }
