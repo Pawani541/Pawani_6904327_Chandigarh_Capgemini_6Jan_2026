@@ -1,61 +1,53 @@
 ﻿using System;
 
-class LuckyString
+class LuckyNumber
 {
+    // Function to calculate sum of digits
+    static int SumOfDigits(int num)
+    {
+        int sum = 0;
+        while (num > 0)
+        {
+            sum += num % 10;
+            num /= 10;
+        }
+        return sum;
+    }
+
+    // Function to check prime
+    static bool IsPrime(int num)
+    {
+        if (num <= 1) return false;
+        for (int i = 2; i <= Math.Sqrt(num); i++)
+        {
+            if (num % i == 0)
+                return false;
+        }
+        return true;
+    }
+
     static void Main()
     {
+        int m = int.Parse(Console.ReadLine());
         int n = int.Parse(Console.ReadLine());
-        string str = Console.ReadLine();
 
-        // Invalid case
-        if (n > str.Length)
+        int count = 0;
+
+        for (int x = m; x <= n; x++)
         {
-            Console.WriteLine("Invalid");
-            return;
-        }
-
-        int required = n / 2;
-
-        // Check all substrings of length n
-        for (int i = 0; i <= str.Length - n; i++)
-        {
-            string sub = str.Substring(i, n);
-
-            // Check condition 1: only P, S, G
-            bool validChars = true;
-            foreach (char c in sub)
+            // Only non-prime numbers
+            if (!IsPrime(x))
             {
-                if (c != 'P' && c != 'S' && c != 'G')
-                {
-                    validChars = false;
-                    break;
-                }
-            }
+                int sumX = SumOfDigits(x);
+                int sumXSq = SumOfDigits(x * x);
 
-            if (!validChars)
-                continue;
-
-            // Check condition 2: at least n/2 consecutive P or S or G
-            int count = 1;
-            for (int j = 1; j < sub.Length; j++)
-            {
-                if (sub[j] == sub[j - 1])
+                if (sumXSq == sumX * sumX)
                 {
                     count++;
-                    if (count >= required)
-                    {
-                        Console.WriteLine("Yes");
-                        return;
-                    }
-                }
-                else
-                {
-                    count = 1;
                 }
             }
         }
 
-        // If no lucky substring found
-        Console.WriteLine("No");
+        Console.WriteLine(count);
     }
 }
