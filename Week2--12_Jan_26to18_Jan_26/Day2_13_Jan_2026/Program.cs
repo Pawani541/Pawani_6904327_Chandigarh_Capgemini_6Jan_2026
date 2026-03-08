@@ -2,35 +2,36 @@
 
 class Program
 {
+    static bool IsPrime(int num)
+    {
+        if (num <= 1) return false;
+        for (int i = 2; i * i <= num; i++)
+        {
+            if (num % i == 0) return false;
+        }
+        return true;
+    }
+
     static void Main()
     {
-        int[] input1 = { 1, 2, 2, 3, 3 };
-        int input2 = 5;
-        int input3 = 2;
+        int input = 20;
+        long output = 0;
 
-        int output = 0;
-
-        if (input2 < 0)
+        if (input < 0)
+        {
+            output = -1;
+        }
+        else if (input > 32767)
         {
             output = -2;
         }
-        else if (input3 < 0)
-        {
-            output = -3;
-        }
         else
         {
-            for (int i = 0; i < input2; i++)
+            for (int i = 2; i <= input; i++)
             {
-                if (input1[i] < 0)
+                if (IsPrime(i))
                 {
-                    output = -1;
-                    break;
-                }
-
-                if (input1[i] == input3)
-                {
-                    output++;
+                    output += (long)i * i * i;
                 }
             }
         }
