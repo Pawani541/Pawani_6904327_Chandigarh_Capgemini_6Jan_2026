@@ -1,26 +1,26 @@
 ﻿using System;
 
-class SumPrime
+class SwapMid
 {
-    static bool IsPrime(int n)
-    {
-        if (n < 2) return false;
-        for (int i = 2; i * i <= n; i++)
-            if (n % i == 0) return false;
-        return true;
-    }
-
     static void Main()
     {
         Console.Write("Enter size of array: ");
         int size = int.Parse(Console.ReadLine());
-        int output = 0;
+        int[] output;
 
-        if (size < 0) output = -2;
+        if (size < 0)
+        {
+            output = new int[] { -2 };
+        }
+        else if (size % 2 == 0)
+        {
+            output = new int[] { -3 };
+        }
         else
         {
             int[] arr = new int[size];
-            bool neg = false, found = false;
+            bool neg = false;
+            output = new int[size];
 
             Console.WriteLine("Enter elements:");
             for (int i = 0; i < size; i++)
@@ -30,20 +30,16 @@ class SumPrime
                 if (arr[i] < 0) neg = true;
             }
 
-            if (neg) output = -1;
+            if (neg) output[0] = -1;
             else
             {
-                foreach (int v in arr)
-                {
-                    if (IsPrime(v))
-                    {
-                        output += v;
-                        found = true;
-                    }
-                }
-                if (!found) output = -3;
+                int mid = size / 2;
+                for (int i = 0; i < size; i++)
+                    output[i] = arr[size - 1 - i];
             }
         }
-        Console.WriteLine("Output: " + output);
+
+        Console.Write("Output: ");
+        foreach (int x in output) Console.Write(x + " ");
     }
 }
