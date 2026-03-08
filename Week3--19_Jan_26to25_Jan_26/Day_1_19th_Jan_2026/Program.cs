@@ -1,37 +1,37 @@
 ﻿using System;
 
-class GameCharacter 
+class HospitalPerson  
 {
     public string Name { get; set; }
-    public int Health { get; set; }
-
-    public virtual void Attack()
-    {
-        Console.WriteLine(Name + " attacks!");
-    }
+    public int Id { get; set; }
 }
 
-class Warrior : GameCharacter
+class Patient : HospitalPerson
 {
-    public override void Attack()
-    {
-        Console.WriteLine(Name + " swings a sword!");
-    }
+    public string Disease { get; set; }
 }
 
-class Mage : GameCharacter
+class Doctor : HospitalPerson
 {
-    public override void Attack()
-    {
-        Console.WriteLine(Name + " casts a fireball!");
-    }
+    public string Specialization { get; set; }
 }
 
-class Archer : GameCharacter
+class Nurse : HospitalPerson
 {
-    public override void Attack()
+    public string Shift { get; set; }
+}
+
+class Appointment
+{
+    public Patient Patient;
+    public Doctor Doctor;
+    public DateTime Date;
+
+    public void ShowAppointment()
     {
-        Console.WriteLine(Name + " shoots an arrow!");
+        Console.WriteLine("Patient: " + Patient.Name);
+        Console.WriteLine("Doctor: " + Doctor.Name);
+        Console.WriteLine("Date: " + Date.ToShortDateString());
     }
 }
 
@@ -39,12 +39,27 @@ class Program
 {
     static void Main()
     {
-        GameCharacter c1 = new Warrior { Name = "Thor", Health = 100 };
-        GameCharacter c2 = new Mage { Name = "Merlin", Health = 80 };
-        GameCharacter c3 = new Archer { Name = "Robin", Health = 90 };
+        Patient p = new Patient
+        {
+            Name = "Aarav",
+            Id = 1,
+            Disease = "Fever"
+        };
 
-        c1.Attack();
-        c2.Attack();
-        c3.Attack();
+        Doctor d = new Doctor
+        {
+            Name = "Dr. Sharma",
+            Id = 101,
+            Specialization = "Physician"
+        };
+
+        Appointment a = new Appointment
+        {
+            Patient = p,
+            Doctor = d,
+            Date = DateTime.Now
+        };
+
+        a.ShowAppointment();
     }
 }
