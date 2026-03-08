@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class RemoveNegSort
+class RemoveRepeats
 {
     static void Main()
     {
@@ -16,19 +16,28 @@ class RemoveNegSort
         else
         {
             int[] arr = new int[size];
-            List<int> list = new List<int>();
+            bool neg = false;
+            List<int> unique = new List<int>();
 
             Console.WriteLine("Enter elements:");
             for (int i = 0; i < size; i++)
             {
                 Console.Write("arr[" + i + "] = ");
                 arr[i] = int.Parse(Console.ReadLine());
-                if (arr[i] >= 0)
-                    list.Add(arr[i]);
+                if (arr[i] < 0) neg = true;
             }
 
-            list.Sort();
-            output = list.ToArray();
+            if (neg)
+            {
+                output = new int[] { -1 };
+            }
+            else
+            {
+                foreach (int v in arr)
+                    if (!unique.Contains(v))
+                        unique.Add(v);
+                output = unique.ToArray();
+            }
         }
 
         Console.Write("Output: ");
