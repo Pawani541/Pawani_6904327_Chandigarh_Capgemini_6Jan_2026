@@ -1,36 +1,31 @@
 ﻿using System;
-using System.Collections.Generic;
 
-class MaxRepeat
+class MultiplyPositives
 {
     static void Main()
     {
         Console.Write("Enter size of array: ");
         int size = int.Parse(Console.ReadLine());
+        int output1 = 1;
 
-        int[] arr = new int[size];
-        Dictionary<int, int> freq = new Dictionary<int, int>();
-
-        Console.WriteLine("Enter array elements:");
-        for (int i = 0; i < size; i++)
+        if (size < 0)
         {
-            Console.Write("arr[" + i + "] = ");
-            arr[i] = int.Parse(Console.ReadLine());
+            output1 = -2;
+        }
+        else
+        {
+            int[] arr = new int[size];
+            Console.WriteLine("Enter array elements:");
 
-            if (freq.ContainsKey(arr[i]))
-                freq[arr[i]]++;
-            else
-                freq[arr[i]] = 1;
+            for (int i = 0; i < size; i++)
+            {
+                Console.Write("arr[" + i + "] = ");
+                arr[i] = int.Parse(Console.ReadLine());
+                if (arr[i] > 0)
+                    output1 *= arr[i];
+            }
         }
 
-        int maxCount = 0;
-        foreach (var p in freq)
-            if (p.Value > maxCount)
-                maxCount = p.Value;
-
-        Console.WriteLine("\nOutput elements:");
-        foreach (var p in freq)
-            if (p.Value == maxCount)
-                Console.Write(p.Key + " ");
+        Console.WriteLine("\nOutput: " + output1);
     }
 }
