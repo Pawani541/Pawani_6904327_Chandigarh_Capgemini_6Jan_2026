@@ -1,41 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
 
-class RemoveDup
+class CubePrime
 {
+    static bool IsPrime(int n)
+    {
+        if (n < 2) return false;
+        for (int i = 2; i * i <= n; i++)
+            if (n % i == 0) return false;
+        return true;
+    }
+
     static void Main()
     {
-        Console.Write("Enter size: ");
-        int size = int.Parse(Console.ReadLine());
-        List<int> unique = new List<int>();
+        Console.Write("Enter limit n: ");
+        int n = int.Parse(Console.ReadLine());
+        int output = 0;
 
-        if (size < 0)
+        if (n < 0) output = -1;
+        else if (n > 7) output = -1;
+        else
         {
-            Console.WriteLine("-2");
-            return;
+            for (int i = 1; i <= n; i++)
+                if (IsPrime(i))
+                    output += i * i * i;
         }
-
-        int[] arr = new int[size];
-        bool neg = false;
-        Console.WriteLine("Enter elements:");
-        for (int i = 0; i < size; i++)
-        {
-            Console.Write("arr[" + i + "] = ");
-            arr[i] = int.Parse(Console.ReadLine());
-            if (arr[i] < 0) neg = true;
-        }
-
-        if (neg)
-        {
-            Console.WriteLine("-1");
-            return;
-        }
-
-        foreach (int v in arr)
-            if (!unique.Contains(v))
-                unique.Add(v);
-
-        Console.Write("Output: ");
-        foreach (int x in unique) Console.Write(x + " ");
+        Console.WriteLine("Output: " + output);
     }
 }
