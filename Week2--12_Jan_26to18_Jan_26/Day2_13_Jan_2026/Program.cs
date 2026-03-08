@@ -4,30 +4,37 @@ class Program
 {
     static void Main()
     {
-        int[] arr = { 5, 7, 9, 12 };
-        int size = arr.Length;
-        int search = 7;
-        int output = -3;
+        int[] input1 = { 1, 2, 2, 3, 3 };
+        int input2 = 5;
+        int input3 = 2;
 
-        if (size < 0)
+        int output = 0;
+
+        if (input2 < 0)
         {
             output = -2;
         }
+        else if (input3 < 0)
+        {
+            output = -3;
+        }
         else
         {
-            for (int i = 0; i < size; i++)
+            for (int i = 0; i < input2; i++)
             {
-                if (arr[i] < 0)
+                if (input1[i] < 0)
                 {
                     output = -1;
                     break;
                 }
-                if (arr[i] == search)
+
+                if (input1[i] == input3)
                 {
-                    output = 1;
+                    output++;
                 }
             }
         }
+
         Console.WriteLine("Output: " + output);
     }
 }
