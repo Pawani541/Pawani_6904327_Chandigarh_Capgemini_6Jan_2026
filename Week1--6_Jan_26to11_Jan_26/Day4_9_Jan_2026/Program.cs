@@ -1,24 +1,55 @@
 ﻿using System;
-class Armstrong
+
+class CompareArrays
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());
-        int output1 = 0;
+        Console.Write("Enter size of both arrays: ");
+        int size = int.Parse(Console.ReadLine());
 
-        if (n < 0) output1 = -1;
-        else if (n > 999) output1 = -2;
+        int[] a = new int[size];
+        int[] b = new int[size];
+        int[] output = new int[size];
+
+        if (size < 0)
+        {
+            output[0] = -2;
+        }
         else
         {
-            int temp = n, sum = 0;
-            while (temp > 0)
+            bool neg = false;
+
+            Console.WriteLine("Enter first array values:");
+            for (int i = 0; i < size; i++)
             {
-                int digit = temp % 10;
-                sum += digit * digit * digit;
-                temp /= 10;
+                Console.Write("a[" + i + "] = ");
+                a[i] = int.Parse(Console.ReadLine());
+                if (a[i] < 0) neg = true;
             }
-            output1 = (sum == n) ? 1 : 0;
+
+            Console.WriteLine("\nEnter second array values:");
+            for (int i = 0; i < size; i++)
+            {
+                Console.Write("b[" + i + "] = ");
+                b[i] = int.Parse(Console.ReadLine());
+                if (b[i] < 0) neg = true;
+            }
+
+            if (neg)
+            {
+                output[0] = -1;
+            }
+            else
+            {
+                for (int i = 0; i < size; i++)
+                {
+                    output[i] = Math.Max(a[i], b[i]);
+                }
+            }
         }
-        Console.WriteLine(output1);
+
+        Console.WriteLine("\nOutput array:");
+        foreach (int v in output)
+            Console.Write(v + " ");
     }
 }
