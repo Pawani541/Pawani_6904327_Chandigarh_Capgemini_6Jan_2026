@@ -1,32 +1,75 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Threading;
 
-class DataImport
+class OrderProcessing
 {
-    static void Main()
+    static int ProcessedCount = 0;
+    static int Revenue = 0;
+    static object locker = new object();
+    static Queue<int> orders = new Queue<int>();
+
+    static bool useLock = true;
+
+    static void Worker()
     {
-        Console.WriteLine("Enter total records:");
-        int total = int.Parse(Console.ReadLine());
-
-        int imported = 0;
-
-        for (int i = 1; i <= total; i++)
+        while (true)
         {
-            Thread.Sleep(10);
-            imported++;
-
-            if (imported % 100 == 0)
-                Console.WriteLine("Imported: " + imported);
-
-            if (Console.KeyAvailable)
+            int price;
+            lock (orders)
             {
-                Console.ReadKey(true);
-                Console.WriteLine("\nImport Cancelled!");
-                return;
+                if (orders.Count == 0)
+                    return;
+                price = orders.Dequeue();
+            }
+
+            if (useLock)
+            {
+                lock (locker)
+                {
+                    ProcessedCount++;
+                    Revenue += price;
+                }
+            }
+            else
+            {
+                ProcessedCount++;
+                Revenue += price;
             }
         }
+    }
 
-        Console.WriteLine("\nImport Completed!");
-        Console.WriteLine("Total Imported = " + imported);
+    static void Main()
+    {
+        Console.WriteLine("Enter number of workers:");
+        int workers = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter total number of orders:");
+        int totalOrders = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter price per order:");
+        int pricePerOrder = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Use lock? (yes/no):");
+        string choice = Console.ReadLine();
+        useLock = choice.ToLower() == "yes";
+
+        for (int i = 0; i < totalOrders; i++)
+            orders.Enqueue(pricePerOrder);
+
+        Thread[] threads = new Thread[workers];
+
+        for (int i = 0; i < workers; i++)
+        {
+            threads[i] = new Thread(Worker);
+            threads[i].Start();
+        }
+
+        foreach (Thread t in threads)
+            t.Join();
+
+        Console.WriteLine("\nFinal Output:");
+        Console.WriteLine("ProcessedCount = " + ProcessedCount);
+        Console.WriteLine("Revenue = " + Revenue);
     }
 }
