@@ -4,13 +4,22 @@ class Program
 {
     static void Main()
     {
-        for (int i = 7; i >= 1; i--)
-        {
-            for (int j = 1; j <= i; j++)
-            {
-                Console.Write("*");
-            }
-            Console.WriteLine();
-        }
+        Console.Write("Enter marks (0-100): ");
+        int marks = int.Parse(Console.ReadLine());
+
+        char grade;
+
+        if (marks >= 90)
+            grade = 'A';
+        else if (marks >= 80)
+            grade = 'B';
+        else if (marks >= 70)
+            grade = 'C';
+        else if (marks >= 60)
+            grade = 'D';
+        else
+            grade = 'F';
+
+        Console.WriteLine("Your Grade is: " + grade);
     }
 }
