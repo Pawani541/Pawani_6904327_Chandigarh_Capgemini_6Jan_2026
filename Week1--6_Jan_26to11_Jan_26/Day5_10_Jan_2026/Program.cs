@@ -1,14 +1,14 @@
 ﻿using System;
 
-class CountMultiples3
+class Count3Array
 {
     static void Main()
     {
-        Console.Write("Enter size of array: ");
+        Console.Write("Enter size: ");
         int size = int.Parse(Console.ReadLine());
         int output = 0;
 
-        if (size < 0) output = -2;
+        if (size < 0) output = -1;
         else
         {
             int[] arr = new int[size];
@@ -24,10 +24,8 @@ class CountMultiples3
 
             if (neg) output = -1;
             else
-            {
                 foreach (int v in arr)
                     if (v % 3 == 0) output++;
-            }
         }
         Console.WriteLine("Output: " + output);
     }
