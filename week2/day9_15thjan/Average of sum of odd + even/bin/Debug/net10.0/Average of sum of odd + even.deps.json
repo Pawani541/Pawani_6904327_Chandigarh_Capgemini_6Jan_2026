@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Average of sum of odd + even/1.0.0": {
+        "runtime": {
+          "Average of sum of odd + even.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Average of sum of odd + even/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\bin\Debug\net10.0\String array numeric check.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\bin\Debug\net10.0\String array numeric check.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\bin\Debug\net10.0\String array numeric check.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\bin\Debug\net10.0\String array numeric check.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\bin\Debug\net10.0\String array numeric check.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\obj\Debug\net10.0\String array numeric check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\obj\Debug\net10.0\String array numeric check.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\obj\Debug\net10.0\String array numeric check.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\obj\Debug\net10.0\String array numeric check.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\obj\Debug\net10.0\String array numeric check.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\obj\Debug\net10.0\refint\String array numeric check.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\obj\Debug\net10.0\String array numeric check.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\obj\Debug\net10.0\String array numeric check.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\String array numeric check\obj\Debug\net10.0\ref\String array numeric check.dll

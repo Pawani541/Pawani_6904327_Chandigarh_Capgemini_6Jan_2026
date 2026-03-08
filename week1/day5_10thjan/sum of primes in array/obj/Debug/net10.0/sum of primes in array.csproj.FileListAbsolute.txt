@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\bin\Debug\net10.0\sum of primes in array.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\bin\Debug\net10.0\sum of primes in array.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\bin\Debug\net10.0\sum of primes in array.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\bin\Debug\net10.0\sum of primes in array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\bin\Debug\net10.0\sum of primes in array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\obj\Debug\net10.0\sum of primes in array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\obj\Debug\net10.0\sum of primes in array.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\obj\Debug\net10.0\sum of primes in array.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\obj\Debug\net10.0\sum of primes in array.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\obj\Debug\net10.0\sum of primes in array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\obj\Debug\net10.0\refint\sum of primes in array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\obj\Debug\net10.0\sum of primes in array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\obj\Debug\net10.0\sum of primes in array.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\sum of primes in array\obj\Debug\net10.0\ref\sum of primes in array.dll

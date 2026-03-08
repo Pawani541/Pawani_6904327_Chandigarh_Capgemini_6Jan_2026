@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\bin\Debug\net10.0\Invoice Number Update.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\bin\Debug\net10.0\Invoice Number Update.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\bin\Debug\net10.0\Invoice Number Update.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\bin\Debug\net10.0\Invoice Number Update.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\bin\Debug\net10.0\Invoice Number Update.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\obj\Debug\net10.0\Invoice Number Update.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\obj\Debug\net10.0\Invoice Number Update.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\obj\Debug\net10.0\Invoice Number Update.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\obj\Debug\net10.0\Invoice Number Update.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\obj\Debug\net10.0\Invoice Number Update.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\obj\Debug\net10.0\refint\Invoice Number Update.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\obj\Debug\net10.0\Invoice Number Update.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\obj\Debug\net10.0\Invoice Number Update.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Invoice Number Update\obj\Debug\net10.0\ref\Invoice Number Update.dll

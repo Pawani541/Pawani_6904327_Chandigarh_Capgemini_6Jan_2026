@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\bin\Debug\net10.0\add two arrays.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\bin\Debug\net10.0\add two arrays.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\bin\Debug\net10.0\add two arrays.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\bin\Debug\net10.0\add two arrays.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\bin\Debug\net10.0\add two arrays.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\obj\Debug\net10.0\add two arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\obj\Debug\net10.0\add two arrays.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\obj\Debug\net10.0\add two arrays.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\obj\Debug\net10.0\add two arrays.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\obj\Debug\net10.0\add two arrays.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\obj\Debug\net10.0\refint\add two arrays.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\obj\Debug\net10.0\add two arrays.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\obj\Debug\net10.0\add two arrays.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\add two arrays\obj\Debug\net10.0\ref\add two arrays.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\bin\Debug\net10.0\Ball passing game (last second).exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\bin\Debug\net10.0\Ball passing game (last second).deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\bin\Debug\net10.0\Ball passing game (last second).runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\bin\Debug\net10.0\Ball passing game (last second).dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\bin\Debug\net10.0\Ball passing game (last second).pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\obj\Debug\net10.0\Ball passing game (last second).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\obj\Debug\net10.0\Ball passing game (last second).AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\obj\Debug\net10.0\Ball passing game (last second).AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\obj\Debug\net10.0\Ball passing game (last second).csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\obj\Debug\net10.0\Ball passing game (last second).dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\obj\Debug\net10.0\refint\Ball passing game (last second).dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\obj\Debug\net10.0\Ball passing game (last second).pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\obj\Debug\net10.0\Ball passing game (last second).genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Ball passing game (last second)\obj\Debug\net10.0\ref\Ball passing game (last second).dll

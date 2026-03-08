@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\bin\Debug\net10.0\detect key press.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\bin\Debug\net10.0\detect key press.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\bin\Debug\net10.0\detect key press.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\bin\Debug\net10.0\detect key press.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\bin\Debug\net10.0\detect key press.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\obj\Debug\net10.0\detect key press.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\obj\Debug\net10.0\detect key press.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\obj\Debug\net10.0\detect key press.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\obj\Debug\net10.0\detect key press.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\obj\Debug\net10.0\detect key press.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\obj\Debug\net10.0\refint\detect key press.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\obj\Debug\net10.0\detect key press.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\obj\Debug\net10.0\detect key press.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\detect key press\obj\Debug\net10.0\ref\detect key press.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\bin\Debug\net10.0\LuckyNo..exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\bin\Debug\net10.0\LuckyNo..deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\bin\Debug\net10.0\LuckyNo..runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\bin\Debug\net10.0\LuckyNo..dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\bin\Debug\net10.0\LuckyNo..pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\obj\Debug\net10.0\LuckyNo..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\obj\Debug\net10.0\LuckyNo..AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\obj\Debug\net10.0\LuckyNo..AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\obj\Debug\net10.0\LuckyNo..csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\obj\Debug\net10.0\LuckyNo..dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\obj\Debug\net10.0\refint\LuckyNo..dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\obj\Debug\net10.0\LuckyNo..pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\obj\Debug\net10.0\LuckyNo..genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\LuckyNo\obj\Debug\net10.0\ref\LuckyNo..dll

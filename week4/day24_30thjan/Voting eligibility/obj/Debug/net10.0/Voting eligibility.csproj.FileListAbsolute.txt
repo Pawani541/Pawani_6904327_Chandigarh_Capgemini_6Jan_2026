@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\bin\Debug\net10.0\Voting eligibility.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\bin\Debug\net10.0\Voting eligibility.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\bin\Debug\net10.0\Voting eligibility.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\bin\Debug\net10.0\Voting eligibility.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\bin\Debug\net10.0\Voting eligibility.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\obj\Debug\net10.0\Voting eligibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\obj\Debug\net10.0\Voting eligibility.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\obj\Debug\net10.0\Voting eligibility.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\obj\Debug\net10.0\Voting eligibility.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\obj\Debug\net10.0\Voting eligibility.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\obj\Debug\net10.0\refint\Voting eligibility.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\obj\Debug\net10.0\Voting eligibility.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\obj\Debug\net10.0\Voting eligibility.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Voting eligibility\obj\Debug\net10.0\ref\Voting eligibility.dll

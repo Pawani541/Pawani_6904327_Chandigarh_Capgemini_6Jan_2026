@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\academicrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:academicrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\seniorstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:seniorstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\studentregistrationsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:studentregistrationsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week1\\studentregistrationsystem\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CE490A-39D3-2A3C-D47C-72B4C94E0299}|StudentRegistrationSystem.csproj|solutionrelative:fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AcademicRecord.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\AcademicRecord.cs",
+              "RelativeDocumentMoniker": "AcademicRecord.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\AcademicRecord.cs",
+              "RelativeToolTip": "AcademicRecord.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:09:00.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeniorStudent.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\SeniorStudent.cs",
+              "RelativeDocumentMoniker": "SeniorStudent.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\SeniorStudent.cs",
+              "RelativeToolTip": "SeniorStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:50:15.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRegistrationSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\StudentRegistrationSystem.csproj",
+              "RelativeDocumentMoniker": "StudentRegistrationSystem.csproj",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\StudentRegistrationSystem.csproj",
+              "RelativeToolTip": "StudentRegistrationSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T07:29:01.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv2QAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T07:23:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Registration.cs",
+              "RelativeToolTip": "Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T07:26:34.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Marks.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Marks.cs",
+              "RelativeDocumentMoniker": "Marks.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Marks.cs",
+              "RelativeToolTip": "Marks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T07:32:49.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:11:11.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:22:50.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\StudentValidator.cs",
+              "RelativeDocumentMoniker": "StudentValidator.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\StudentValidator.cs",
+              "RelativeToolTip": "StudentValidator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:22:17.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Exam.cs",
+              "RelativeToolTip": "Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:12:16.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fees.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Fees.cs",
+              "RelativeDocumentMoniker": "Fees.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week1\\StudentRegistrationSystem\\Fees.cs",
+              "RelativeToolTip": "Fees.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:00:14.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

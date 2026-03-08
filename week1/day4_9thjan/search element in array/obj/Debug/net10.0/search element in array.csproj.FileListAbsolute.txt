@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\bin\Debug\net10.0\search element in array.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\bin\Debug\net10.0\search element in array.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\bin\Debug\net10.0\search element in array.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\bin\Debug\net10.0\search element in array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\bin\Debug\net10.0\search element in array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\obj\Debug\net10.0\search element in array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\obj\Debug\net10.0\search element in array.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\obj\Debug\net10.0\search element in array.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\obj\Debug\net10.0\search element in array.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\obj\Debug\net10.0\search element in array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\obj\Debug\net10.0\refint\search element in array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\obj\Debug\net10.0\search element in array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\obj\Debug\net10.0\search element in array.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\search element in array\obj\Debug\net10.0\ref\search element in array.dll

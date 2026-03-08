@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\bin\Debug\net10.0\Salary Savings.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\bin\Debug\net10.0\Salary Savings.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\bin\Debug\net10.0\Salary Savings.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\bin\Debug\net10.0\Salary Savings.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\bin\Debug\net10.0\Salary Savings.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\obj\Debug\net10.0\Salary Savings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\obj\Debug\net10.0\Salary Savings.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\obj\Debug\net10.0\Salary Savings.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\obj\Debug\net10.0\Salary Savings.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\obj\Debug\net10.0\Salary Savings.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\obj\Debug\net10.0\refint\Salary Savings.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\obj\Debug\net10.0\Salary Savings.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\obj\Debug\net10.0\Salary Savings.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Salary Savings\obj\Debug\net10.0\ref\Salary Savings.dll

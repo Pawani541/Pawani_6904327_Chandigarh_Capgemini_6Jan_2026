@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\bin\Debug\net10.0\Func.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\bin\Debug\net10.0\Func.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\bin\Debug\net10.0\Func.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\bin\Debug\net10.0\Func.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\bin\Debug\net10.0\Func.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\obj\Debug\net10.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\obj\Debug\net10.0\Func.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\obj\Debug\net10.0\Func.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\obj\Debug\net10.0\Func.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\obj\Debug\net10.0\Func.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\obj\Debug\net10.0\refint\Func.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\obj\Debug\net10.0\Func.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\obj\Debug\net10.0\Func.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Func\obj\Debug\net10.0\ref\Func.dll

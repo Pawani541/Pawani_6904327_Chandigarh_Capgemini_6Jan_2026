@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\bin\Debug\net10.0\Employee List.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\bin\Debug\net10.0\Employee List.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\bin\Debug\net10.0\Employee List.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\bin\Debug\net10.0\Employee List.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\bin\Debug\net10.0\Employee List.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\obj\Debug\net10.0\Employee List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\obj\Debug\net10.0\Employee List.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\obj\Debug\net10.0\Employee List.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\obj\Debug\net10.0\Employee List.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\obj\Debug\net10.0\Employee List.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\obj\Debug\net10.0\refint\Employee List.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\obj\Debug\net10.0\Employee List.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\obj\Debug\net10.0\Employee List.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Employee List\obj\Debug\net10.0\ref\Employee List.dll

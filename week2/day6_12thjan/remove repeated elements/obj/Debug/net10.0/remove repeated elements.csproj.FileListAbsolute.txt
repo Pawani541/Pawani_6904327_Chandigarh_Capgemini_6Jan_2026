@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\bin\Debug\net10.0\remove repeated elements.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\bin\Debug\net10.0\remove repeated elements.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\bin\Debug\net10.0\remove repeated elements.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\bin\Debug\net10.0\remove repeated elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\bin\Debug\net10.0\remove repeated elements.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\obj\Debug\net10.0\remove repeated elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\obj\Debug\net10.0\remove repeated elements.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\obj\Debug\net10.0\remove repeated elements.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\obj\Debug\net10.0\remove repeated elements.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\obj\Debug\net10.0\remove repeated elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\obj\Debug\net10.0\refint\remove repeated elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\obj\Debug\net10.0\remove repeated elements.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\obj\Debug\net10.0\remove repeated elements.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day6_12thjan\remove repeated elements\obj\Debug\net10.0\ref\remove repeated elements.dll

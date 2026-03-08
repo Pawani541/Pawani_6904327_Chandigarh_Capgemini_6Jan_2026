@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\bin\Debug\net10.0\Student Grading.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\bin\Debug\net10.0\Student Grading.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\bin\Debug\net10.0\Student Grading.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\bin\Debug\net10.0\Student Grading.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\bin\Debug\net10.0\Student Grading.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\obj\Debug\net10.0\Student Grading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\obj\Debug\net10.0\Student Grading.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\obj\Debug\net10.0\Student Grading.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\obj\Debug\net10.0\Student Grading.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\obj\Debug\net10.0\Student Grading.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\obj\Debug\net10.0\refint\Student Grading.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\obj\Debug\net10.0\Student Grading.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\obj\Debug\net10.0\Student Grading.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Student Grading\obj\Debug\net10.0\ref\Student Grading.dll

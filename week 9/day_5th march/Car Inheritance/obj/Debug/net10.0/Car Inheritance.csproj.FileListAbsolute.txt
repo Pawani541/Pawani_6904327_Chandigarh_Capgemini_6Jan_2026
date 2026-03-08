@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\bin\Debug\net10.0\Car Inheritance.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\bin\Debug\net10.0\Car Inheritance.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\bin\Debug\net10.0\Car Inheritance.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\bin\Debug\net10.0\Car Inheritance.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\bin\Debug\net10.0\Car Inheritance.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\obj\Debug\net10.0\Car Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\obj\Debug\net10.0\Car Inheritance.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\obj\Debug\net10.0\Car Inheritance.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\obj\Debug\net10.0\Car Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\obj\Debug\net10.0\Car Inheritance.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\obj\Debug\net10.0\refint\Car Inheritance.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\obj\Debug\net10.0\Car Inheritance.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\obj\Debug\net10.0\Car Inheritance.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Car Inheritance\obj\Debug\net10.0\ref\Car Inheritance.dll

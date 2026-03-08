@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\obj\Debug\net10.0\Count Valid Couples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\obj\Debug\net10.0\Count Valid Couples.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\obj\Debug\net10.0\Count Valid Couples.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\obj\Debug\net10.0\Count Valid Couples.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\bin\Debug\net10.0\Count Valid Couples.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\bin\Debug\net10.0\Count Valid Couples.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\bin\Debug\net10.0\Count Valid Couples.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\bin\Debug\net10.0\Count Valid Couples.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\bin\Debug\net10.0\Count Valid Couples.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\obj\Debug\net10.0\Count Valid Couples.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\obj\Debug\net10.0\refint\Count Valid Couples.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\obj\Debug\net10.0\Count Valid Couples.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\obj\Debug\net10.0\Count Valid Couples.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Count Valid Couples\obj\Debug\net10.0\ref\Count Valid Couples.dll

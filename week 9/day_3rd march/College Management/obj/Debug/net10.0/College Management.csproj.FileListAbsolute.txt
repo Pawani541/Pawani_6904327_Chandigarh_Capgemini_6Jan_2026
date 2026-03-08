@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\bin\Debug\net10.0\College Management.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\bin\Debug\net10.0\College Management.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\bin\Debug\net10.0\College Management.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\bin\Debug\net10.0\College Management.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\bin\Debug\net10.0\College Management.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\obj\Debug\net10.0\College Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\obj\Debug\net10.0\College Management.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\obj\Debug\net10.0\College Management.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\obj\Debug\net10.0\College Management.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\obj\Debug\net10.0\College Management.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\obj\Debug\net10.0\refint\College Management.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\obj\Debug\net10.0\College Management.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\obj\Debug\net10.0\College Management.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\College Management\obj\Debug\net10.0\ref\College Management.dll

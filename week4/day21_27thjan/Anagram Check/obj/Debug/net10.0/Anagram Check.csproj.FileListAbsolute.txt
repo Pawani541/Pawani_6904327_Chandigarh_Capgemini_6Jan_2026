@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\bin\Debug\net10.0\Anagram Check.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\bin\Debug\net10.0\Anagram Check.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\bin\Debug\net10.0\Anagram Check.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\bin\Debug\net10.0\Anagram Check.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\bin\Debug\net10.0\Anagram Check.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\obj\Debug\net10.0\Anagram Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\obj\Debug\net10.0\Anagram Check.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\obj\Debug\net10.0\Anagram Check.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\obj\Debug\net10.0\Anagram Check.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\obj\Debug\net10.0\Anagram Check.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\obj\Debug\net10.0\refint\Anagram Check.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\obj\Debug\net10.0\Anagram Check.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\obj\Debug\net10.0\Anagram Check.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Anagram Check\obj\Debug\net10.0\ref\Anagram Check.dll

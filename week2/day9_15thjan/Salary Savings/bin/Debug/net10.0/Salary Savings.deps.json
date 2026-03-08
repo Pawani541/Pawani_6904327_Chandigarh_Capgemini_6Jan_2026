@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Salary Savings/1.0.0": {
+        "runtime": {
+          "Salary Savings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Salary Savings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

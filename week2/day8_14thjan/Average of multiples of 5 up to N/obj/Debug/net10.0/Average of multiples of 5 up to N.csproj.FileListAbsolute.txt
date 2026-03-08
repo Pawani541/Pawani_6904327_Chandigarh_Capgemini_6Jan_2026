@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\bin\Debug\net10.0\Average of multiples of 5 up to N.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\bin\Debug\net10.0\Average of multiples of 5 up to N.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\bin\Debug\net10.0\Average of multiples of 5 up to N.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\bin\Debug\net10.0\Average of multiples of 5 up to N.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\bin\Debug\net10.0\Average of multiples of 5 up to N.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\obj\Debug\net10.0\Average of multiples of 5 up to N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\obj\Debug\net10.0\Average of multiples of 5 up to N.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\obj\Debug\net10.0\Average of multiples of 5 up to N.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\obj\Debug\net10.0\Average of multiples of 5 up to N.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\obj\Debug\net10.0\Average of multiples of 5 up to N.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\obj\Debug\net10.0\refint\Average of multiples of 5 up to N.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\obj\Debug\net10.0\Average of multiples of 5 up to N.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\obj\Debug\net10.0\Average of multiples of 5 up to N.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Average of multiples of 5 up to N\obj\Debug\net10.0\ref\Average of multiples of 5 up to N.dll

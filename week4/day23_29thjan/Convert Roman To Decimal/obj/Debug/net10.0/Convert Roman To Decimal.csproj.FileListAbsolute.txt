@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\bin\Debug\net10.0\Convert Roman To Decimal.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\bin\Debug\net10.0\Convert Roman To Decimal.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\bin\Debug\net10.0\Convert Roman To Decimal.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\bin\Debug\net10.0\Convert Roman To Decimal.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\bin\Debug\net10.0\Convert Roman To Decimal.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\obj\Debug\net10.0\Convert Roman To Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\obj\Debug\net10.0\Convert Roman To Decimal.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\obj\Debug\net10.0\Convert Roman To Decimal.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\obj\Debug\net10.0\Convert Roman To Decimal.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\obj\Debug\net10.0\Convert Roman To Decimal.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\obj\Debug\net10.0\refint\Convert Roman To Decimal.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\obj\Debug\net10.0\Convert Roman To Decimal.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\obj\Debug\net10.0\Convert Roman To Decimal.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Convert Roman To Decimal\obj\Debug\net10.0\ref\Convert Roman To Decimal.dll

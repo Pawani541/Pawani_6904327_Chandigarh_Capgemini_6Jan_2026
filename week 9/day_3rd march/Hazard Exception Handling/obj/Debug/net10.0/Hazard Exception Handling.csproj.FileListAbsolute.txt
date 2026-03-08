@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\bin\Debug\net10.0\Hazard Exception Handling.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\bin\Debug\net10.0\Hazard Exception Handling.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\bin\Debug\net10.0\Hazard Exception Handling.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\bin\Debug\net10.0\Hazard Exception Handling.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\bin\Debug\net10.0\Hazard Exception Handling.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\obj\Debug\net10.0\Hazard Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\obj\Debug\net10.0\Hazard Exception Handling.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\obj\Debug\net10.0\Hazard Exception Handling.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\obj\Debug\net10.0\Hazard Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\obj\Debug\net10.0\Hazard Exception Handling.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\obj\Debug\net10.0\refint\Hazard Exception Handling.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\obj\Debug\net10.0\Hazard Exception Handling.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\obj\Debug\net10.0\Hazard Exception Handling.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_3rd march\Hazard Exception Handling\obj\Debug\net10.0\ref\Hazard Exception Handling.dll

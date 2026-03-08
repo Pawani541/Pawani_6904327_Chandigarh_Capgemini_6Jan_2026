@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\bin\Debug\net10.0\Palindrome.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\bin\Debug\net10.0\Palindrome.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\bin\Debug\net10.0\Palindrome.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\bin\Debug\net10.0\Palindrome.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\bin\Debug\net10.0\Palindrome.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\obj\Debug\net10.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\obj\Debug\net10.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\obj\Debug\net10.0\Palindrome.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\obj\Debug\net10.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\obj\Debug\net10.0\Palindrome.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\obj\Debug\net10.0\refint\Palindrome.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\obj\Debug\net10.0\Palindrome.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\obj\Debug\net10.0\Palindrome.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Palindrome\obj\Debug\net10.0\ref\Palindrome.dll

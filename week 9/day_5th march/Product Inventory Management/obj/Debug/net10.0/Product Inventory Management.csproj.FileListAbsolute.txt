@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\bin\Debug\net10.0\Product Inventory Management.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\bin\Debug\net10.0\Product Inventory Management.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\bin\Debug\net10.0\Product Inventory Management.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\bin\Debug\net10.0\Product Inventory Management.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\bin\Debug\net10.0\Product Inventory Management.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\obj\Debug\net10.0\refint\Product Inventory Management.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Product Inventory Management\obj\Debug\net10.0\ref\Product Inventory Management.dll

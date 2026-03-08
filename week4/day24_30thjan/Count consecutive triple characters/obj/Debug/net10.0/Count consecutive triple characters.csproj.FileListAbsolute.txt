@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\bin\Debug\net10.0\Count consecutive triple characters.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\bin\Debug\net10.0\Count consecutive triple characters.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\bin\Debug\net10.0\Count consecutive triple characters.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\bin\Debug\net10.0\Count consecutive triple characters.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\bin\Debug\net10.0\Count consecutive triple characters.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\obj\Debug\net10.0\Count consecutive triple characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\obj\Debug\net10.0\Count consecutive triple characters.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\obj\Debug\net10.0\Count consecutive triple characters.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\obj\Debug\net10.0\Count consecutive triple characters.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\obj\Debug\net10.0\Count consecutive triple characters.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\obj\Debug\net10.0\refint\Count consecutive triple characters.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\obj\Debug\net10.0\Count consecutive triple characters.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\obj\Debug\net10.0\Count consecutive triple characters.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Count consecutive triple characters\obj\Debug\net10.0\ref\Count consecutive triple characters.dll

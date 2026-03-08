@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\bin\Debug\net10.0\Order Processing.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\bin\Debug\net10.0\Order Processing.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\bin\Debug\net10.0\Order Processing.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\bin\Debug\net10.0\Order Processing.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\bin\Debug\net10.0\Order Processing.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\obj\Debug\net10.0\Order Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\obj\Debug\net10.0\Order Processing.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\obj\Debug\net10.0\Order Processing.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\obj\Debug\net10.0\Order Processing.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\obj\Debug\net10.0\Order Processing.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\obj\Debug\net10.0\refint\Order Processing.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\obj\Debug\net10.0\Order Processing.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\obj\Debug\net10.0\Order Processing.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Order Processing\obj\Debug\net10.0\ref\Order Processing.dll

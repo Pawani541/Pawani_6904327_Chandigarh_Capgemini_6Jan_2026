@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\bin\Debug\net10.0\Search an Element.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\bin\Debug\net10.0\Search an Element.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\bin\Debug\net10.0\Search an Element.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\bin\Debug\net10.0\Search an Element.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\bin\Debug\net10.0\Search an Element.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\obj\Debug\net10.0\Search an Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\obj\Debug\net10.0\Search an Element.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\obj\Debug\net10.0\Search an Element.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\obj\Debug\net10.0\Search an Element.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\obj\Debug\net10.0\Search an Element.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\obj\Debug\net10.0\refint\Search an Element.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\obj\Debug\net10.0\Search an Element.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\obj\Debug\net10.0\Search an Element.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Search an Element\obj\Debug\net10.0\ref\Search an Element.dll

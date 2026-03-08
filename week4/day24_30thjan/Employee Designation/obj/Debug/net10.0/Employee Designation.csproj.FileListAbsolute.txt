@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\bin\Debug\net10.0\Employee Designation.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\bin\Debug\net10.0\Employee Designation.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\bin\Debug\net10.0\Employee Designation.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\bin\Debug\net10.0\Employee Designation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\bin\Debug\net10.0\Employee Designation.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\obj\Debug\net10.0\Employee Designation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\obj\Debug\net10.0\Employee Designation.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\obj\Debug\net10.0\Employee Designation.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\obj\Debug\net10.0\Employee Designation.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\obj\Debug\net10.0\Employee Designation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\obj\Debug\net10.0\refint\Employee Designation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\obj\Debug\net10.0\Employee Designation.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\obj\Debug\net10.0\Employee Designation.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Employee Designation\obj\Debug\net10.0\ref\Employee Designation.dll

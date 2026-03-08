@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\bin\Debug\net10.0\Count of Elements.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\bin\Debug\net10.0\Count of Elements.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\bin\Debug\net10.0\Count of Elements.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\bin\Debug\net10.0\Count of Elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\bin\Debug\net10.0\Count of Elements.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\obj\Debug\net10.0\Count of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\obj\Debug\net10.0\Count of Elements.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\obj\Debug\net10.0\Count of Elements.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\obj\Debug\net10.0\Count of Elements.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\obj\Debug\net10.0\Count of Elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\obj\Debug\net10.0\refint\Count of Elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\obj\Debug\net10.0\Count of Elements.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\obj\Debug\net10.0\Count of Elements.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Count of Elements\obj\Debug\net10.0\ref\Count of Elements.dll

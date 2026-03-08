@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\bin\Debug\net10.0\Calculate VAT%.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\bin\Debug\net10.0\Calculate VAT%.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\bin\Debug\net10.0\Calculate VAT%.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\bin\Debug\net10.0\Calculate VAT%.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\bin\Debug\net10.0\Calculate VAT%.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\obj\Debug\net10.0\Calculate VAT%.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\obj\Debug\net10.0\Calculate VAT%.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\obj\Debug\net10.0\Calculate VAT%.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\obj\Debug\net10.0\Calculate VAT%.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\obj\Debug\net10.0\Calculate VAT%.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\obj\Debug\net10.0\refint\Calculate VAT%.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\obj\Debug\net10.0\Calculate VAT%.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\obj\Debug\net10.0\Calculate VAT%.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Calculate VAT%\obj\Debug\net10.0\ref\Calculate VAT%.dll

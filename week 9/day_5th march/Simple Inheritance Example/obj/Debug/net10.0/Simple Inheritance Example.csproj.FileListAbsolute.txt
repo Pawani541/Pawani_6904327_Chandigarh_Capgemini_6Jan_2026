@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\bin\Debug\net10.0\Simple Inheritance Example.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\bin\Debug\net10.0\Simple Inheritance Example.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\bin\Debug\net10.0\Simple Inheritance Example.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\bin\Debug\net10.0\Simple Inheritance Example.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\bin\Debug\net10.0\Simple Inheritance Example.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\obj\Debug\net10.0\Simple Inheritance Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\obj\Debug\net10.0\Simple Inheritance Example.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\obj\Debug\net10.0\Simple Inheritance Example.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\obj\Debug\net10.0\Simple Inheritance Example.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\obj\Debug\net10.0\Simple Inheritance Example.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\obj\Debug\net10.0\refint\Simple Inheritance Example.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\obj\Debug\net10.0\Simple Inheritance Example.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\obj\Debug\net10.0\Simple Inheritance Example.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Simple Inheritance Example\obj\Debug\net10.0\ref\Simple Inheritance Example.dll

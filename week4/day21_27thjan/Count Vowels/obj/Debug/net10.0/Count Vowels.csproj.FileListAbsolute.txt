@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\bin\Debug\net10.0\Count Vowels.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\bin\Debug\net10.0\Count Vowels.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\bin\Debug\net10.0\Count Vowels.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\bin\Debug\net10.0\Count Vowels.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\bin\Debug\net10.0\Count Vowels.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\obj\Debug\net10.0\Count Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\obj\Debug\net10.0\Count Vowels.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\obj\Debug\net10.0\Count Vowels.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\obj\Debug\net10.0\Count Vowels.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\obj\Debug\net10.0\Count Vowels.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\obj\Debug\net10.0\refint\Count Vowels.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\obj\Debug\net10.0\Count Vowels.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\obj\Debug\net10.0\Count Vowels.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Count Vowels\obj\Debug\net10.0\ref\Count Vowels.dll

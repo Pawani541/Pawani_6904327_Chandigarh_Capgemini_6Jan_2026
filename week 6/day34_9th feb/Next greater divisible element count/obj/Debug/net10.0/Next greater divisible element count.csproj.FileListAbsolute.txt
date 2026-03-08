@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\bin\Debug\net10.0\Next greater divisible element count.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\bin\Debug\net10.0\Next greater divisible element count.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\bin\Debug\net10.0\Next greater divisible element count.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\bin\Debug\net10.0\Next greater divisible element count.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\bin\Debug\net10.0\Next greater divisible element count.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\obj\Debug\net10.0\Next greater divisible element count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\obj\Debug\net10.0\Next greater divisible element count.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\obj\Debug\net10.0\Next greater divisible element count.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\obj\Debug\net10.0\Next greater divisible element count.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\obj\Debug\net10.0\Next greater divisible element count.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\obj\Debug\net10.0\refint\Next greater divisible element count.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\obj\Debug\net10.0\Next greater divisible element count.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\obj\Debug\net10.0\Next greater divisible element count.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Next greater divisible element count\obj\Debug\net10.0\ref\Next greater divisible element count.dll

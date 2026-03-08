@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\bin\Debug\net10.0\Computer Inheritance.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\bin\Debug\net10.0\Computer Inheritance.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\bin\Debug\net10.0\Computer Inheritance.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\bin\Debug\net10.0\Computer Inheritance.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\bin\Debug\net10.0\Computer Inheritance.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\obj\Debug\net10.0\Computer Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\obj\Debug\net10.0\Computer Inheritance.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\obj\Debug\net10.0\Computer Inheritance.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\obj\Debug\net10.0\Computer Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\obj\Debug\net10.0\Computer Inheritance.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\obj\Debug\net10.0\refint\Computer Inheritance.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\obj\Debug\net10.0\Computer Inheritance.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\obj\Debug\net10.0\Computer Inheritance.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Computer Inheritance\obj\Debug\net10.0\ref\Computer Inheritance.dll

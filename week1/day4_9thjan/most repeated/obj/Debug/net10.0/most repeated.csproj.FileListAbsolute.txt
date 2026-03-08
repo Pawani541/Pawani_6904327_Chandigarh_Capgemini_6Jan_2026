@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\bin\Debug\net10.0\most repeated.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\bin\Debug\net10.0\most repeated.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\bin\Debug\net10.0\most repeated.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\bin\Debug\net10.0\most repeated.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\bin\Debug\net10.0\most repeated.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\obj\Debug\net10.0\most repeated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\obj\Debug\net10.0\most repeated.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\obj\Debug\net10.0\most repeated.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\obj\Debug\net10.0\most repeated.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\obj\Debug\net10.0\most repeated.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\obj\Debug\net10.0\refint\most repeated.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\obj\Debug\net10.0\most repeated.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\obj\Debug\net10.0\most repeated.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\most repeated\obj\Debug\net10.0\ref\most repeated.dll

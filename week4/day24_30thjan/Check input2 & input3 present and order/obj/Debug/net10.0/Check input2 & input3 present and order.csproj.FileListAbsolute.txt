@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\bin\Debug\net10.0\Check input2 & input3 present and order.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\bin\Debug\net10.0\Check input2 & input3 present and order.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\bin\Debug\net10.0\Check input2 & input3 present and order.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\bin\Debug\net10.0\Check input2 & input3 present and order.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\bin\Debug\net10.0\Check input2 & input3 present and order.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\obj\Debug\net10.0\Check input2 & input3 present and order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\obj\Debug\net10.0\Check input2 & input3 present and order.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\obj\Debug\net10.0\Check input2 & input3 present and order.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\obj\Debug\net10.0\Check input2 & input3 present and order.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\obj\Debug\net10.0\Check input2 & input3 present and order.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\obj\Debug\net10.0\refint\Check input2 & input3 present and order.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\obj\Debug\net10.0\Check input2 & input3 present and order.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\obj\Debug\net10.0\Check input2 & input3 present and order.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Check input2 & input3 present and order\obj\Debug\net10.0\ref\Check input2 & input3 present and order.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Couples & Triplets scoring/1.0.0": {
+        "runtime": {
+          "Couples & Triplets scoring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Couples & Triplets scoring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

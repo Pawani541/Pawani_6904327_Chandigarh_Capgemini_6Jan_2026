@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\obj\Debug\net10.0\Vehicle Rental System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\obj\Debug\net10.0\Vehicle Rental System.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\obj\Debug\net10.0\Vehicle Rental System.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\obj\Debug\net10.0\Vehicle Rental System.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\bin\Debug\net10.0\Vehicle Rental System.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\bin\Debug\net10.0\Vehicle Rental System.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\bin\Debug\net10.0\Vehicle Rental System.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\bin\Debug\net10.0\Vehicle Rental System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\bin\Debug\net10.0\Vehicle Rental System.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\obj\Debug\net10.0\Vehicle Rental System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\obj\Debug\net10.0\refint\Vehicle Rental System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\obj\Debug\net10.0\Vehicle Rental System.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\obj\Debug\net10.0\Vehicle Rental System.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Vehicle Rental System\obj\Debug\net10.0\ref\Vehicle Rental System.dll

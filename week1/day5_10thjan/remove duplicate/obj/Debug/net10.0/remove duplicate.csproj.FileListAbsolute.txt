@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\bin\Debug\net10.0\remove duplicate.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\bin\Debug\net10.0\remove duplicate.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\bin\Debug\net10.0\remove duplicate.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\bin\Debug\net10.0\remove duplicate.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\bin\Debug\net10.0\remove duplicate.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\obj\Debug\net10.0\remove duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\obj\Debug\net10.0\remove duplicate.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\obj\Debug\net10.0\remove duplicate.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\obj\Debug\net10.0\remove duplicate.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\obj\Debug\net10.0\remove duplicate.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\obj\Debug\net10.0\refint\remove duplicate.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\obj\Debug\net10.0\remove duplicate.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\obj\Debug\net10.0\remove duplicate.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\remove duplicate\obj\Debug\net10.0\ref\remove duplicate.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 7\\day_1_16thfeb\\LongestWordInAString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{098879C9-F413-4F3A-8924-7EF23AC4343C}|LongestWordInAString.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 7\\day_1_16thfeb\\longestwordinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098879C9-F413-4F3A-8924-7EF23AC4343C}|LongestWordInAString.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 7\\day_1_16thfeb\\LongestWordInAString\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 7\\day_1_16thfeb\\LongestWordInAString\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T09:24:23.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

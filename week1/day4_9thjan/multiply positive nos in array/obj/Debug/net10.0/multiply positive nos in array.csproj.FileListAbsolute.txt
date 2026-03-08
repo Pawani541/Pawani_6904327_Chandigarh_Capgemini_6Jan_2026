@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\bin\Debug\net10.0\multiply positive nos in array.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\bin\Debug\net10.0\multiply positive nos in array.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\bin\Debug\net10.0\multiply positive nos in array.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\bin\Debug\net10.0\multiply positive nos in array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\bin\Debug\net10.0\multiply positive nos in array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\obj\Debug\net10.0\multiply positive nos in array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\obj\Debug\net10.0\multiply positive nos in array.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\obj\Debug\net10.0\multiply positive nos in array.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\obj\Debug\net10.0\multiply positive nos in array.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\obj\Debug\net10.0\multiply positive nos in array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\obj\Debug\net10.0\refint\multiply positive nos in array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\obj\Debug\net10.0\multiply positive nos in array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\obj\Debug\net10.0\multiply positive nos in array.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\multiply positive nos in array\obj\Debug\net10.0\ref\multiply positive nos in array.dll

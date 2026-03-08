@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\bin\Debug\net10.0\Valid Parentheses.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\bin\Debug\net10.0\Valid Parentheses.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\bin\Debug\net10.0\Valid Parentheses.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\bin\Debug\net10.0\Valid Parentheses.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\bin\Debug\net10.0\Valid Parentheses.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\obj\Debug\net10.0\Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\obj\Debug\net10.0\Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\obj\Debug\net10.0\Valid Parentheses.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\obj\Debug\net10.0\Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\obj\Debug\net10.0\Valid Parentheses.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\obj\Debug\net10.0\refint\Valid Parentheses.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\obj\Debug\net10.0\Valid Parentheses.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\obj\Debug\net10.0\Valid Parentheses.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Valid Parentheses\obj\Debug\net10.0\ref\Valid Parentheses.dll

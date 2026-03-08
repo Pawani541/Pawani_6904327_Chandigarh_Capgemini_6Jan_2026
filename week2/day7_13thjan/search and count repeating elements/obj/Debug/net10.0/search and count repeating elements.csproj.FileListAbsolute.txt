@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\bin\Debug\net10.0\search and count repeating elements.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\bin\Debug\net10.0\search and count repeating elements.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\bin\Debug\net10.0\search and count repeating elements.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\bin\Debug\net10.0\search and count repeating elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\bin\Debug\net10.0\search and count repeating elements.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\obj\Debug\net10.0\search and count repeating elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\obj\Debug\net10.0\search and count repeating elements.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\obj\Debug\net10.0\search and count repeating elements.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\obj\Debug\net10.0\search and count repeating elements.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\obj\Debug\net10.0\search and count repeating elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\obj\Debug\net10.0\refint\search and count repeating elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\obj\Debug\net10.0\search and count repeating elements.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\obj\Debug\net10.0\search and count repeating elements.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\search and count repeating elements\obj\Debug\net10.0\ref\search and count repeating elements.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\bin\Debug\net10.0\Mahirl and Math.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\bin\Debug\net10.0\Mahirl and Math.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\bin\Debug\net10.0\Mahirl and Math.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\bin\Debug\net10.0\Mahirl and Math.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\bin\Debug\net10.0\Mahirl and Math.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\obj\Debug\net10.0\Mahirl and Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\obj\Debug\net10.0\Mahirl and Math.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\obj\Debug\net10.0\Mahirl and Math.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\obj\Debug\net10.0\Mahirl and Math.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\obj\Debug\net10.0\Mahirl and Math.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\obj\Debug\net10.0\refint\Mahirl and Math.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\obj\Debug\net10.0\Mahirl and Math.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\obj\Debug\net10.0\Mahirl and Math.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Math\obj\Debug\net10.0\ref\Mahirl and Math.dll

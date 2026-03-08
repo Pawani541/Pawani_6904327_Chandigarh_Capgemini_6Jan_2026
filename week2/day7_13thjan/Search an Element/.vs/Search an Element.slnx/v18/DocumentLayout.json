@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week2\\day7_13thjan\\Search an Element\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{386DF46F-7CC6-4F84-85F6-74B5D89E8A5F}|Search an Element.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week2\\day7_13thjan\\search an element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386DF46F-7CC6-4F84-85F6-74B5D89E8A5F}|Search an Element.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week2\\day7_13thjan\\Search an Element\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week2\\day7_13thjan\\Search an Element\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA7wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:38:01.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

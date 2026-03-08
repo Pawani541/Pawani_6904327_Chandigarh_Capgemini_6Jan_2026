@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\bin\Debug\net10.0\Sum of multiples.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\bin\Debug\net10.0\Sum of multiples.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\bin\Debug\net10.0\Sum of multiples.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\bin\Debug\net10.0\Sum of multiples.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\bin\Debug\net10.0\Sum of multiples.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\obj\Debug\net10.0\Sum of multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\obj\Debug\net10.0\Sum of multiples.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\obj\Debug\net10.0\Sum of multiples.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\obj\Debug\net10.0\Sum of multiples.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\obj\Debug\net10.0\Sum of multiples.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\obj\Debug\net10.0\refint\Sum of multiples.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\obj\Debug\net10.0\Sum of multiples.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\obj\Debug\net10.0\Sum of multiples.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Sum of multiples\obj\Debug\net10.0\ref\Sum of multiples.dll

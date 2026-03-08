@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\bin\Debug\net10.0\no of digits.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\bin\Debug\net10.0\no of digits.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\bin\Debug\net10.0\no of digits.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\bin\Debug\net10.0\no of digits.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\bin\Debug\net10.0\no of digits.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\obj\Debug\net10.0\no of digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\obj\Debug\net10.0\no of digits.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\obj\Debug\net10.0\no of digits.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\obj\Debug\net10.0\no of digits.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\obj\Debug\net10.0\no of digits.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\obj\Debug\net10.0\refint\no of digits.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\obj\Debug\net10.0\no of digits.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\obj\Debug\net10.0\no of digits.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\no of digits\obj\Debug\net10.0\ref\no of digits.dll

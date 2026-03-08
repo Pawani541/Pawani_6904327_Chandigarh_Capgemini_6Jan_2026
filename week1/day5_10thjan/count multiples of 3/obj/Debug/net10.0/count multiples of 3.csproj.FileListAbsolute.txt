@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\bin\Debug\net10.0\count multiples of 3.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\bin\Debug\net10.0\count multiples of 3.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\bin\Debug\net10.0\count multiples of 3.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\bin\Debug\net10.0\count multiples of 3.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\bin\Debug\net10.0\count multiples of 3.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\obj\Debug\net10.0\count multiples of 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\obj\Debug\net10.0\count multiples of 3.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\obj\Debug\net10.0\count multiples of 3.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\obj\Debug\net10.0\count multiples of 3.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\obj\Debug\net10.0\count multiples of 3.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\obj\Debug\net10.0\refint\count multiples of 3.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\obj\Debug\net10.0\count multiples of 3.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\obj\Debug\net10.0\count multiples of 3.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\count multiples of 3\obj\Debug\net10.0\ref\count multiples of 3.dll

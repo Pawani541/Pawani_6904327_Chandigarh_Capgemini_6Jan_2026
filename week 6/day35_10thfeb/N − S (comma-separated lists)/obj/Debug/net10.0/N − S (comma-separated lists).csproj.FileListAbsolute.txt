@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\bin\Debug\net10.0\N − S (comma-separated lists).exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\bin\Debug\net10.0\N − S (comma-separated lists).deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\bin\Debug\net10.0\N − S (comma-separated lists).runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\bin\Debug\net10.0\N − S (comma-separated lists).dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\bin\Debug\net10.0\N − S (comma-separated lists).pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\obj\Debug\net10.0\N − S (comma-separated lists).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\obj\Debug\net10.0\N − S (comma-separated lists).AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\obj\Debug\net10.0\N − S (comma-separated lists).AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\obj\Debug\net10.0\N − S (comma-separated lists).csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\obj\Debug\net10.0\N − S (comma-separated lists).dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\obj\Debug\net10.0\refint\N − S (comma-separated lists).dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\obj\Debug\net10.0\N − S (comma-separated lists).pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\obj\Debug\net10.0\N − S (comma-separated lists).genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\N − S (comma-separated lists)\obj\Debug\net10.0\ref\N − S (comma-separated lists).dll

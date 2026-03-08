@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\bin\Debug\net10.0\Longest palindromic substring length.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\bin\Debug\net10.0\Longest palindromic substring length.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\bin\Debug\net10.0\Longest palindromic substring length.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\bin\Debug\net10.0\Longest palindromic substring length.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\bin\Debug\net10.0\Longest palindromic substring length.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\obj\Debug\net10.0\Longest palindromic substring length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\obj\Debug\net10.0\Longest palindromic substring length.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\obj\Debug\net10.0\Longest palindromic substring length.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\obj\Debug\net10.0\Longest palindromic substring length.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\obj\Debug\net10.0\Longest palindromic substring length.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\obj\Debug\net10.0\refint\Longest palindromic substring length.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\obj\Debug\net10.0\Longest palindromic substring length.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\obj\Debug\net10.0\Longest palindromic substring length.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Longest palindromic substring length\obj\Debug\net10.0\ref\Longest palindromic substring length.dll

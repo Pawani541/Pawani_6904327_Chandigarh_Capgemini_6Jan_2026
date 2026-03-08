@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\bin\Debug\net10.0\Mahirl and Alphabets and Vowels.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\bin\Debug\net10.0\Mahirl and Alphabets and Vowels.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\bin\Debug\net10.0\Mahirl and Alphabets and Vowels.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\bin\Debug\net10.0\Mahirl and Alphabets and Vowels.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\bin\Debug\net10.0\Mahirl and Alphabets and Vowels.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\obj\Debug\net10.0\Mahirl and Alphabets and Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\obj\Debug\net10.0\Mahirl and Alphabets and Vowels.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\obj\Debug\net10.0\Mahirl and Alphabets and Vowels.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\obj\Debug\net10.0\Mahirl and Alphabets and Vowels.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\obj\Debug\net10.0\Mahirl and Alphabets and Vowels.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\obj\Debug\net10.0\refint\Mahirl and Alphabets and Vowels.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\obj\Debug\net10.0\Mahirl and Alphabets and Vowels.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\obj\Debug\net10.0\Mahirl and Alphabets and Vowels.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Mahirl and Alphabets and Vowels\obj\Debug\net10.0\ref\Mahirl and Alphabets and Vowels.dll

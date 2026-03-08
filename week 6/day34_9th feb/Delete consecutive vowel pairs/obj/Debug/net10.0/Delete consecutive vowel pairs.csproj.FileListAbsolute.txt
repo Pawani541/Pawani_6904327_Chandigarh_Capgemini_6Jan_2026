@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\bin\Debug\net10.0\Delete consecutive vowel pairs.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\bin\Debug\net10.0\Delete consecutive vowel pairs.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\bin\Debug\net10.0\Delete consecutive vowel pairs.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\bin\Debug\net10.0\Delete consecutive vowel pairs.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\bin\Debug\net10.0\Delete consecutive vowel pairs.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\obj\Debug\net10.0\Delete consecutive vowel pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\obj\Debug\net10.0\Delete consecutive vowel pairs.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\obj\Debug\net10.0\Delete consecutive vowel pairs.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\obj\Debug\net10.0\Delete consecutive vowel pairs.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\obj\Debug\net10.0\Delete consecutive vowel pairs.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\obj\Debug\net10.0\refint\Delete consecutive vowel pairs.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\obj\Debug\net10.0\Delete consecutive vowel pairs.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\obj\Debug\net10.0\Delete consecutive vowel pairs.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Delete consecutive vowel pairs\obj\Debug\net10.0\ref\Delete consecutive vowel pairs.dll

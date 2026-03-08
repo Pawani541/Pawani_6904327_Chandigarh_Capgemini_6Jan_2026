@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\bin\Debug\net10.0\mcq ans checker.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\bin\Debug\net10.0\mcq ans checker.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\bin\Debug\net10.0\mcq ans checker.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\bin\Debug\net10.0\mcq ans checker.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\bin\Debug\net10.0\mcq ans checker.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\obj\Debug\net10.0\mcq ans checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\obj\Debug\net10.0\mcq ans checker.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\obj\Debug\net10.0\mcq ans checker.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\obj\Debug\net10.0\mcq ans checker.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\obj\Debug\net10.0\mcq ans checker.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\obj\Debug\net10.0\refint\mcq ans checker.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\obj\Debug\net10.0\mcq ans checker.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\obj\Debug\net10.0\mcq ans checker.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\mcq ans checker\obj\Debug\net10.0\ref\mcq ans checker.dll

@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week 6\\day35_10thfeb\\Product sales (structure + highest per product + sort desc)\\Product sales (structure + highest per product + sort desc).csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week 6\\day35_10thfeb\\Product sales (structure + highest per product + sort desc)\\Product sales (structure + highest per product + sort desc).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week 6\\day35_10thfeb\\Product sales (structure + highest per product + sort desc)\\Product sales (structure + highest per product + sort desc).csproj",
+        "projectName": "Product sales (structure + highest per product + sort desc)",
+        "projectPath": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week 6\\day35_10thfeb\\Product sales (structure + highest per product + sort desc)\\Product sales (structure + highest per product + sort desc).csproj",
+        "packagesPath": "C:\\Users\\manis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week 6\\day35_10thfeb\\Product sales (structure + highest per product + sort desc)\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net10.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net10.0": {
+            "targetAlias": "net10.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net10.0": {
+          "targetAlias": "net10.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

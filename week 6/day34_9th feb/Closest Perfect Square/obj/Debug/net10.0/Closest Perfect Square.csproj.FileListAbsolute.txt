@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\obj\Debug\net10.0\Closest Perfect Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\obj\Debug\net10.0\Closest Perfect Square.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\obj\Debug\net10.0\Closest Perfect Square.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\obj\Debug\net10.0\Closest Perfect Square.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\bin\Debug\net10.0\Closest Perfect Square.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\bin\Debug\net10.0\Closest Perfect Square.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\bin\Debug\net10.0\Closest Perfect Square.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\bin\Debug\net10.0\Closest Perfect Square.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\bin\Debug\net10.0\Closest Perfect Square.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\obj\Debug\net10.0\Closest Perfect Square.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\obj\Debug\net10.0\refint\Closest Perfect Square.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\obj\Debug\net10.0\Closest Perfect Square.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\obj\Debug\net10.0\Closest Perfect Square.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Closest Perfect Square\obj\Debug\net10.0\ref\Closest Perfect Square.dll

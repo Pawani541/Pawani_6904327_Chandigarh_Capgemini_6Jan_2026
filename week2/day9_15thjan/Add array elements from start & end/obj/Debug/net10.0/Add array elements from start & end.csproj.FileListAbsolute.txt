@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\bin\Debug\net10.0\Add array elements from start & end.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\bin\Debug\net10.0\Add array elements from start & end.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\bin\Debug\net10.0\Add array elements from start & end.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\bin\Debug\net10.0\Add array elements from start & end.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\bin\Debug\net10.0\Add array elements from start & end.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\obj\Debug\net10.0\Add array elements from start & end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\obj\Debug\net10.0\Add array elements from start & end.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\obj\Debug\net10.0\Add array elements from start & end.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\obj\Debug\net10.0\Add array elements from start & end.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\obj\Debug\net10.0\Add array elements from start & end.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\obj\Debug\net10.0\refint\Add array elements from start & end.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\obj\Debug\net10.0\Add array elements from start & end.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\obj\Debug\net10.0\Add array elements from start & end.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Add array elements from start & end\obj\Debug\net10.0\ref\Add array elements from start & end.dll

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week 5\\day28_5th feb\\Closest integer with whole square root\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55970C17-F0ED-4299-ADCB-AD0260758C30}|Closest integer with whole square root.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week 5\\day28_5th feb\\closest integer with whole square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55970C17-F0ED-4299-ADCB-AD0260758C30}|Closest integer with whole square root.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week 5\\day28_5th feb\\Closest integer with whole square root\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week 5\\day28_5th feb\\Closest integer with whole square root\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:19:48.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

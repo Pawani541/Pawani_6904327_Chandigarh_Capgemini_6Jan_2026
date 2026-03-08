@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\bin\Debug\net10.0\sum of even & odd average.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\bin\Debug\net10.0\sum of even & odd average.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\bin\Debug\net10.0\sum of even & odd average.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\bin\Debug\net10.0\sum of even & odd average.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\bin\Debug\net10.0\sum of even & odd average.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\obj\Debug\net10.0\sum of even & odd average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\obj\Debug\net10.0\sum of even & odd average.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\obj\Debug\net10.0\sum of even & odd average.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\obj\Debug\net10.0\sum of even & odd average.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\obj\Debug\net10.0\sum of even & odd average.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\obj\Debug\net10.0\refint\sum of even & odd average.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\obj\Debug\net10.0\sum of even & odd average.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\obj\Debug\net10.0\sum of even & odd average.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day4_9thjan\sum of even & odd average\obj\Debug\net10.0\ref\sum of even & odd average.dll

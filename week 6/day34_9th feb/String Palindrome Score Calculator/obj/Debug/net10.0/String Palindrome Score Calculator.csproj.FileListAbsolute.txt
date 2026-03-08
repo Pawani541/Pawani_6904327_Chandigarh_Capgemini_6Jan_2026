@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\bin\Debug\net10.0\String Palindrome Score Calculator.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\bin\Debug\net10.0\String Palindrome Score Calculator.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\bin\Debug\net10.0\String Palindrome Score Calculator.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\bin\Debug\net10.0\String Palindrome Score Calculator.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\bin\Debug\net10.0\String Palindrome Score Calculator.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\obj\Debug\net10.0\String Palindrome Score Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\obj\Debug\net10.0\String Palindrome Score Calculator.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\obj\Debug\net10.0\String Palindrome Score Calculator.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\obj\Debug\net10.0\String Palindrome Score Calculator.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\obj\Debug\net10.0\String Palindrome Score Calculator.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\obj\Debug\net10.0\refint\String Palindrome Score Calculator.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\obj\Debug\net10.0\String Palindrome Score Calculator.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\obj\Debug\net10.0\String Palindrome Score Calculator.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\String Palindrome Score Calculator\obj\Debug\net10.0\ref\String Palindrome Score Calculator.dll

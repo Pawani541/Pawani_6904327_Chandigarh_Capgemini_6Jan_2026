@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\bin\Debug\net10.0\Count valid words.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\bin\Debug\net10.0\Count valid words.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\bin\Debug\net10.0\Count valid words.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\bin\Debug\net10.0\Count valid words.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\bin\Debug\net10.0\Count valid words.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\obj\Debug\net10.0\Count valid words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\obj\Debug\net10.0\Count valid words.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\obj\Debug\net10.0\Count valid words.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\obj\Debug\net10.0\Count valid words.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\obj\Debug\net10.0\Count valid words.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\obj\Debug\net10.0\refint\Count valid words.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\obj\Debug\net10.0\Count valid words.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\obj\Debug\net10.0\Count valid words.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count valid words\obj\Debug\net10.0\ref\Count valid words.dll

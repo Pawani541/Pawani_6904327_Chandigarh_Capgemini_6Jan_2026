@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week2\\day6_12thjan\\remove repeated elements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF71B4D1-DA0F-28A4-65C4-A4EC4B7B38C8}|remove repeated elements.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week2\\day6_12thjan\\remove repeated elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF71B4D1-DA0F-28A4-65C4-A4EC4B7B38C8}|remove repeated elements.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week2\\day6_12thjan\\remove repeated elements\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week2\\day6_12thjan\\remove repeated elements\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:55:43.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

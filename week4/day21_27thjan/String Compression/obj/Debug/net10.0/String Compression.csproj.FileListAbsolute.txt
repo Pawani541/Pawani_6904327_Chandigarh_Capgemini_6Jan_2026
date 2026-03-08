@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\bin\Debug\net10.0\String Compression.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\bin\Debug\net10.0\String Compression.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\bin\Debug\net10.0\String Compression.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\bin\Debug\net10.0\String Compression.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\bin\Debug\net10.0\String Compression.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\obj\Debug\net10.0\String Compression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\obj\Debug\net10.0\String Compression.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\obj\Debug\net10.0\String Compression.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\obj\Debug\net10.0\String Compression.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\obj\Debug\net10.0\String Compression.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\obj\Debug\net10.0\refint\String Compression.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\obj\Debug\net10.0\String Compression.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\obj\Debug\net10.0\String Compression.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\String Compression\obj\Debug\net10.0\ref\String Compression.dll

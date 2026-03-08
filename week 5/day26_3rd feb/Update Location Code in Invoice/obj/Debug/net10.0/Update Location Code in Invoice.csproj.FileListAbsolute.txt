@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\bin\Debug\net10.0\Update Location Code in Invoice.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\bin\Debug\net10.0\Update Location Code in Invoice.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\bin\Debug\net10.0\Update Location Code in Invoice.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\bin\Debug\net10.0\Update Location Code in Invoice.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\bin\Debug\net10.0\Update Location Code in Invoice.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\obj\Debug\net10.0\Update Location Code in Invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\obj\Debug\net10.0\Update Location Code in Invoice.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\obj\Debug\net10.0\Update Location Code in Invoice.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\obj\Debug\net10.0\Update Location Code in Invoice.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\obj\Debug\net10.0\Update Location Code in Invoice.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\obj\Debug\net10.0\refint\Update Location Code in Invoice.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\obj\Debug\net10.0\Update Location Code in Invoice.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\obj\Debug\net10.0\Update Location Code in Invoice.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Update Location Code in Invoice\obj\Debug\net10.0\ref\Update Location Code in Invoice.dll

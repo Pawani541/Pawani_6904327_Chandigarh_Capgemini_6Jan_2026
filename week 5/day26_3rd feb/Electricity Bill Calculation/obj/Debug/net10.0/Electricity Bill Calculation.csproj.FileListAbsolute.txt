@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\bin\Debug\net10.0\Electricity Bill Calculation.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\bin\Debug\net10.0\Electricity Bill Calculation.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\bin\Debug\net10.0\Electricity Bill Calculation.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\bin\Debug\net10.0\Electricity Bill Calculation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\bin\Debug\net10.0\Electricity Bill Calculation.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\obj\Debug\net10.0\Electricity Bill Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\obj\Debug\net10.0\Electricity Bill Calculation.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\obj\Debug\net10.0\Electricity Bill Calculation.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\obj\Debug\net10.0\Electricity Bill Calculation.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\obj\Debug\net10.0\Electricity Bill Calculation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\obj\Debug\net10.0\refint\Electricity Bill Calculation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\obj\Debug\net10.0\Electricity Bill Calculation.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\obj\Debug\net10.0\Electricity Bill Calculation.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day26_3rd feb\Electricity Bill Calculation\obj\Debug\net10.0\ref\Electricity Bill Calculation.dll

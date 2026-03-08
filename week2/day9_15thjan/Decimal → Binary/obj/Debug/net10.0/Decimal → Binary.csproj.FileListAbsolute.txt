@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\bin\Debug\net10.0\Decimal → Binary.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\bin\Debug\net10.0\Decimal → Binary.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\bin\Debug\net10.0\Decimal → Binary.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\bin\Debug\net10.0\Decimal → Binary.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\bin\Debug\net10.0\Decimal → Binary.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\obj\Debug\net10.0\Decimal → Binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\obj\Debug\net10.0\Decimal → Binary.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\obj\Debug\net10.0\Decimal → Binary.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\obj\Debug\net10.0\Decimal → Binary.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\obj\Debug\net10.0\Decimal → Binary.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\obj\Debug\net10.0\refint\Decimal → Binary.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\obj\Debug\net10.0\Decimal → Binary.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\obj\Debug\net10.0\Decimal → Binary.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Decimal → Binary\obj\Debug\net10.0\ref\Decimal → Binary.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\bin\Debug\net10.0\Last Occurence of a word.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\bin\Debug\net10.0\Last Occurence of a word.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\bin\Debug\net10.0\Last Occurence of a word.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\bin\Debug\net10.0\Last Occurence of a word.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\bin\Debug\net10.0\Last Occurence of a word.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\obj\Debug\net10.0\Last Occurence of a word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\obj\Debug\net10.0\Last Occurence of a word.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\obj\Debug\net10.0\Last Occurence of a word.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\obj\Debug\net10.0\Last Occurence of a word.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\obj\Debug\net10.0\Last Occurence of a word.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\obj\Debug\net10.0\refint\Last Occurence of a word.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\obj\Debug\net10.0\Last Occurence of a word.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\obj\Debug\net10.0\Last Occurence of a word.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Last Occurence of a word\obj\Debug\net10.0\ref\Last Occurence of a word.dll

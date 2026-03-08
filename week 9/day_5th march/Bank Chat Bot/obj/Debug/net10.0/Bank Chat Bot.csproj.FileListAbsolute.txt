@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\obj\Debug\net10.0\refint\Bank Chat Bot.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Bank Chat Bot\obj\Debug\net10.0\ref\Bank Chat Bot.dll

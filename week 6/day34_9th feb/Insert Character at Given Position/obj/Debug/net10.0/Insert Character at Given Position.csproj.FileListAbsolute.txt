@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\bin\Debug\net10.0\Insert Character at Given Position.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\bin\Debug\net10.0\Insert Character at Given Position.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\bin\Debug\net10.0\Insert Character at Given Position.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\bin\Debug\net10.0\Insert Character at Given Position.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\bin\Debug\net10.0\Insert Character at Given Position.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\obj\Debug\net10.0\Insert Character at Given Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\obj\Debug\net10.0\Insert Character at Given Position.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\obj\Debug\net10.0\Insert Character at Given Position.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\obj\Debug\net10.0\Insert Character at Given Position.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\obj\Debug\net10.0\Insert Character at Given Position.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\obj\Debug\net10.0\refint\Insert Character at Given Position.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\obj\Debug\net10.0\Insert Character at Given Position.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\obj\Debug\net10.0\Insert Character at Given Position.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Insert Character at Given Position\obj\Debug\net10.0\ref\Insert Character at Given Position.dll

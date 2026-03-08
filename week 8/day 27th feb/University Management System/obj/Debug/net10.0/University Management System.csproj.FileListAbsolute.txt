@@ -1,0 +1,63 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\University Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\University Management System.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\University Management System.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\University Management System.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\University Management System.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\University Management System.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\University Management System.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\University Management System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\University Management System.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\System.Diagnostics.EventLog.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\University Management System.csproj.AssemblyReference.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\Universi.6C1924F2.Up2Date
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\University Management System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\refint\University Management System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\University Management System.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\University Management System.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 8\day 27th feb\University Management System\obj\Debug\net10.0\ref\University Management System.dll

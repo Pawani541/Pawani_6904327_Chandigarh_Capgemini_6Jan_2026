@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\bin\Debug\net10.0\Check if all words are anagrams.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\bin\Debug\net10.0\Check if all words are anagrams.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\bin\Debug\net10.0\Check if all words are anagrams.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\bin\Debug\net10.0\Check if all words are anagrams.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\bin\Debug\net10.0\Check if all words are anagrams.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\obj\Debug\net10.0\Check if all words are anagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\obj\Debug\net10.0\Check if all words are anagrams.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\obj\Debug\net10.0\Check if all words are anagrams.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\obj\Debug\net10.0\Check if all words are anagrams.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\obj\Debug\net10.0\Check if all words are anagrams.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\obj\Debug\net10.0\refint\Check if all words are anagrams.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\obj\Debug\net10.0\Check if all words are anagrams.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\obj\Debug\net10.0\Check if all words are anagrams.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Check if all words are anagrams\obj\Debug\net10.0\ref\Check if all words are anagrams.dll

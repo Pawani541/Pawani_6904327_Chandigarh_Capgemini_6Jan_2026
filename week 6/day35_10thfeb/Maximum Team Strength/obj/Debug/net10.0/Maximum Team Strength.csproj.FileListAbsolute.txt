@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\bin\Debug\net10.0\Maximum Team Strength.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\bin\Debug\net10.0\Maximum Team Strength.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\bin\Debug\net10.0\Maximum Team Strength.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\bin\Debug\net10.0\Maximum Team Strength.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\bin\Debug\net10.0\Maximum Team Strength.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\obj\Debug\net10.0\Maximum Team Strength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\obj\Debug\net10.0\Maximum Team Strength.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\obj\Debug\net10.0\Maximum Team Strength.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\obj\Debug\net10.0\Maximum Team Strength.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\obj\Debug\net10.0\Maximum Team Strength.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\obj\Debug\net10.0\refint\Maximum Team Strength.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\obj\Debug\net10.0\Maximum Team Strength.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\obj\Debug\net10.0\Maximum Team Strength.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Maximum Team Strength\obj\Debug\net10.0\ref\Maximum Team Strength.dll

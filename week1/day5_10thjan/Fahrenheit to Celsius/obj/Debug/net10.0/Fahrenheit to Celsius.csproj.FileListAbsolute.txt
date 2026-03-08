@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\bin\Debug\net10.0\Fahrenheit to Celsius.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\bin\Debug\net10.0\Fahrenheit to Celsius.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\bin\Debug\net10.0\Fahrenheit to Celsius.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\bin\Debug\net10.0\Fahrenheit to Celsius.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\bin\Debug\net10.0\Fahrenheit to Celsius.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\obj\Debug\net10.0\Fahrenheit to Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\obj\Debug\net10.0\Fahrenheit to Celsius.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\obj\Debug\net10.0\Fahrenheit to Celsius.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\obj\Debug\net10.0\Fahrenheit to Celsius.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\obj\Debug\net10.0\Fahrenheit to Celsius.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\obj\Debug\net10.0\refint\Fahrenheit to Celsius.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\obj\Debug\net10.0\Fahrenheit to Celsius.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\obj\Debug\net10.0\Fahrenheit to Celsius.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day5_10thjan\Fahrenheit to Celsius\obj\Debug\net10.0\ref\Fahrenheit to Celsius.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\bin\Debug\net10.0\Game Character System.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\bin\Debug\net10.0\Game Character System.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\bin\Debug\net10.0\Game Character System.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\bin\Debug\net10.0\Game Character System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\bin\Debug\net10.0\Game Character System.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\obj\Debug\net10.0\Game Character System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\obj\Debug\net10.0\Game Character System.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\obj\Debug\net10.0\Game Character System.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\obj\Debug\net10.0\Game Character System.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\obj\Debug\net10.0\Game Character System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\obj\Debug\net10.0\refint\Game Character System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\obj\Debug\net10.0\Game Character System.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\obj\Debug\net10.0\Game Character System.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Game Character System\obj\Debug\net10.0\ref\Game Character System.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\bin\Debug\net10.0\Couples sum divisible by N.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\bin\Debug\net10.0\Couples sum divisible by N.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\bin\Debug\net10.0\Couples sum divisible by N.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\bin\Debug\net10.0\Couples sum divisible by N.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\bin\Debug\net10.0\Couples sum divisible by N.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\obj\Debug\net10.0\Couples sum divisible by N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\obj\Debug\net10.0\Couples sum divisible by N.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\obj\Debug\net10.0\Couples sum divisible by N.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\obj\Debug\net10.0\Couples sum divisible by N.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\obj\Debug\net10.0\Couples sum divisible by N.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\obj\Debug\net10.0\refint\Couples sum divisible by N.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\obj\Debug\net10.0\Couples sum divisible by N.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\obj\Debug\net10.0\Couples sum divisible by N.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Couples sum divisible by N\obj\Debug\net10.0\ref\Couples sum divisible by N.dll

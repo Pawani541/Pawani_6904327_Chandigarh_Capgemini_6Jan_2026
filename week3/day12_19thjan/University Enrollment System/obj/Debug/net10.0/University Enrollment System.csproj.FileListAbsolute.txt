@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\obj\Debug\net10.0\University Enrollment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\obj\Debug\net10.0\University Enrollment System.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\obj\Debug\net10.0\University Enrollment System.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\obj\Debug\net10.0\University Enrollment System.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\bin\Debug\net10.0\University Enrollment System.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\bin\Debug\net10.0\University Enrollment System.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\bin\Debug\net10.0\University Enrollment System.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\bin\Debug\net10.0\University Enrollment System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\bin\Debug\net10.0\University Enrollment System.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\obj\Debug\net10.0\University Enrollment System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\obj\Debug\net10.0\refint\University Enrollment System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\obj\Debug\net10.0\University Enrollment System.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\obj\Debug\net10.0\University Enrollment System.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\University Enrollment System\obj\Debug\net10.0\ref\University Enrollment System.dll

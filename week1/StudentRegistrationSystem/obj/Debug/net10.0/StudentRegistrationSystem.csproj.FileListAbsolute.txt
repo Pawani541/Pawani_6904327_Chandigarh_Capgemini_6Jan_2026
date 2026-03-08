@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\obj\Debug\net10.0\StudentRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\obj\Debug\net10.0\StudentRegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\obj\Debug\net10.0\StudentRegistrationSystem.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\obj\Debug\net10.0\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\bin\Debug\net10.0\StudentRegistrationSystem.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\bin\Debug\net10.0\StudentRegistrationSystem.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\bin\Debug\net10.0\StudentRegistrationSystem.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\bin\Debug\net10.0\StudentRegistrationSystem.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\bin\Debug\net10.0\StudentRegistrationSystem.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\obj\Debug\net10.0\StudentRegistrationSystem.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\obj\Debug\net10.0\refint\StudentRegistrationSystem.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\obj\Debug\net10.0\StudentRegistrationSystem.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\obj\Debug\net10.0\StudentRegistrationSystem.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\StudentRegistrationSystem\obj\Debug\net10.0\ref\StudentRegistrationSystem.dll

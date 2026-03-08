@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week4\\day22_28thjan\\Employee List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C707612-892B-4746-AAE5-FAB9E0128E35}|Employee List.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week4\\day22_28thjan\\employee list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C707612-892B-4746-AAE5-FAB9E0128E35}|Employee List.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C707612-892B-4746-AAE5-FAB9E0128E35}|Employee List.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week4\\day22_28thjan\\employee list\\employeebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C707612-892B-4746-AAE5-FAB9E0128E35}|Employee List.csproj|solutionrelative:employeebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C707612-892B-4746-AAE5-FAB9E0128E35}|Employee List.csproj|c:\\users\\manis\\onedrive\\desktop\\capgemini_cu_sec3_.netwithazure_pawani\\week4\\day22_28thjan\\employee list\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C707612-892B-4746-AAE5-FAB9E0128E35}|Employee List.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeBO.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week4\\day22_28thjan\\Employee List\\EmployeeBO.cs",
+              "RelativeDocumentMoniker": "EmployeeBO.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week4\\day22_28thjan\\Employee List\\EmployeeBO.cs",
+              "RelativeToolTip": "EmployeeBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:54:46.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week4\\day22_28thjan\\Employee List\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week4\\day22_28thjan\\Employee List\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:53:46.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week4\\day22_28thjan\\Employee List\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Desktop\\capgemini_CU_sec3_.netwithazure_pawani\\week4\\day22_28thjan\\Employee List\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:52:48.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

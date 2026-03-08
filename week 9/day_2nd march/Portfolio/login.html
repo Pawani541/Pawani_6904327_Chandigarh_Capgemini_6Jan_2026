@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Login | Pawani</title>
+<link rel="stylesheet" href="login.css">
+</head>
+<body>
+
+<div class="container">
+
+  <div class="form-box">
+    
+    <div class="toggle-btns">
+      <button onclick="showLogin()" id="loginBtn">Login</button>
+      <button onclick="showRegister()" id="registerBtn">Register</button>
+    </div>
+
+    <!-- LOGIN FORM -->
+    <form id="loginForm">
+      <h2>Welcome Back 👋</h2>
+      <input type="email" placeholder="Enter Email" required>
+      <input type="password" placeholder="Enter Password" required>
+      <button type="submit" class="submit-btn">Login</button>
+    </form>
+
+    <!-- REGISTER FORM -->
+    <form id="registerForm">
+      <h2>Create Account ✨</h2>
+      <input type="text" placeholder="Enter Username" required>
+      <input type="email" placeholder="Enter Email" required>
+      <input type="password" placeholder="Enter Password" required>
+      <button type="submit" class="submit-btn">Register</button>
+    </form>
+
+  </div>
+
+</div>
+
+<script>
+function showRegister() {
+  document.getElementById("loginForm").style.display = "none";
+  document.getElementById("registerForm").style.display = "block";
+}
+
+function showLogin() {
+  document.getElementById("loginForm").style.display = "block";
+  document.getElementById("registerForm").style.display = "none";
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Replace_First_Occurence_of_a_Character": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7211",
+      "launchBrowser": false
+    }
+  }
+}

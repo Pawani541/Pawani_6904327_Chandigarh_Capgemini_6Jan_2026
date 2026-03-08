@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\bin\Debug\net10.0\Count elements NOT divisible by any other.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\bin\Debug\net10.0\Count elements NOT divisible by any other.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\bin\Debug\net10.0\Count elements NOT divisible by any other.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\bin\Debug\net10.0\Count elements NOT divisible by any other.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\bin\Debug\net10.0\Count elements NOT divisible by any other.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\obj\Debug\net10.0\Count elements NOT divisible by any other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\obj\Debug\net10.0\Count elements NOT divisible by any other.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\obj\Debug\net10.0\Count elements NOT divisible by any other.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\obj\Debug\net10.0\Count elements NOT divisible by any other.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\obj\Debug\net10.0\Count elements NOT divisible by any other.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\obj\Debug\net10.0\refint\Count elements NOT divisible by any other.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\obj\Debug\net10.0\Count elements NOT divisible by any other.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\obj\Debug\net10.0\Count elements NOT divisible by any other.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Count elements NOT divisible by any other\obj\Debug\net10.0\ref\Count elements NOT divisible by any other.dll

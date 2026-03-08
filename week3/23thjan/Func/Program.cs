@@ -1,0 +1,13 @@
+﻿using System;
+
+class Program
+{
+    static void Main()
+    {
+        Func<int, int, int> add = (a, b) => a + b;
+        Console.WriteLine(add(10, 20));   // 30
+
+        Func<string, int> length = s => s.Length;
+        Console.WriteLine(length("Hello")); // 5
+    }
+}

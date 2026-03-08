@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\bin\Debug\net10.0\remove negative and sort array.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\bin\Debug\net10.0\remove negative and sort array.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\bin\Debug\net10.0\remove negative and sort array.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\bin\Debug\net10.0\remove negative and sort array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\bin\Debug\net10.0\remove negative and sort array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\obj\Debug\net10.0\remove negative and sort array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\obj\Debug\net10.0\remove negative and sort array.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\obj\Debug\net10.0\remove negative and sort array.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\obj\Debug\net10.0\remove negative and sort array.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\obj\Debug\net10.0\remove negative and sort array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\obj\Debug\net10.0\refint\remove negative and sort array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\obj\Debug\net10.0\remove negative and sort array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\obj\Debug\net10.0\remove negative and sort array.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\remove negative and sort array\obj\Debug\net10.0\ref\remove negative and sort array.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\bin\Debug\net10.0\greatest of 3 nos..exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\bin\Debug\net10.0\greatest of 3 nos..deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\bin\Debug\net10.0\greatest of 3 nos..runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\bin\Debug\net10.0\greatest of 3 nos..dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\bin\Debug\net10.0\greatest of 3 nos..pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\obj\Debug\net10.0\greatest of 3 nos..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\obj\Debug\net10.0\greatest of 3 nos..AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\obj\Debug\net10.0\greatest of 3 nos..AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\obj\Debug\net10.0\greatest of 3 nos..csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\obj\Debug\net10.0\greatest of 3 nos..dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\obj\Debug\net10.0\refint\greatest of 3 nos..dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\obj\Debug\net10.0\greatest of 3 nos..pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\obj\Debug\net10.0\greatest of 3 nos..genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\greatest of 3 nos\obj\Debug\net10.0\ref\greatest of 3 nos..dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Gross Salary Calculation/1.0.0": {
+        "runtime": {
+          "Gross Salary Calculation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gross Salary Calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
