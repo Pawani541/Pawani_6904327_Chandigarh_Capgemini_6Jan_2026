@@ -1,31 +1,44 @@
 ﻿using System;
-
-class MultiplyPositives
+class MultiplyArrays
 {
     static void Main()
     {
-        Console.Write("Enter size of array: ");
         int size = int.Parse(Console.ReadLine());
-        int output1 = 1;
+        int[] a = new int[size];
+        int[] b = new int[size];
+        int[] output = new int[size];
 
         if (size < 0)
         {
-            output1 = -2;
+            output[0] = -2;
         }
         else
         {
-            int[] arr = new int[size];
-            Console.WriteLine("Enter array elements:");
+            bool neg = false;
 
             for (int i = 0; i < size; i++)
             {
-                Console.Write("arr[" + i + "] = ");
-                arr[i] = int.Parse(Console.ReadLine());
-                if (arr[i] > 0)
-                    output1 *= arr[i];
+                a[i] = int.Parse(Console.ReadLine());
+                if (a[i] < 0) neg = true;
+            }
+            for (int i = 0; i < size; i++)
+            {
+                b[i] = int.Parse(Console.ReadLine());
+                if (b[i] < 0) neg = true;
+            }
+
+            if (neg) output[0] = -1;
+            else
+            {
+                Array.Sort(a);
+                Array.Sort(b);
+                Array.Reverse(b);
+                for (int i = 0; i < size; i++)
+                {
+                    output[i] = a[i] * b[i];
+                }
             }
         }
-
-        Console.WriteLine("\nOutput: " + output1);
+        foreach (int v in output) Console.Write(v + " ");
     }
 }
