@@ -1,56 +1,37 @@
 ﻿using System;
 
-class EProduct   
-{
-    public int Id { get; private set; }
-    public string Name { get; private set; }
-    public double Price { get; protected set; }
-
-    public EProduct(int id, string name, double price)
-    {
-        Id = id;
-        Name = name;
-        Price = price;
-    }
-
-    public virtual void Display()
-    {
-        Console.WriteLine($"{Id} - {Name} - ₹{Price}");
-    }
-}
-
-class Electronics : EProduct
-{
-    public Electronics(int id, string name, double price)
-        : base(id, name, price) { }
-}
-
-class Clothing : EProduct
-{
-    public Clothing(int id, string name, double price)
-        : base(id, name, price) { }
-}
-
-class Books : EProduct
-{
-    public Books(int id, string name, double price)
-        : base(id, name, price) { }
-}
-
-class Customer
+class GameCharacter 
 {
     public string Name { get; set; }
+    public int Health { get; set; }
+
+    public virtual void Attack()
+    {
+        Console.WriteLine(Name + " attacks!");
+    }
 }
 
-class Order
+class Warrior : GameCharacter
 {
-    public EProduct Product;
-    public Customer Customer;
-
-    public void ShowOrder()
+    public override void Attack()
     {
-        Console.WriteLine("Customer: " + Customer.Name);
-        Product.Display();
+        Console.WriteLine(Name + " swings a sword!");
+    }
+}
+
+class Mage : GameCharacter
+{
+    public override void Attack()
+    {
+        Console.WriteLine(Name + " casts a fireball!");
+    }
+}
+
+class Archer : GameCharacter
+{
+    public override void Attack()
+    {
+        Console.WriteLine(Name + " shoots an arrow!");
     }
 }
 
@@ -58,18 +39,12 @@ class Program
 {
     static void Main()
     {
-        Electronics e = new Electronics(1, "Laptop", 55000);
-        Clothing c = new Clothing(2, "T-Shirt", 1200);
-        Books b = new Books(3, "C# Guide", 500);
+        GameCharacter c1 = new Warrior { Name = "Thor", Health = 100 };
+        GameCharacter c2 = new Mage { Name = "Merlin", Health = 80 };
+        GameCharacter c3 = new Archer { Name = "Robin", Health = 90 };
 
-        Customer cust = new Customer { Name = "Aarav" };
-
-        Order o1 = new Order { Customer = cust, Product = e };
-        Order o2 = new Order { Customer = cust, Product = c };
-        Order o3 = new Order { Customer = cust, Product = b };
-
-        o1.ShowOrder();
-        o2.ShowOrder();
-        o3.ShowOrder();
+        c1.Attack();
+        c2.Attack();
+        c3.Attack();
     }
 }
