@@ -4,14 +4,23 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Enter year: ");
-        int y = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Enter number: ");
+        int n = Convert.ToInt32(Console.ReadLine());
 
-        if (y < 0) { Console.WriteLine(-1); return; }
+        if (n < 0) 
+        {
+            Console.WriteLine(-1); 
+            return;
+            }
 
-        if ((y % 400 == 0) || (y % 4 == 0 && y % 100 != 0))
-            Console.WriteLine("Leap Year");
-        else
-            Console.WriteLine("Not Leap Year");
+        int temp = n, rev = 0;
+        while (temp > 0)
+        {
+            rev = rev * 10 + temp % 10;
+            temp /= 10;
+        }
+
+        if (rev == n) Console.WriteLine(1);
+        else Console.WriteLine(-2);
     }
 }
