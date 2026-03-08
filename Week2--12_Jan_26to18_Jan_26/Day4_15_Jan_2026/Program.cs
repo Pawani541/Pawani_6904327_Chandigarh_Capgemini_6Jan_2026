@@ -1,38 +1,30 @@
 ﻿using System;
+using System.Linq;
 
 class Program
 {
     static void Main()
     {
-        Console.Write("Enter salary: ");
-        int salary = Convert.ToInt32(Console.ReadLine());
-        Console.Write("Enter working days: ");
-        int days = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Enter size: ");
+        int n = Convert.ToInt32(Console.ReadLine());
 
-        if (salary > 9000) 
+        if (n < 0)
+        {
+            Console.WriteLine(-2);
+            return;
+        }
+
+        int[] arr = new int[n];
+        Console.WriteLine("Enter elements:");
+        for (int i = 0; i < n; i++) arr[i] = Convert.ToInt32(Console.ReadLine());
+
+        if (arr.Any(x => x < 0))
         {
             Console.WriteLine(-1);
             return;
         }
-        if (salary < 0)
-        {
-            Console.WriteLine(-3);
-            return;
-        }
-        if (days < 0)
-        {
-            Console.WriteLine(-4); 
-            return;
-        }
 
-        double daily = salary / 30.0;
-        double earned = daily * days;
-        if (days == 31) earned += 500;
-
-        double food = earned * 0.5;
-        double travel = earned * 0.2;
-        double saved = earned - food - travel;
-
-        Console.WriteLine((int)saved);
+        int ans = arr.OrderByDescending(x => x).Distinct().Skip(1).First();
+        Console.WriteLine(ans);
     }
 }
