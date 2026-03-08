@@ -1,46 +1,34 @@
 ﻿using System;
 
-class AddArrays
+class CountMultiples3
 {
     static void Main()
     {
-        Console.Write("Enter size of arrays: ");
+        Console.Write("Enter size of array: ");
         int size = int.Parse(Console.ReadLine());
-        int[] output = new int[size];
+        int output = 0;
 
-        if (size < 0)
-        {
-            output[0] = -2;
-        }
+        if (size < 0) output = -2;
         else
         {
-            int[] a = new int[size];
-            int[] b = new int[size];
+            int[] arr = new int[size];
             bool neg = false;
 
-            Console.WriteLine("Enter arr1:");
+            Console.WriteLine("Enter elements:");
             for (int i = 0; i < size; i++)
             {
-                Console.Write("a[" + i + "] = ");
-                a[i] = int.Parse(Console.ReadLine());
-                if (a[i] < 0) neg = true;
+                Console.Write("arr[" + i + "] = ");
+                arr[i] = int.Parse(Console.ReadLine());
+                if (arr[i] < 0) neg = true;
             }
 
-            Console.WriteLine("Enter arr2:");
-            for (int i = 0; i < size; i++)
-            {
-                Console.Write("b[" + i + "] = ");
-                b[i] = int.Parse(Console.ReadLine());
-                if (b[i] < 0) neg = true;
-            }
-
-            if (neg) output[0] = -1;
+            if (neg) output = -1;
             else
-                for (int i = 0; i < size; i++)
-                    output[i] = a[i] + b[size - 1 - i];
+            {
+                foreach (int v in arr)
+                    if (v % 3 == 0) output++;
+            }
         }
-
-        Console.Write("Output: ");
-        foreach (int x in output) Console.Write(x + " ");
+        Console.WriteLine("Output: " + output);
     }
 }
