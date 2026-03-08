@@ -1,53 +1,46 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
-class VowelAssignment
+class MinimalOperations
 {
-    static bool IsVowel(char c)
-    {
-        c = char.ToLower(c);
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
-    }
-
     static void Main()
     {
-        string first = Console.ReadLine();
-        string second = Console.ReadLine();
+        int N = int.Parse(Console.ReadLine());
 
-        // Store consonants of second word (case-insensitive)
-        HashSet<char> secondConsonants = new HashSet<char>();
-        foreach (char c in second)
+        // BFS Queue: (current value, steps)
+        Queue<(int value, int steps)> queue = new Queue<(int, int)>();
+        HashSet<int> visited = new HashSet<int>();
+
+        queue.Enqueue((10, 0));
+        visited.Add(10);
+
+        while (queue.Count > 0)
         {
-            char lower = char.ToLower(c);
-            if (!IsVowel(lower))
+            var (current, steps) = queue.Dequeue();
+
+            // If target reached
+            if (current == N)
             {
-                secondConsonants.Add(lower);
+                Console.WriteLine(steps);
+                return;
+            }
+
+            // Possible operations
+            int[] nextValues = {
+                current + 2,
+                current - 1,
+                current * 3
+            };
+
+            foreach (int next in nextValues)
+            {
+                // Limit range to avoid infinite growth
+                if (next >= 0 && next <= 3 * N && !visited.Contains(next))
+                {
+                    visited.Add(next);
+                    queue.Enqueue((next, steps + 1));
+                }
             }
         }
-
-        // Step 1: Remove common consonants
-        StringBuilder filtered = new StringBuilder();
-        foreach (char c in first)
-        {
-            char lower = char.ToLower(c);
-
-            if (IsVowel(lower) || !secondConsonants.Contains(lower))
-            {
-                filtered.Append(c);
-            }
-        }
-
-        // Step 2: Remove consecutive duplicates
-        StringBuilder result = new StringBuilder();
-        for (int i = 0; i < filtered.Length; i++)
-        {
-            if (i == 0 || filtered[i] != filtered[i - 1])
-            {
-                result.Append(filtered[i]);
-            }
-        }
-
-        Console.WriteLine(result.ToString());
     }
 }
