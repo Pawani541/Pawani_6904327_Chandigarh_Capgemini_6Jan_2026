@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pawani | Web Developer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">Pawani.</div>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<!-- HERO SECTION -->
+<section class="hero" id="home">
+  <h1>Hello, I'm Pawani 👋</h1>
+
+  <p class="intro">
+    I am a <span>passionate Web Developer</span> focused on building 
+    <span>responsive</span> and <span>interactive</span> websites. 
+    I work with <span>HTML, CSS, JavaScript & SQL</span> to create 
+    modern digital experiences and continuously improve my technical skills.
+  </p>
+
+  <h3 class="typing-text"></h3>
+
+  <a href="#contact"><button class="btn">Hire Me</button></a>
+</section>
+
+<!-- PROJECTS -->
+<section class="projects" id="projects">
+  <h2>My Projects</h2>
+  <div class="project-grid">
+
+    <div class="project-card">
+      <h3>E-Commerce Website</h3>
+      <p>Shopping site with cart and search functionality.</p>
+    </div>
+
+    <div class="project-card">
+      <h3>SQL Database System</h3>
+      <p>CRUD operations using SQL Server.</p>
+    </div>
+
+    <div class="project-card">
+      <h3>Portfolio Website</h3>
+      <p>Responsive design using Flexbox and Media Queries.</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section class="skills" id="skills">
+  <h2>My Skills</h2>
+  <div class="skill-list">
+    <div class="skill">HTML</div>
+    <div class="skill">CSS</div>
+    <div class="skill">JavaScript</div>
+    <div class="skill">SQL</div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section class="contact" id="contact">
+  <h2>Contact Me</h2>
+  <p>📞 <a href="tel:9335063390">9335063390</a></p>
+  <p>📧 <a href="mailto:2005pawani@gmail.com">2005pawani@gmail.com</a></p>
+</section>
+
+<footer>
+  © 2026 Pawani | Designed with ❤️
+</footer>
+
+<!-- WhatsApp Floating Button -->
+<a href="https://wa.me/919335063390" class="whatsapp" target="_blank">💬</a>
+
+<!-- Typing Animation Script -->
+<script>
+const text = "I'm a Creative Front-End Developer";
+let index = 0;
+const typingElement = document.querySelector(".typing-text");
+
+function typeEffect() {
+  if (index < text.length) {
+    typingElement.textContent += text.charAt(index);
+    index++;
+    setTimeout(typeEffect, 80);
+  }
+}
+typeEffect();
+</script>
+
+</body>
+</html>

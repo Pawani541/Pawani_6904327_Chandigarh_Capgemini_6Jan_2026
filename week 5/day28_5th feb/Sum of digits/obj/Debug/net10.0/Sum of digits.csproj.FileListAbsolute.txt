@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\bin\Debug\net10.0\Sum of digits.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\bin\Debug\net10.0\Sum of digits.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\bin\Debug\net10.0\Sum of digits.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\bin\Debug\net10.0\Sum of digits.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\bin\Debug\net10.0\Sum of digits.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\obj\Debug\net10.0\Sum of digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\obj\Debug\net10.0\Sum of digits.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\obj\Debug\net10.0\Sum of digits.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\obj\Debug\net10.0\Sum of digits.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\obj\Debug\net10.0\Sum of digits.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\obj\Debug\net10.0\refint\Sum of digits.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\obj\Debug\net10.0\Sum of digits.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\obj\Debug\net10.0\Sum of digits.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Sum of digits\obj\Debug\net10.0\ref\Sum of digits.dll

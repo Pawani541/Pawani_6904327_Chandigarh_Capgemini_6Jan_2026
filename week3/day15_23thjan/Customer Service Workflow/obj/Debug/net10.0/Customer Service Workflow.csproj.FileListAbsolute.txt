@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\bin\Debug\net10.0\Customer Service Workflow.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\bin\Debug\net10.0\Customer Service Workflow.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\bin\Debug\net10.0\Customer Service Workflow.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\bin\Debug\net10.0\Customer Service Workflow.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\bin\Debug\net10.0\Customer Service Workflow.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\obj\Debug\net10.0\Customer Service Workflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\obj\Debug\net10.0\Customer Service Workflow.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\obj\Debug\net10.0\Customer Service Workflow.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\obj\Debug\net10.0\Customer Service Workflow.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\obj\Debug\net10.0\Customer Service Workflow.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\obj\Debug\net10.0\refint\Customer Service Workflow.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\obj\Debug\net10.0\Customer Service Workflow.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\obj\Debug\net10.0\Customer Service Workflow.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day15_23thjan\Customer Service Workflow\obj\Debug\net10.0\ref\Customer Service Workflow.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\bin\Debug\net10.0\Total Marks.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\bin\Debug\net10.0\Total Marks.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\bin\Debug\net10.0\Total Marks.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\bin\Debug\net10.0\Total Marks.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\bin\Debug\net10.0\Total Marks.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\obj\Debug\net10.0\Total Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\obj\Debug\net10.0\Total Marks.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\obj\Debug\net10.0\Total Marks.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\obj\Debug\net10.0\Total Marks.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\obj\Debug\net10.0\Total Marks.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\obj\Debug\net10.0\refint\Total Marks.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\obj\Debug\net10.0\Total Marks.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\obj\Debug\net10.0\Total Marks.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Total Marks\obj\Debug\net10.0\ref\Total Marks.dll

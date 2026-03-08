@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\bin\Debug\net10.0\Difference between two dates.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\bin\Debug\net10.0\Difference between two dates.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\bin\Debug\net10.0\Difference between two dates.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\bin\Debug\net10.0\Difference between two dates.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\bin\Debug\net10.0\Difference between two dates.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\obj\Debug\net10.0\Difference between two dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\obj\Debug\net10.0\Difference between two dates.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\obj\Debug\net10.0\Difference between two dates.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\obj\Debug\net10.0\Difference between two dates.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\obj\Debug\net10.0\Difference between two dates.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\obj\Debug\net10.0\refint\Difference between two dates.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\obj\Debug\net10.0\Difference between two dates.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\obj\Debug\net10.0\Difference between two dates.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day27_4th feb\Difference between two dates\obj\Debug\net10.0\ref\Difference between two dates.dll

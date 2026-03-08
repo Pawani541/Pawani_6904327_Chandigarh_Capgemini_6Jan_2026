@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\bin\Debug\net10.0\Donations.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\bin\Debug\net10.0\Donations.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\bin\Debug\net10.0\Donations.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\bin\Debug\net10.0\Donations.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\bin\Debug\net10.0\Donations.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\obj\Debug\net10.0\Donations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\obj\Debug\net10.0\Donations.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\obj\Debug\net10.0\Donations.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\obj\Debug\net10.0\Donations.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\obj\Debug\net10.0\Donations.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\obj\Debug\net10.0\refint\Donations.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\obj\Debug\net10.0\Donations.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\obj\Debug\net10.0\Donations.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Donations\obj\Debug\net10.0\ref\Donations.dll

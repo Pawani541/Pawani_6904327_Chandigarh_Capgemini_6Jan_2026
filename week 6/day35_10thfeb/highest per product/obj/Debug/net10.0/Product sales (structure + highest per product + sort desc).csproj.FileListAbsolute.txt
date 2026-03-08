@@ -1,0 +1,1 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Product sales (structure + highest per product + sort desc)\obj\Debug\net10.0\Product sales (structure + highest per product + sort desc).GeneratedMSBuildEditorConfig.editorconfig

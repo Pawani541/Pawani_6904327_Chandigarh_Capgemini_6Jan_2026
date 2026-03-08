@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #00d9ff, #3a7bd5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* TABLE CARD */
+.table-container {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  width: 90%;
+  max-width: 900px;
+}
+
+/* HEADING */
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* TABLE */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+/* CAPTION */
+caption {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+/* HEADER */
+thead {
+  background: #3a7bd5;
+  color: white;
+}
+
+th, td {
+  padding: 12px;
+  text-align: center;
+}
+
+/* BORDERS */
+td {
+  border-bottom: 1px solid #ddd;
+}
+
+/* ALTERNATE ROW COLOR */
+tbody tr:nth-child(even) {
+  background-color: #f4f6f9;
+}
+
+/* HOVER EFFECT */
+tbody tr:hover {
+  background-color: #e0f3ff;
+  transform: scale(1.01);
+  transition: 0.3s;
+}
+
+/* RESPONSIVE SCROLL */
+@media (max-width: 600px) {
+  .table-container {
+    overflow-x: auto;
+  }
+}

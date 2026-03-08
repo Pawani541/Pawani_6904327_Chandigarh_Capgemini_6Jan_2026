@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\obj\Debug\net10.0\Grocery Receipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\obj\Debug\net10.0\Grocery Receipt.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\obj\Debug\net10.0\Grocery Receipt.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\obj\Debug\net10.0\Grocery Receipt.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\bin\Debug\net10.0\Grocery Receipt.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\bin\Debug\net10.0\Grocery Receipt.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\bin\Debug\net10.0\Grocery Receipt.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\bin\Debug\net10.0\Grocery Receipt.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\bin\Debug\net10.0\Grocery Receipt.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\obj\Debug\net10.0\Grocery Receipt.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\obj\Debug\net10.0\refint\Grocery Receipt.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\obj\Debug\net10.0\Grocery Receipt.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\obj\Debug\net10.0\Grocery Receipt.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Grocery Receipt\obj\Debug\net10.0\ref\Grocery Receipt.dll

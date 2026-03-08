@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\bin\Debug\net10.0\Date Extraction.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\bin\Debug\net10.0\Date Extraction.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\bin\Debug\net10.0\Date Extraction.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\bin\Debug\net10.0\Date Extraction.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\bin\Debug\net10.0\Date Extraction.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\obj\Debug\net10.0\Date Extraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\obj\Debug\net10.0\Date Extraction.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\obj\Debug\net10.0\Date Extraction.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\obj\Debug\net10.0\Date Extraction.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\obj\Debug\net10.0\Date Extraction.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\obj\Debug\net10.0\refint\Date Extraction.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\obj\Debug\net10.0\Date Extraction.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\obj\Debug\net10.0\Date Extraction.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Date Extraction\obj\Debug\net10.0\ref\Date Extraction.dll

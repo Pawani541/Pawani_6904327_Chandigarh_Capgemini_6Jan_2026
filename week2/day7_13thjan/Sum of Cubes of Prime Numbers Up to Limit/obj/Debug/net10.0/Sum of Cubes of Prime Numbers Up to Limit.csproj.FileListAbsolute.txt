@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\bin\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\bin\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\bin\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\bin\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\bin\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\obj\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\obj\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\obj\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\obj\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\obj\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\obj\Debug\net10.0\refint\Sum of Cubes of Prime Numbers Up to Limit.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\obj\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\obj\Debug\net10.0\Sum of Cubes of Prime Numbers Up to Limit.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\Sum of Cubes of Prime Numbers Up to Limit\obj\Debug\net10.0\ref\Sum of Cubes of Prime Numbers Up to Limit.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Search, Remove & Sort Array/1.0.0": {
+        "runtime": {
+          "Search, Remove & Sort Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Search, Remove & Sort Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case study\obj\Debug\net10.0\Time Validation_Case study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case study\obj\Debug\net10.0\Time Validation_Case study.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case study\obj\Debug\net10.0\Time Validation_Case study.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case study\obj\Debug\net10.0\Time Validation_Case study.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case Study\bin\Debug\net10.0\Time Validation_Case Study.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case Study\bin\Debug\net10.0\Time Validation_Case Study.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case Study\bin\Debug\net10.0\Time Validation_Case Study.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case Study\bin\Debug\net10.0\Time Validation_Case Study.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case Study\bin\Debug\net10.0\Time Validation_Case Study.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case Study\obj\Debug\net10.0\Time Validation_Case Study.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case Study\obj\Debug\net10.0\refint\Time Validation_Case Study.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case Study\obj\Debug\net10.0\Time Validation_Case Study.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case Study\obj\Debug\net10.0\Time Validation_Case Study.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\Time Validation_Case Study\obj\Debug\net10.0\ref\Time Validation_Case Study.dll

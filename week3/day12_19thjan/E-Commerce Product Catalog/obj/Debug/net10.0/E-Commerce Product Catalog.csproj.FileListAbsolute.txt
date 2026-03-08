@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\bin\Debug\net10.0\E-Commerce Product Catalog.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\bin\Debug\net10.0\E-Commerce Product Catalog.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\bin\Debug\net10.0\E-Commerce Product Catalog.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\bin\Debug\net10.0\E-Commerce Product Catalog.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\bin\Debug\net10.0\E-Commerce Product Catalog.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\obj\Debug\net10.0\refint\E-Commerce Product Catalog.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\E-Commerce Product Catalog\obj\Debug\net10.0\ref\E-Commerce Product Catalog.dll

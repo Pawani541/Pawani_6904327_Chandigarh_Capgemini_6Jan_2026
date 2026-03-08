@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\bin\Debug\net10.0\Bank Management System.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\bin\Debug\net10.0\Bank Management System.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\bin\Debug\net10.0\Bank Management System.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\bin\Debug\net10.0\Bank Management System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\bin\Debug\net10.0\Bank Management System.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\obj\Debug\net10.0\Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\obj\Debug\net10.0\Bank Management System.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\obj\Debug\net10.0\Bank Management System.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\obj\Debug\net10.0\Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\obj\Debug\net10.0\Bank Management System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\obj\Debug\net10.0\refint\Bank Management System.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\obj\Debug\net10.0\Bank Management System.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\obj\Debug\net10.0\Bank Management System.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day12_19thjan\Bank Management System\obj\Debug\net10.0\ref\Bank Management System.dll

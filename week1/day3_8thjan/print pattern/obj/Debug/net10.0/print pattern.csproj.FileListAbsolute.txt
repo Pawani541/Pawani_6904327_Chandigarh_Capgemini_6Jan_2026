@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\bin\Debug\net10.0\print pattern.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\bin\Debug\net10.0\print pattern.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\bin\Debug\net10.0\print pattern.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\bin\Debug\net10.0\print pattern.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\bin\Debug\net10.0\print pattern.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\obj\Debug\net10.0\print pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\obj\Debug\net10.0\print pattern.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\obj\Debug\net10.0\print pattern.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\obj\Debug\net10.0\print pattern.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\obj\Debug\net10.0\print pattern.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\obj\Debug\net10.0\refint\print pattern.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\obj\Debug\net10.0\print pattern.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\obj\Debug\net10.0\print pattern.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\print pattern\obj\Debug\net10.0\ref\print pattern.dll

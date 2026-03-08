@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\bin\Debug\net10.0\Cancellable Data Import.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\bin\Debug\net10.0\Cancellable Data Import.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\bin\Debug\net10.0\Cancellable Data Import.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\bin\Debug\net10.0\Cancellable Data Import.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\bin\Debug\net10.0\Cancellable Data Import.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\obj\Debug\net10.0\Cancellable Data Import.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\obj\Debug\net10.0\Cancellable Data Import.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\obj\Debug\net10.0\Cancellable Data Import.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\obj\Debug\net10.0\Cancellable Data Import.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\obj\Debug\net10.0\Cancellable Data Import.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\obj\Debug\net10.0\refint\Cancellable Data Import.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\obj\Debug\net10.0\Cancellable Data Import.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\obj\Debug\net10.0\Cancellable Data Import.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Cancellable Data Import\obj\Debug\net10.0\ref\Cancellable Data Import.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\bin\Debug\net10.0\Producer–consumer pipeline.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\bin\Debug\net10.0\Producer–consumer pipeline.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\bin\Debug\net10.0\Producer–consumer pipeline.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\bin\Debug\net10.0\Producer–consumer pipeline.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\bin\Debug\net10.0\Producer–consumer pipeline.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\obj\Debug\net10.0\Producer–consumer pipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\obj\Debug\net10.0\Producer–consumer pipeline.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\obj\Debug\net10.0\Producer–consumer pipeline.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\obj\Debug\net10.0\Producer–consumer pipeline.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\obj\Debug\net10.0\Producer–consumer pipeline.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\obj\Debug\net10.0\refint\Producer–consumer pipeline.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\obj\Debug\net10.0\Producer–consumer pipeline.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\obj\Debug\net10.0\Producer–consumer pipeline.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day14_22thjan\Producer–consumer pipeline\obj\Debug\net10.0\ref\Producer–consumer pipeline.dll

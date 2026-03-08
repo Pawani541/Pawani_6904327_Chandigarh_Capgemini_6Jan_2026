@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\bin\Debug\net10.0\Email Validation.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\bin\Debug\net10.0\Email Validation.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\bin\Debug\net10.0\Email Validation.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\bin\Debug\net10.0\Email Validation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\bin\Debug\net10.0\Email Validation.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\obj\Debug\net10.0\Email Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\obj\Debug\net10.0\Email Validation.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\obj\Debug\net10.0\Email Validation.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\obj\Debug\net10.0\Email Validation.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\obj\Debug\net10.0\Email Validation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\obj\Debug\net10.0\refint\Email Validation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\obj\Debug\net10.0\Email Validation.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\obj\Debug\net10.0\Email Validation.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Email Validation\obj\Debug\net10.0\ref\Email Validation.dll

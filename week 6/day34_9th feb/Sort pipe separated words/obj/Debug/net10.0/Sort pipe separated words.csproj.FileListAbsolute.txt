@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\bin\Debug\net10.0\Sort pipe separated words.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\bin\Debug\net10.0\Sort pipe separated words.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\bin\Debug\net10.0\Sort pipe separated words.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\bin\Debug\net10.0\Sort pipe separated words.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\bin\Debug\net10.0\Sort pipe separated words.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\obj\Debug\net10.0\Sort pipe separated words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\obj\Debug\net10.0\Sort pipe separated words.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\obj\Debug\net10.0\Sort pipe separated words.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\obj\Debug\net10.0\Sort pipe separated words.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\obj\Debug\net10.0\Sort pipe separated words.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\obj\Debug\net10.0\refint\Sort pipe separated words.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\obj\Debug\net10.0\Sort pipe separated words.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\obj\Debug\net10.0\Sort pipe separated words.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Sort pipe separated words\obj\Debug\net10.0\ref\Sort pipe separated words.dll

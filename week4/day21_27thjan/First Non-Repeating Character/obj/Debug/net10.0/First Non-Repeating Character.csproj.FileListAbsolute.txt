@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\bin\Debug\net10.0\First Non-Repeating Character.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\bin\Debug\net10.0\First Non-Repeating Character.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\bin\Debug\net10.0\First Non-Repeating Character.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\bin\Debug\net10.0\First Non-Repeating Character.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\bin\Debug\net10.0\First Non-Repeating Character.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\obj\Debug\net10.0\First Non-Repeating Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\obj\Debug\net10.0\First Non-Repeating Character.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\obj\Debug\net10.0\First Non-Repeating Character.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\obj\Debug\net10.0\First Non-Repeating Character.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\obj\Debug\net10.0\First Non-Repeating Character.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\obj\Debug\net10.0\refint\First Non-Repeating Character.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\obj\Debug\net10.0\First Non-Repeating Character.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\obj\Debug\net10.0\First Non-Repeating Character.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day21_27thjan\First Non-Repeating Character\obj\Debug\net10.0\ref\First Non-Repeating Character.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\bin\Debug\net10.0\Search, Remove & Sort Array.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\bin\Debug\net10.0\Search, Remove & Sort Array.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\bin\Debug\net10.0\Search, Remove & Sort Array.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\bin\Debug\net10.0\Search, Remove & Sort Array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\bin\Debug\net10.0\Search, Remove & Sort Array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\obj\Debug\net10.0\Search, Remove & Sort Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\obj\Debug\net10.0\Search, Remove & Sort Array.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\obj\Debug\net10.0\Search, Remove & Sort Array.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\obj\Debug\net10.0\Search, Remove & Sort Array.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\obj\Debug\net10.0\Search, Remove & Sort Array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\obj\Debug\net10.0\refint\Search, Remove & Sort Array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\obj\Debug\net10.0\Search, Remove & Sort Array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\obj\Debug\net10.0\Search, Remove & Sort Array.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Search, Remove & Sort Array\obj\Debug\net10.0\ref\Search, Remove & Sort Array.dll

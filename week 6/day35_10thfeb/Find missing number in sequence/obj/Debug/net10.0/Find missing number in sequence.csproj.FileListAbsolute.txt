@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\bin\Debug\net10.0\Find missing number in sequence.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\bin\Debug\net10.0\Find missing number in sequence.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\bin\Debug\net10.0\Find missing number in sequence.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\bin\Debug\net10.0\Find missing number in sequence.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\bin\Debug\net10.0\Find missing number in sequence.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\obj\Debug\net10.0\Find missing number in sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\obj\Debug\net10.0\Find missing number in sequence.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\obj\Debug\net10.0\Find missing number in sequence.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\obj\Debug\net10.0\Find missing number in sequence.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\obj\Debug\net10.0\Find missing number in sequence.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\obj\Debug\net10.0\refint\Find missing number in sequence.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\obj\Debug\net10.0\Find missing number in sequence.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\obj\Debug\net10.0\Find missing number in sequence.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Find missing number in sequence\obj\Debug\net10.0\ref\Find missing number in sequence.dll

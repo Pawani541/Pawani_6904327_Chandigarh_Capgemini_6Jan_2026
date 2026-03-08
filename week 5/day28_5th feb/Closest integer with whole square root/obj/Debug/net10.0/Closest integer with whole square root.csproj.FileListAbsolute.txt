@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\bin\Debug\net10.0\Closest integer with whole square root.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\bin\Debug\net10.0\Closest integer with whole square root.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\bin\Debug\net10.0\Closest integer with whole square root.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\bin\Debug\net10.0\Closest integer with whole square root.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\bin\Debug\net10.0\Closest integer with whole square root.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\obj\Debug\net10.0\Closest integer with whole square root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\obj\Debug\net10.0\Closest integer with whole square root.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\obj\Debug\net10.0\Closest integer with whole square root.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\obj\Debug\net10.0\Closest integer with whole square root.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\obj\Debug\net10.0\Closest integer with whole square root.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\obj\Debug\net10.0\refint\Closest integer with whole square root.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\obj\Debug\net10.0\Closest integer with whole square root.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\obj\Debug\net10.0\Closest integer with whole square root.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day28_5th feb\Closest integer with whole square root\obj\Debug\net10.0\ref\Closest integer with whole square root.dll

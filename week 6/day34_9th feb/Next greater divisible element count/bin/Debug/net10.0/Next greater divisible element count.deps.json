@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Next greater divisible element count/1.0.0": {
+        "runtime": {
+          "Next greater divisible element count.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Next greater divisible element count/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

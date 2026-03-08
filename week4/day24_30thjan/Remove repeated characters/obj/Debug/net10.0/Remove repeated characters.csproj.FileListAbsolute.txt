@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\bin\Debug\net10.0\Remove repeated characters.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\bin\Debug\net10.0\Remove repeated characters.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\bin\Debug\net10.0\Remove repeated characters.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\bin\Debug\net10.0\Remove repeated characters.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\bin\Debug\net10.0\Remove repeated characters.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\obj\Debug\net10.0\Remove repeated characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\obj\Debug\net10.0\Remove repeated characters.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\obj\Debug\net10.0\Remove repeated characters.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\obj\Debug\net10.0\Remove repeated characters.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\obj\Debug\net10.0\Remove repeated characters.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\obj\Debug\net10.0\refint\Remove repeated characters.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\obj\Debug\net10.0\Remove repeated characters.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\obj\Debug\net10.0\Remove repeated characters.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day24_30thjan\Remove repeated characters\obj\Debug\net10.0\ref\Remove repeated characters.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\bin\Debug\net10.0\Perfect shuffle check.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\bin\Debug\net10.0\Perfect shuffle check.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\bin\Debug\net10.0\Perfect shuffle check.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\bin\Debug\net10.0\Perfect shuffle check.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\bin\Debug\net10.0\Perfect shuffle check.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\obj\Debug\net10.0\Perfect shuffle check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\obj\Debug\net10.0\Perfect shuffle check.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\obj\Debug\net10.0\Perfect shuffle check.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\obj\Debug\net10.0\Perfect shuffle check.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\obj\Debug\net10.0\Perfect shuffle check.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\obj\Debug\net10.0\refint\Perfect shuffle check.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\obj\Debug\net10.0\Perfect shuffle check.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\obj\Debug\net10.0\Perfect shuffle check.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Perfect shuffle check\obj\Debug\net10.0\ref\Perfect shuffle check.dll

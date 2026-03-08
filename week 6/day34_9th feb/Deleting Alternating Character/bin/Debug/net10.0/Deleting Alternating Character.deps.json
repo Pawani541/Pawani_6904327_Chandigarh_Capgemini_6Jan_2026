@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Deleting Alternating Character/1.0.0": {
+        "runtime": {
+          "Deleting Alternating Character.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deleting Alternating Character/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\bin\Debug\net10.0\Partition alphanumeric string.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\bin\Debug\net10.0\Partition alphanumeric string.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\bin\Debug\net10.0\Partition alphanumeric string.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\bin\Debug\net10.0\Partition alphanumeric string.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\bin\Debug\net10.0\Partition alphanumeric string.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\obj\Debug\net10.0\Partition alphanumeric string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\obj\Debug\net10.0\Partition alphanumeric string.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\obj\Debug\net10.0\Partition alphanumeric string.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\obj\Debug\net10.0\Partition alphanumeric string.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\obj\Debug\net10.0\Partition alphanumeric string.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\obj\Debug\net10.0\refint\Partition alphanumeric string.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\obj\Debug\net10.0\Partition alphanumeric string.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\obj\Debug\net10.0\Partition alphanumeric string.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Partition alphanumeric string\obj\Debug\net10.0\ref\Partition alphanumeric string.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\bin\Debug\net10.0\Binary to Decimal Conversion.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\bin\Debug\net10.0\Binary to Decimal Conversion.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\bin\Debug\net10.0\Binary to Decimal Conversion.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\bin\Debug\net10.0\Binary to Decimal Conversion.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\bin\Debug\net10.0\Binary to Decimal Conversion.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\obj\Debug\net10.0\Binary to Decimal Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\obj\Debug\net10.0\Binary to Decimal Conversion.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\obj\Debug\net10.0\Binary to Decimal Conversion.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\obj\Debug\net10.0\Binary to Decimal Conversion.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\obj\Debug\net10.0\Binary to Decimal Conversion.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\obj\Debug\net10.0\refint\Binary to Decimal Conversion.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\obj\Debug\net10.0\Binary to Decimal Conversion.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\obj\Debug\net10.0\Binary to Decimal Conversion.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Binary to Decimal Conversion\obj\Debug\net10.0\ref\Binary to Decimal Conversion.dll

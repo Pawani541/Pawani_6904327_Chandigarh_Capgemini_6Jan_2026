@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\bin\Debug\net10.0\Phone Number Extraction (10 digits).exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\bin\Debug\net10.0\Phone Number Extraction (10 digits).deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\bin\Debug\net10.0\Phone Number Extraction (10 digits).runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\bin\Debug\net10.0\Phone Number Extraction (10 digits).dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\bin\Debug\net10.0\Phone Number Extraction (10 digits).pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\obj\Debug\net10.0\Phone Number Extraction (10 digits).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\obj\Debug\net10.0\Phone Number Extraction (10 digits).AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\obj\Debug\net10.0\Phone Number Extraction (10 digits).AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\obj\Debug\net10.0\Phone Number Extraction (10 digits).csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\obj\Debug\net10.0\Phone Number Extraction (10 digits).dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\obj\Debug\net10.0\refint\Phone Number Extraction (10 digits).dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\obj\Debug\net10.0\Phone Number Extraction (10 digits).pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\obj\Debug\net10.0\Phone Number Extraction (10 digits).genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Phone Number Extraction (10 digits)\obj\Debug\net10.0\ref\Phone Number Extraction (10 digits).dll

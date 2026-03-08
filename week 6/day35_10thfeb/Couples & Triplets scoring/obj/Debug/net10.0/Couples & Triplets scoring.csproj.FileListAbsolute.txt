@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\bin\Debug\net10.0\Couples & Triplets scoring.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\bin\Debug\net10.0\Couples & Triplets scoring.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\bin\Debug\net10.0\Couples & Triplets scoring.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\bin\Debug\net10.0\Couples & Triplets scoring.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\bin\Debug\net10.0\Couples & Triplets scoring.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\obj\Debug\net10.0\Couples & Triplets scoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\obj\Debug\net10.0\Couples & Triplets scoring.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\obj\Debug\net10.0\Couples & Triplets scoring.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\obj\Debug\net10.0\Couples & Triplets scoring.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\obj\Debug\net10.0\Couples & Triplets scoring.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\obj\Debug\net10.0\refint\Couples & Triplets scoring.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\obj\Debug\net10.0\Couples & Triplets scoring.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\obj\Debug\net10.0\Couples & Triplets scoring.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day35_10thfeb\Couples & Triplets scoring\obj\Debug\net10.0\ref\Couples & Triplets scoring.dll

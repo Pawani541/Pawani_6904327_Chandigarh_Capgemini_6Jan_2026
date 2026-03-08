@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\bin\Debug\net10.0\Remove substring and insert new one.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\bin\Debug\net10.0\Remove substring and insert new one.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\bin\Debug\net10.0\Remove substring and insert new one.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\bin\Debug\net10.0\Remove substring and insert new one.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\bin\Debug\net10.0\Remove substring and insert new one.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\obj\Debug\net10.0\Remove substring and insert new one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\obj\Debug\net10.0\Remove substring and insert new one.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\obj\Debug\net10.0\Remove substring and insert new one.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\obj\Debug\net10.0\Remove substring and insert new one.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\obj\Debug\net10.0\Remove substring and insert new one.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\obj\Debug\net10.0\refint\Remove substring and insert new one.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\obj\Debug\net10.0\Remove substring and insert new one.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\obj\Debug\net10.0\Remove substring and insert new one.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Remove substring and insert new one\obj\Debug\net10.0\ref\Remove substring and insert new one.dll

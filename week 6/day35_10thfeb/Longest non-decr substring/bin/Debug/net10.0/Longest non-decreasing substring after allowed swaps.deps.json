@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Longest non-decreasing substring after allowed swaps/1.0.0": {
+        "runtime": {
+          "Longest non-decreasing substring after allowed swaps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Longest non-decreasing substring after allowed swaps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

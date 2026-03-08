@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\bin\Debug\net10.0\First Half Asc– Second Half Desc.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\bin\Debug\net10.0\First Half Asc– Second Half Desc.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\bin\Debug\net10.0\First Half Asc– Second Half Desc.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\bin\Debug\net10.0\First Half Asc– Second Half Desc.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\bin\Debug\net10.0\First Half Asc– Second Half Desc.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\obj\Debug\net10.0\First Half Asc– Second Half Desc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\obj\Debug\net10.0\First Half Asc– Second Half Desc.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\obj\Debug\net10.0\First Half Asc– Second Half Desc.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\obj\Debug\net10.0\First Half Asc– Second Half Desc.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\obj\Debug\net10.0\First Half Asc– Second Half Desc.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\obj\Debug\net10.0\refint\First Half Asc– Second Half Desc.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\obj\Debug\net10.0\First Half Asc– Second Half Desc.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\obj\Debug\net10.0\First Half Asc– Second Half Desc.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day7_13thjan\First Half Asc– Second Half Desc\obj\Debug\net10.0\ref\First Half Asc– Second Half Desc.dll

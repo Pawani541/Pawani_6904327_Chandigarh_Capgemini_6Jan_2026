@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\bin\Debug\net10.0\E-Commerce Category Analytics.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\bin\Debug\net10.0\E-Commerce Category Analytics.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\bin\Debug\net10.0\E-Commerce Category Analytics.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\bin\Debug\net10.0\E-Commerce Category Analytics.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\bin\Debug\net10.0\E-Commerce Category Analytics.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\obj\Debug\net10.0\refint\E-Commerce Category Analytics.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\E-Commerce Category Analytics\obj\Debug\net10.0\ref\E-Commerce Category Analytics.dll

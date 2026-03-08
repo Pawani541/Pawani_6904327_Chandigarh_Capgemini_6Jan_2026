@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Remove substring and insert new one/1.0.0": {
+        "runtime": {
+          "Remove substring and insert new one.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Remove substring and insert new one/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

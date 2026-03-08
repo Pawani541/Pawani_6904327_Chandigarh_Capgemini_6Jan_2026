@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Phone Number Extraction (10 digits)/1.0.0": {
+        "runtime": {
+          "Phone Number Extraction (10 digits).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phone Number Extraction (10 digits)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\bin\Debug\net10.0\Deleting Alternating Character.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\bin\Debug\net10.0\Deleting Alternating Character.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\bin\Debug\net10.0\Deleting Alternating Character.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\bin\Debug\net10.0\Deleting Alternating Character.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\bin\Debug\net10.0\Deleting Alternating Character.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\obj\Debug\net10.0\Deleting Alternating Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\obj\Debug\net10.0\Deleting Alternating Character.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\obj\Debug\net10.0\Deleting Alternating Character.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\obj\Debug\net10.0\Deleting Alternating Character.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\obj\Debug\net10.0\Deleting Alternating Character.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\obj\Debug\net10.0\refint\Deleting Alternating Character.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\obj\Debug\net10.0\Deleting Alternating Character.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\obj\Debug\net10.0\Deleting Alternating Character.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 6\day34_9th feb\Deleting Alternating Character\obj\Debug\net10.0\ref\Deleting Alternating Character.dll

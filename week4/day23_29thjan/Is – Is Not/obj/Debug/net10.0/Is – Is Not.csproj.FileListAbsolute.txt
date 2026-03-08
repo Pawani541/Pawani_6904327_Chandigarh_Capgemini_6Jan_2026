@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\bin\Debug\net10.0\Is – Is Not.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\bin\Debug\net10.0\Is – Is Not.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\bin\Debug\net10.0\Is – Is Not.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\bin\Debug\net10.0\Is – Is Not.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\bin\Debug\net10.0\Is – Is Not.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\obj\Debug\net10.0\Is – Is Not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\obj\Debug\net10.0\Is – Is Not.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\obj\Debug\net10.0\Is – Is Not.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\obj\Debug\net10.0\Is – Is Not.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\obj\Debug\net10.0\Is – Is Not.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\obj\Debug\net10.0\refint\Is – Is Not.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\obj\Debug\net10.0\Is – Is Not.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\obj\Debug\net10.0\Is – Is Not.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day23_29thjan\Is – Is Not\obj\Debug\net10.0\ref\Is – Is Not.dll

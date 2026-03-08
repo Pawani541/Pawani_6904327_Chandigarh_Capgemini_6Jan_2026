@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Find position of the and of/1.0.0": {
+        "runtime": {
+          "Find position of the and of.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find position of the and of/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

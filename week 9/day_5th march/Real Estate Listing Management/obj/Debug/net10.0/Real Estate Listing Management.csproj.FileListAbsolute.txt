@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\bin\Debug\net10.0\Real Estate Listing Management.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\bin\Debug\net10.0\Real Estate Listing Management.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\bin\Debug\net10.0\Real Estate Listing Management.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\bin\Debug\net10.0\Real Estate Listing Management.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\bin\Debug\net10.0\Real Estate Listing Management.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\obj\Debug\net10.0\refint\Real Estate Listing Management.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 9\day_5th march\Real Estate Listing Management\obj\Debug\net10.0\ref\Real Estate Listing Management.dll

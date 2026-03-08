@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\bin\Debug\net10.0\Hashtag Extraction.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\bin\Debug\net10.0\Hashtag Extraction.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\bin\Debug\net10.0\Hashtag Extraction.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\bin\Debug\net10.0\Hashtag Extraction.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\bin\Debug\net10.0\Hashtag Extraction.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\obj\Debug\net10.0\Hashtag Extraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\obj\Debug\net10.0\Hashtag Extraction.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\obj\Debug\net10.0\Hashtag Extraction.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\obj\Debug\net10.0\Hashtag Extraction.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\obj\Debug\net10.0\Hashtag Extraction.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\obj\Debug\net10.0\refint\Hashtag Extraction.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\obj\Debug\net10.0\Hashtag Extraction.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\obj\Debug\net10.0\Hashtag Extraction.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week 5\day25_2nd feb\Hashtag Extraction\obj\Debug\net10.0\ref\Hashtag Extraction.dll

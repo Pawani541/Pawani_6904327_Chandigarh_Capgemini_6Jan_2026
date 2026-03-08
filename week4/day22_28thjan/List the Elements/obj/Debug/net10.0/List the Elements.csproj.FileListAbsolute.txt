@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\bin\Debug\net10.0\List the Elements.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\bin\Debug\net10.0\List the Elements.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\bin\Debug\net10.0\List the Elements.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\bin\Debug\net10.0\List the Elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\bin\Debug\net10.0\List the Elements.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\obj\Debug\net10.0\List the Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\obj\Debug\net10.0\List the Elements.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\obj\Debug\net10.0\List the Elements.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\obj\Debug\net10.0\List the Elements.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\obj\Debug\net10.0\List the Elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\obj\Debug\net10.0\refint\List the Elements.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\obj\Debug\net10.0\List the Elements.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\obj\Debug\net10.0\List the Elements.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\List the Elements\obj\Debug\net10.0\ref\List the Elements.dll

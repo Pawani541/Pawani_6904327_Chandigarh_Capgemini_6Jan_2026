@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\bin\Debug\net10.0\Gross Salary Calculation.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\bin\Debug\net10.0\Gross Salary Calculation.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\bin\Debug\net10.0\Gross Salary Calculation.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\bin\Debug\net10.0\Gross Salary Calculation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\bin\Debug\net10.0\Gross Salary Calculation.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\obj\Debug\net10.0\Gross Salary Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\obj\Debug\net10.0\Gross Salary Calculation.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\obj\Debug\net10.0\Gross Salary Calculation.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\obj\Debug\net10.0\Gross Salary Calculation.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\obj\Debug\net10.0\Gross Salary Calculation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\obj\Debug\net10.0\refint\Gross Salary Calculation.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\obj\Debug\net10.0\Gross Salary Calculation.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\obj\Debug\net10.0\Gross Salary Calculation.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day9_15thjan\Gross Salary Calculation\obj\Debug\net10.0\ref\Gross Salary Calculation.dll

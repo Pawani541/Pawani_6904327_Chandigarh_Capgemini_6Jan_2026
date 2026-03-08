@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\bin\Debug\net10.0\student grade.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\bin\Debug\net10.0\student grade.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\bin\Debug\net10.0\student grade.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\bin\Debug\net10.0\student grade.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\bin\Debug\net10.0\student grade.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\obj\Debug\net10.0\student grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\obj\Debug\net10.0\student grade.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\obj\Debug\net10.0\student grade.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\obj\Debug\net10.0\student grade.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\obj\Debug\net10.0\student grade.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\obj\Debug\net10.0\refint\student grade.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\obj\Debug\net10.0\student grade.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\obj\Debug\net10.0\student grade.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week1\day3_8thjan\student grade\obj\Debug\net10.0\ref\student grade.dll

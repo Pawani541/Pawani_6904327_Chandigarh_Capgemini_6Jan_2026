@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\bin\Debug\net10.0\Sum of squares of odd digits.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\bin\Debug\net10.0\Sum of squares of odd digits.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\bin\Debug\net10.0\Sum of squares of odd digits.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\bin\Debug\net10.0\Sum of squares of odd digits.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\bin\Debug\net10.0\Sum of squares of odd digits.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\obj\Debug\net10.0\refint\Sum of squares of odd digits.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week2\day8_14thjan\Sum of squares of odd digits\obj\Debug\net10.0\ref\Sum of squares of odd digits.dll

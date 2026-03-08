@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\bin\Debug\net10.0\Lucky String.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\bin\Debug\net10.0\Lucky String.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\bin\Debug\net10.0\Lucky String.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\bin\Debug\net10.0\Lucky String.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\bin\Debug\net10.0\Lucky String.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\obj\Debug\net10.0\Lucky String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\obj\Debug\net10.0\Lucky String.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\obj\Debug\net10.0\Lucky String.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\obj\Debug\net10.0\Lucky String.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\obj\Debug\net10.0\Lucky String.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\obj\Debug\net10.0\refint\Lucky String.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\obj\Debug\net10.0\Lucky String.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\obj\Debug\net10.0\Lucky String.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\day13_20thjan\Lucky String\obj\Debug\net10.0\ref\Lucky String.dll

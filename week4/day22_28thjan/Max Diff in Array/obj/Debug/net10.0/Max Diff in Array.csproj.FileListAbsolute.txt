@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\bin\Debug\net10.0\Max Diff in Array.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\bin\Debug\net10.0\Max Diff in Array.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\bin\Debug\net10.0\Max Diff in Array.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\bin\Debug\net10.0\Max Diff in Array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\bin\Debug\net10.0\Max Diff in Array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\obj\Debug\net10.0\Max Diff in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\obj\Debug\net10.0\Max Diff in Array.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\obj\Debug\net10.0\Max Diff in Array.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\obj\Debug\net10.0\Max Diff in Array.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\obj\Debug\net10.0\Max Diff in Array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\obj\Debug\net10.0\refint\Max Diff in Array.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\obj\Debug\net10.0\Max Diff in Array.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\obj\Debug\net10.0\Max Diff in Array.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week4\day22_28thjan\Max Diff in Array\obj\Debug\net10.0\ref\Max Diff in Array.dll

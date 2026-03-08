@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "count multiples of 3/1.0.0": {
+        "runtime": {
+          "count multiples of 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "count multiples of 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

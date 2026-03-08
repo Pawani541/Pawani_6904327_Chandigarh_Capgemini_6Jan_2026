@@ -1,0 +1,14 @@
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\bin\Debug\net10.0\Predicate.exe
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\bin\Debug\net10.0\Predicate.deps.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\bin\Debug\net10.0\Predicate.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\bin\Debug\net10.0\Predicate.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\bin\Debug\net10.0\Predicate.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\obj\Debug\net10.0\Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\obj\Debug\net10.0\Predicate.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\obj\Debug\net10.0\Predicate.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\obj\Debug\net10.0\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\obj\Debug\net10.0\Predicate.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\obj\Debug\net10.0\refint\Predicate.dll
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\obj\Debug\net10.0\Predicate.pdb
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\obj\Debug\net10.0\Predicate.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\capgemini_CU_sec3_.netwithazure_pawani\week3\23thjan\Predicate\obj\Debug\net10.0\ref\Predicate.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sort Array + Insert Element/1.0.0": {
+        "runtime": {
+          "Sort Array + Insert Element.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sort Array + Insert Element/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

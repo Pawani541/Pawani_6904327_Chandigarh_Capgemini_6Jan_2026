@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Adding years to date/1.0.0": {
+        "runtime": {
+          "Adding years to date.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adding years to date/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
