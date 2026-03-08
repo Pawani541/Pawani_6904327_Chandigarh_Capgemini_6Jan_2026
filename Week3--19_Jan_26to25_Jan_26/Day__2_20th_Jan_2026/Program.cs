@@ -1,53 +1,53 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-class LuckyNumber
+class VowelAssignment
 {
-    // Function to calculate sum of digits
-    static int SumOfDigits(int num)
+    static bool IsVowel(char c)
     {
-        int sum = 0;
-        while (num > 0)
-        {
-            sum += num % 10;
-            num /= 10;
-        }
-        return sum;
-    }
-
-    // Function to check prime
-    static bool IsPrime(int num)
-    {
-        if (num <= 1) return false;
-        for (int i = 2; i <= Math.Sqrt(num); i++)
-        {
-            if (num % i == 0)
-                return false;
-        }
-        return true;
+        c = char.ToLower(c);
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
 
     static void Main()
     {
-        int m = int.Parse(Console.ReadLine());
-        int n = int.Parse(Console.ReadLine());
+        string first = Console.ReadLine();
+        string second = Console.ReadLine();
 
-        int count = 0;
-
-        for (int x = m; x <= n; x++)
+        // Store consonants of second word (case-insensitive)
+        HashSet<char> secondConsonants = new HashSet<char>();
+        foreach (char c in second)
         {
-            // Only non-prime numbers
-            if (!IsPrime(x))
+            char lower = char.ToLower(c);
+            if (!IsVowel(lower))
             {
-                int sumX = SumOfDigits(x);
-                int sumXSq = SumOfDigits(x * x);
-
-                if (sumXSq == sumX * sumX)
-                {
-                    count++;
-                }
+                secondConsonants.Add(lower);
             }
         }
 
-        Console.WriteLine(count);
+        // Step 1: Remove common consonants
+        StringBuilder filtered = new StringBuilder();
+        foreach (char c in first)
+        {
+            char lower = char.ToLower(c);
+
+            if (IsVowel(lower) || !secondConsonants.Contains(lower))
+            {
+                filtered.Append(c);
+            }
+        }
+
+        // Step 2: Remove consecutive duplicates
+        StringBuilder result = new StringBuilder();
+        for (int i = 0; i < filtered.Length; i++)
+        {
+            if (i == 0 || filtered[i] != filtered[i - 1])
+            {
+                result.Append(filtered[i]);
+            }
+        }
+
+        Console.WriteLine(result.ToString());
     }
 }
