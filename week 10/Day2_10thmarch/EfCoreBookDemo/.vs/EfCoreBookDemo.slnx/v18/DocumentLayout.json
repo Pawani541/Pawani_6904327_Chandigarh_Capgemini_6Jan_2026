@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day2_10thmarch\\efcorebookdemo\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|solutionrelative:views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day2_10thmarch\\efcorebookdemo\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day2_10thmarch\\efcorebookdemo\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|solutionrelative:models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day2_10thmarch\\efcorebookdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day2_10thmarch\\efcorebookdemo\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day2_10thmarch\\efcorebookdemo\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day2_10thmarch\\efcorebookdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day2_10thmarch\\efcorebookdemo\\migrations\\20260310045907_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04107E85-066C-2F55-9D47-4D1CBC62CA2E}|EfCoreBookDemo.csproj|solutionrelative:migrations\\20260310045907_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T06:48:17.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Models\\BookDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\BookDBContext.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Models\\BookDBContext.cs",
+              "RelativeToolTip": "Models\\BookDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:32:29.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:30:22.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T06:04:40.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:01:15.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260310045907_m1.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Migrations\\20260310045907_m1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260310045907_m1.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Migrations\\20260310045907_m1.cs",
+              "RelativeToolTip": "Migrations\\20260310045907_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:59:08.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:56:38.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day2_10thmarch\\EfCoreBookDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T04:56:12.26Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

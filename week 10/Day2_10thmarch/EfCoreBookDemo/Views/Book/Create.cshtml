@@ -1,0 +1,30 @@
+﻿@model EfCoreBookDemo.Models.BookModel
+
+<h1>Create Book</h1>
+
+<form asp-action="Create">
+
+    <div>
+        <label asp-for="BookName"></label>
+        <input asp-for="BookName" />
+    </div>
+
+    <div>
+        <label asp-for="Author"></label>
+        <input asp-for="Author" />
+    </div>
+
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" />
+    </div>
+
+
+
+    <br />
+
+    <input type="submit" value="Create" />
+
+</form>
+
+<a asp-action="Index">Back to List</a>

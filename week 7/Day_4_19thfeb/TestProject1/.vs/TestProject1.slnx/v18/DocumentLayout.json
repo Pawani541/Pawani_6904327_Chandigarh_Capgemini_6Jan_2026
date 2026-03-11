@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 7\\Day_4_19thfeb\\TestProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF9923D6-0644-484C-97C7-952590CEF93C}|TestProject1.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 7\\day_4_19thfeb\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9923D6-0644-484C-97C7-952590CEF93C}|TestProject1.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68C73127-F2BF-5424-83B5-E8A85B1DFAA1}|TestProject1.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 7\\day_4_19thfeb\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C73127-F2BF-5424-83B5-E8A85B1DFAA1}|TestProject1.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -26,12 +30,7 @@
               "RelativeToolTip": "UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T09:57:37.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2026-03-08T09:57:37.086Z"
             }
           ]
         }
