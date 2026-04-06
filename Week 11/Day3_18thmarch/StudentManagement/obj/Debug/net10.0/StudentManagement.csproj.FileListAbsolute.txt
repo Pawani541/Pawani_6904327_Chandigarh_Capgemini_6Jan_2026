@@ -1,0 +1,10 @@
+C:\Users\manis\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\Week 11\Day3_18thmarch\StudentManagement\obj\Debug\net10.0\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\manis\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\Week 11\Day3_18thmarch\StudentManagement\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\manis\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\Week 11\Day3_18thmarch\StudentManagement\obj\Debug\net10.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\Week 11\Day3_18thmarch\StudentManagement\obj\Debug\net10.0\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\Week 11\Day3_18thmarch\StudentManagement\obj\Debug\net10.0\StudentManagement.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\Week 11\Day3_18thmarch\StudentManagement\obj\Debug\net10.0\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\Week 11\Day3_18thmarch\StudentManagement\obj\Debug\net10.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manis\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\Week 11\Day3_18thmarch\StudentManagement\obj\Debug\net10.0\StudentManagement.RazorAssemblyInfo.cache
+C:\Users\manis\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\Week 11\Day3_18thmarch\StudentManagement\obj\Debug\net10.0\StudentManagement.RazorAssemblyInfo.cs
+C:\Users\manis\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\Week 11\Day3_18thmarch\StudentManagement\obj\Debug\net10.0\StudentManagement.sourcelink.json

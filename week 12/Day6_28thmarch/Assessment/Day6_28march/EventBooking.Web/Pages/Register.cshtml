@@ -1,0 +1,85 @@
+@page
+@model EventBooking.Web.Pages.RegisterModel
+@{ ViewData["Title"] = "Register"; }
+
+<div class="row justify-content-center">
+  <div class="col-md-4">
+    <div class="card shadow">
+      <div class="card-header bg-success text-white text-center">
+        <h4>📝 Register</h4>
+      </div>
+      <div class="card-body">
+        <div id="errorMsg" class="alert alert-danger d-none"></div>
+        <div id="successMsg" class="alert alert-success d-none"></div>
+
+        <div class="mb-3">
+          <label class="form-label">Username</label>
+          <input id="username" type="text" class="form-control" placeholder="Enter username"/>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Email</label>
+          <input id="email" type="email" class="form-control" placeholder="Enter email"/>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Password</label>
+          <input id="password" type="password" class="form-control" placeholder="Enter password"/>
+        </div>
+
+        <button onclick="register()" class="btn btn-success w-100">Register</button>
+        <p class="text-center mt-3">Already have an account? <a href="/Login">Login</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+@section Scripts {
+<script>
+async function register() {
+    const username = document.getElementById('username').value.trim();
+    const email    = document.getElementById('email').value.trim();
+    const password = document.getElementById('password').value.trim();
+
+    // Client-side validation
+    if (!username || !email || !password) {
+        showError("Please fill in all fields.");
+        return;
+    }
+    if (password.length < 6) {
+        showError("Password must be at least 6 characters.");
+        return;
+    }
+
+    try {
+        const res = await fetch('http://localhost:5024/api/auth/register', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ username, email, password })
+        });
+
+        const text = await res.text();  // read raw response first
+
+        if (res.ok) {
+            const data = JSON.parse(text);
+            localStorage.setItem('jwt_token', data.token);
+            document.getElementById('successMsg').textContent = "✅ Registered! Redirecting...";
+            document.getElementById('successMsg').classList.remove('d-none');
+            document.getElementById('errorMsg').classList.add('d-none');
+            setTimeout(() => { window.location.href = '/Events'; }, 1500);
+        } else {
+            showError("Registration failed: " + text);  // shows exact server error
+        }
+
+    } catch (err) {
+        // This catches network errors like CORS or API not running
+        showError("Cannot connect to API. Make sure API is running. Error: " + err.message);
+    }
+}
+
+function showError(msg) {
+    const el = document.getElementById('errorMsg');
+    el.textContent = msg;
+    el.classList.remove('d-none');
+    document.getElementById('successMsg').classList.add('d-none');
+}
+</script>
+}

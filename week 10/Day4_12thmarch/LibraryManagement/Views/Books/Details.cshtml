@@ -1,0 +1,27 @@
+﻿@model LibraryManagement.Models.Book
+
+<h2>Book Details</h2>
+
+@if (Model != null)
+{
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <td>@Model.Id</td>
+        </tr>
+
+        <tr>
+            <th>Title</th>
+            <td>@Model.Title</td>
+        </tr>
+
+        <tr>
+            <th>Author</th>
+            <td>@Model.Author</td>
+        </tr>
+    </table>
+}
+else
+{
+    <p>No book found</p>
+}

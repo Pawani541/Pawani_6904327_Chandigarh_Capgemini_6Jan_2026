@@ -1,0 +1,31 @@
+@model List<ECommerceOrderManagement.MVC.Models.OrderViewModel>
+@{ ViewData["Title"] = "All Orders"; Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<h2 class="mb-4"><i class="fas fa-list-alt me-2"></i>All User Orders</h2>
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No orders have been placed yet.</div>
+}
+@foreach (var o in Model)
+{
+    <div class="card mb-3 p-3">
+        <div class="d-flex justify-content-between align-items-center">
+            <div>
+                <h5 class="mb-1">Order #@o.Id</h5>
+                <small class="text-muted">@o.OrderDate.ToString("dd MMM yyyy, hh:mm tt")</small>
+            </div>
+            <div class="text-end">
+                <span class="badge bg-warning text-dark fs-6">@o.Status</span>
+                <h5 class="text-primary mt-1">&#8377;@o.TotalAmount.ToString("N0")</h5>
+            </div>
+        </div>
+        <hr/>
+        @foreach (var item in o.Items)
+        {
+            <div class="d-flex justify-content-between py-1">
+                <span><i class="fas fa-box me-2"></i>@item.ProductName &times; @item.Quantity</span>
+                <span class="fw-bold">&#8377;@((item.UnitPrice * item.Quantity).ToString("N0"))</span>
+            </div>
+        }
+    </div>
+}

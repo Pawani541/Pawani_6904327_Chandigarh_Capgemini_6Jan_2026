@@ -1,0 +1,23 @@
+﻿@model LibraryManagementMVC.Models.BookViewModel
+
+<h2>Add Book</h2>
+
+<form asp-action="Create" method="post">
+
+    <input asp-for="Book.Title" placeholder="Title" class="form-control" />
+    <span asp-validation-for="Book.Title"></span>
+
+    <input asp-for="Book.Author" placeholder="Author" class="form-control" />
+    <span asp-validation-for="Book.Author"></span>
+
+    <input asp-for="Book.PublishedYear" placeholder="Year" class="form-control" />
+
+    <input asp-for="Book.Genre" placeholder="Genre" class="form-control" />
+
+    <label>Available</label>
+    <input asp-for="IsAvailable" type="checkbox" />
+
+    <input asp-for="BorrowerName" placeholder="Borrower Name" class="form-control" />
+
+    <button type="submit">Add</button>
+</form>

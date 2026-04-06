@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Model_level_Validation.Models.Company>
+
+<h2>Companies</h2>
+
+<a asp-action="Create" class="btn btn-primary">Add Company</a>
+
+<a href="/Employees/Create" class="btn btn-success">Add Employee</a>
+
+<table border="1" class="table">
+    <thead>
+        <tr>
+            <th>Company Name</th>
+            <th>Employees</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var company in Model)
+        {
+            <tr>
+                <td>@company.Name</td>
+
+                <td>
+                    <ul>
+                        @foreach (var emp in company.Employees)
+                        {
+                            <li>@emp.Name</li>
+                        }
+                    </ul>
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@company.CompanyId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@company.CompanyId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

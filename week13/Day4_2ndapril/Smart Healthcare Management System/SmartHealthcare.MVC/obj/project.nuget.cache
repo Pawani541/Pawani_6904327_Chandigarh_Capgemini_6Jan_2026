@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "TDQXK297GLM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2005p\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week13\\Day4_2ndapril\\Smart Healthcare Management System\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2005p\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.3.9\\microsoft.aspnetcore.authentication.cookies.2.3.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.AspNetCore.Authentication.Cookies will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\2005p\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week13\\Day4_2ndapril\\Smart Healthcare Management System\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\2005p\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week13\\Day4_2ndapril\\Smart Healthcare Management System\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Cookies",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

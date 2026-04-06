@@ -1,0 +1,227 @@
+﻿@{
+    ViewData["Title"] = "Doctor Dashboard";
+}
+
+<div id="doctorDashboard" style="display:none;">
+    <div class="card p-3 mb-4 bg-light">
+        <h4>👨‍⚕️ Welcome Dr. <span id="doctorNameDisplay"></span></h4>
+        <small class="text-muted">Role: Doctor | User ID: <span id="doctorIdDisplay"></span></small>
+    </div>
+
+    <h4 class="mb-3">💰 Patient Bills & Prescriptions</h4>
+    <p class="text-muted">Click <strong>💊 Prescribe</strong> to add medicines and update the bill charges for unpaid appointments.</p>
+    <div class="mb-3">
+        <button class="btn btn-outline-danger me-2" onclick="filterBills('Unpaid')">🔴 Unpaid</button>
+        <button class="btn btn-outline-success me-2" onclick="filterBills('Paid')">🟢 Paid</button>
+        <button class="btn btn-outline-secondary" onclick="filterBills('All')">📋 All Bills</button>
+    </div>
+    <div id="billsList">
+        <div class="text-center"><div class="spinner-border text-warning"></div><p>Loading bills...</p></div>
+    </div>
+</div>
+
+<div id="publicDoctorView" style="display:none;">
+    <h2 class="mb-4">👨‍⚕️ Our Doctors</h2>
+    <div class="row" id="doctorsList">
+        <div class="text-center"><div class="spinner-border text-primary"></div></div>
+    </div>
+</div>
+
+<!-- Prescription Modal -->
+<div class="modal fade" id="prescriptionModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-primary text-white">
+                <h5 class="modal-title">💊 Write Prescription & Set Charges</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="alert alert-info">
+                    <strong>Patient:</strong> <span id="modalPatientName"></span><br>
+                    <strong>Symptoms:</strong> <span id="modalSymptoms" class="text-danger"></span>
+                </div>
+                <input type="hidden" id="modalAppointmentId" />
+                <input type="hidden" id="modalBillId" />
+                <div class="mb-3">
+                    <label class="form-label fw-bold">💊 Medicines Prescribed</label>
+                    <textarea class="form-control" id="modalMedicines" rows="3" placeholder="e.g. Paracetamol 500mg twice daily&#10;Cough syrup 5ml three times daily"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label fw-bold">📝 Doctor Notes</label>
+                    <textarea class="form-control" id="modalNotes" rows="2" placeholder="e.g. Take rest, drink fluids, follow up in 3 days"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label fw-bold">💰 Medicine Charges (₹)</label>
+                    <input type="number" class="form-control" id="modalMedicineCharges" value="0" min="0" placeholder="Enter medicine charges" />
+                </div>
+                <div class="alert alert-warning">
+                    <strong>Consultation Fee:</strong> ₹500 (fixed)<br>
+                    <strong>Total will be:</strong> ₹500 + medicine charges
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button class="btn btn-primary" onclick="savePrescription()">💾 Save & Update Bill</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let allBills = [];
+
+    const userId = sessionStorage.getItem('userId');
+    const userName = sessionStorage.getItem('userFullName');
+    const userRole = sessionStorage.getItem('userRole');
+
+    if (userRole === 'Doctor') {
+        document.getElementById('doctorDashboard').style.display = 'block';
+        document.getElementById('publicDoctorView').style.display = 'none';
+        document.getElementById('doctorNameDisplay').textContent = userName;
+        document.getElementById('doctorIdDisplay').textContent = userId;
+
+        loadBills();
+    } else {
+        document.getElementById('doctorDashboard').style.display = 'none';
+        document.getElementById('publicDoctorView').style.display = 'block';
+
+        fetch('https://localhost:7100/api/Doctors')
+            .then(r => r.json())
+            .then(doctors => {
+                const container = document.getElementById('doctorsList');
+                if (doctors.length === 0) {
+                    container.innerHTML = '<p class="text-muted">No doctors found.</p>';
+                    return;
+                }
+                container.innerHTML = doctors.map(d =>
+                    `<div class="col-md-4 mb-4">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <h5 class="card-title text-primary">👨‍⚕️ ${d.fullName}</h5>
+                                <span class="badge bg-info text-dark mb-2">${d.specialization}</span>
+                                <p><strong>🏥 Department:</strong> ${d.departmentName}</p>
+                                <p><strong>⭐ Experience:</strong> ${d.experienceYears} years</p>
+                                <p><strong>🕐 Available:</strong> ${d.availability}</p>
+                            </div>
+                            <div class="card-footer">
+                                <a href="/Appointment/Book?doctorId=${d.doctorId}" class="btn btn-primary w-100">Book Appointment</a>
+                            </div>
+                        </div>
+                    </div>`
+                ).join('');
+            })
+            .catch(() => {
+                document.getElementById('doctorsList').innerHTML = '<div class="alert alert-danger">Could not load doctors.</div>';
+            });
+    }
+
+    function loadBills() {
+        fetch('https://localhost:7100/api/Bills')
+            .then(r => r.json())
+            .then(bills => {
+                allBills = bills;
+                renderBills(bills);
+            })
+            .catch(() => {
+                document.getElementById('billsList').innerHTML = '<div class="alert alert-danger">Could not load bills. Make sure API is running.</div>';
+            });
+    }
+
+    function filterBills(status) {
+        const filtered = status === 'All' ? allBills : allBills.filter(b => b.paymentStatus === status);
+        renderBills(filtered);
+    }
+
+    function renderBills(bills) {
+        const container = document.getElementById('billsList');
+        if (bills.length === 0) {
+            container.innerHTML = '<div class="alert alert-info">No bills found.</div>';
+            return;
+        }
+        let html = `<div class="table-responsive"><table class="table table-striped table-hover table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>Bill ID</th>
+                    <th>Patient</th>
+                    <th>Symptoms</th>
+                    <th>💊 Medicines</th>
+                    <th>📝 Notes</th>
+                    <th>Consult Fee</th>
+                    <th>Medicine Fee</th>
+                    <th>Total</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead><tbody>`;
+        bills.forEach(b => {
+            const total = (parseFloat(b.consultationFee) + parseFloat(b.medicineCharges)).toFixed(2);
+            const badge = b.paymentStatus === 'Paid' ? 'success' : 'danger';
+            const hasPrescription = b.medicines && b.medicines !== 'Awaiting prescription' && b.medicines !== '';
+            html += `<tr>
+                <td>${b.billId}</td>
+                <td><strong>${b.patientName || 'N/A'}</strong></td>
+                <td><small class="text-danger">${b.symptoms || '-'}</small></td>
+                <td><small class="text-success">${b.medicines || '-'}</small></td>
+                <td><small class="text-info">${b.doctorNotes || '-'}</small></td>
+                <td>₹${b.consultationFee}</td>
+                <td>₹${b.medicineCharges}</td>
+                <td><strong>₹${total}</strong></td>
+                <td><span class="badge bg-${badge}">${b.paymentStatus}</span></td>
+                <td>
+                    ${b.paymentStatus === 'Unpaid' ? `<button class="btn btn-sm btn-primary mb-1" onclick="openPrescription(${b.appointmentId}, ${b.billId}, '${(b.patientName||'').replace(/'/g,"\\'")}', '${(b.symptoms||'').replace(/'/g,"\\'")}')">💊 Prescribe</button><br>` : ''}
+                    ${b.paymentStatus === 'Unpaid' ? `<button class="btn btn-sm btn-success" onclick="markPaid(${b.billId})">✅ Mark Paid</button>` : '<span class="text-success fw-bold">✔ Paid</span>'}
+                </td>
+            </tr>`;
+        });
+        html += '</tbody></table></div>';
+        container.innerHTML = html;
+    }
+
+    function openPrescription(appointmentId, billId, patientName, symptoms) {
+        document.getElementById('modalAppointmentId').value = appointmentId;
+        document.getElementById('modalBillId').value = billId;
+        document.getElementById('modalPatientName').textContent = patientName;
+        document.getElementById('modalSymptoms').textContent = symptoms || 'Not specified';
+        document.getElementById('modalMedicines').value = '';
+        document.getElementById('modalNotes').value = '';
+        document.getElementById('modalMedicineCharges').value = '0';
+        new bootstrap.Modal(document.getElementById('prescriptionModal')).show();
+    }
+
+    function savePrescription() {
+        const appointmentId = parseInt(document.getElementById('modalAppointmentId').value);
+        const billId = parseInt(document.getElementById('modalBillId').value);
+        const medicines = document.getElementById('modalMedicines').value;
+        const notes = document.getElementById('modalNotes').value;
+        const medicineCharges = parseFloat(document.getElementById('modalMedicineCharges').value) || 0;
+
+        if (!medicines) {
+            alert('Please enter the medicines prescribed.');
+            return;
+        }
+
+        fetch('https://localhost:7100/api/Prescriptions', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ appointmentId, medicines, notes, medicineCharges })
+        })
+        .then(r => r.json())
+        .then(() => {
+            bootstrap.Modal.getInstance(document.getElementById('prescriptionModal')).hide();
+            alert(`✅ Prescription saved!\nMedicine charges ₹${medicineCharges} added to bill.`);
+            loadBills();
+        })
+        .catch(() => alert('❌ Failed to save prescription.'));
+    }
+
+    function markPaid(billId) {
+        if (!confirm('Mark this bill as paid?')) return;
+        fetch(`https://localhost:7100/api/Bills/${billId}/pay`, { method: 'PUT' })
+            .then(r => r.json())
+            .then(() => {
+                allBills = allBills.map(b => b.billId === billId ? { ...b, paymentStatus: 'Paid' } : b);
+                renderBills(allBills);
+            })
+            .catch(() => alert('Failed to update payment.'));
+    }
+</script>

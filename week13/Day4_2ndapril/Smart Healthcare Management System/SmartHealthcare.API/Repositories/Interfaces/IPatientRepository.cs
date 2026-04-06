@@ -1,0 +1,14 @@
+﻿using SmartHealthcare.Core.Models;
+
+namespace SmartHealthcare.API.Repositories.Interfaces
+{
+    public interface IPatientRepository
+    {
+        Task<IEnumerable<Patient>> GetAllAsync();
+        Task<Patient?> GetByIdAsync(int id);
+        Task<Patient?> GetByUserIdAsync(int userId);
+        Task<Patient> CreateAsync(Patient patient);
+        Task<Patient?> UpdateAsync(int id, Patient patient);
+        Task<bool> DeleteAsync(int id);
+    }
+}

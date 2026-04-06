@@ -1,0 +1,107 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+<div class="row justify-content-center">
+    <div class="col-md-5">
+        <div class="card p-4 mt-4">
+            <h3 class="text-center mb-4">📝 Register</h3>
+            <div class="mb-3">
+                <label class="form-label">Full Name</label>
+                <input type="text" class="form-control" id="fullName" placeholder="Enter full name" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter email" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Password</label>
+                <input type="password" class="form-control" id="password" placeholder="Enter password" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Role</label>
+                <select class="form-control" id="role" onchange="toggleDoctorFields()">
+                    <option value="Patient">Patient</option>
+                    <option value="Doctor">Doctor</option>
+                    <option value="Admin">Admin</option>
+                </select>
+            </div>
+            <div id="doctorFields" style="display:none;">
+                <hr />
+                <h6 class="text-info">👨‍⚕️ Doctor Details</h6>
+                <div class="mb-3">
+                    <label class="form-label">Specialization</label>
+                    <input type="text" class="form-control" id="specialization" placeholder="e.g. Cardiology" />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Department ID</label>
+                    <input type="number" class="form-control" id="departmentId" placeholder="Enter Department ID" />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Experience (Years)</label>
+                    <input type="number" class="form-control" id="experienceYears" placeholder="e.g. 5" />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Availability</label>
+                    <input type="text" class="form-control" id="availability" placeholder="e.g. Mon-Fri 9AM-5PM" />
+                </div>
+            </div>
+            <button class="btn btn-success w-100" onclick="register()">Register</button>
+            <p class="text-center mt-3">Already have an account? <a href="/Account/Login">Login</a></p>
+        </div>
+        <div id="message" class="mt-3"></div>
+    </div>
+</div>
+
+<script>
+    function toggleDoctorFields() {
+        const role = document.getElementById('role').value;
+        document.getElementById('doctorFields').style.display = role === 'Doctor' ? 'block' : 'none';
+    }
+
+    function register() {
+        const fullName = document.getElementById('fullName').value;
+        const email = document.getElementById('email').value;
+        const password = document.getElementById('password').value;
+        const role = document.getElementById('role').value;
+
+        if (!fullName || !email || !password) {
+            document.getElementById('message').innerHTML = '<div class="alert alert-warning">Please fill all required fields.</div>';
+            return;
+        }
+
+        fetch('https://localhost:7100/api/Users/register', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ fullName, email, password, role })
+        })
+        .then(r => {
+            if (!r.ok) return r.json().then(e => { throw new Error(e.message || 'Registration failed'); });
+            return r.json();
+        })
+        .then(res => {
+            const userId = res.userId;
+            if (role === 'Doctor') {
+                const specialization = document.getElementById('specialization').value;
+                const departmentId = parseInt(document.getElementById('departmentId').value) || 1;
+                const experienceYears = parseInt(document.getElementById('experienceYears').value) || 0;
+                const availability = document.getElementById('availability').value;
+                return fetch('https://localhost:7100/api/Doctors', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ userId, departmentId, specialization, experienceYears, availability })
+                }).then(() => userId);
+            }
+            return userId;
+        })
+        .then(userId => {
+            document.getElementById('message').innerHTML =
+                `<div class="alert alert-success">
+                    ✅ Registered successfully! Your User ID: <strong>${userId}</strong>
+                    <br><a href="/Account/Login" class="btn btn-sm btn-primary mt-2">Login now</a>
+                 </div>`;
+        })
+        .catch(err => {
+            document.getElementById('message').innerHTML = `<div class="alert alert-danger">❌ ${err.message}</div>`;
+        });
+    }
+</script>

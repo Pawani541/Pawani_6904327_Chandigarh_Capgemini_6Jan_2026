@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Order>
+
+<h2>📦 Orders</h2>
+
+<table class="table table-bordered table-hover shadow">
+    <tr class="table-dark">
+        <th>Customer</th>
+        <th>Date</th>
+        <th>Status</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Customer?.Name</td>
+            <td>@item.OrderDate</td>
+            <td>
+                <span class="badge bg-warning">@item.ShippingDetail?.Status</span>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day3_11thmarch\\hospitaldbapp\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day3_11thmarch\\hospitaldbapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day3_11thmarch\\hospitaldbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day3_11thmarch\\hospitaldbapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day3_11thmarch\\hospitaldbapp\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day3_11thmarch\\hospitaldbapp\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day3_11thmarch\\hospitaldbapp\\models\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|solutionrelative:models\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day3_11thmarch\\hospitaldbapp\\migrations\\20260311102955_fixconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|solutionrelative:migrations\\20260311102955_fixconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day3_11thmarch\\hospitaldbapp\\migrations\\20260311102257_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|solutionrelative:migrations\\20260311102257_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|c:\\users\\manis\\onedrive\\documents\\github\\pawani_6904327_chandigarh_capgemini_6jan_2026\\week 10\\day3_11thmarch\\hospitaldbapp\\migrations\\20260311101602_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83AB4CC-794C-8DE8-6253-E5CE4F883FB9}|HospitalDBApp.csproj|solutionrelative:migrations\\20260311101602_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260311102955_FixConnection.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Migrations\\20260311102955_FixConnection.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311102955_FixConnection.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Migrations\\20260311102955_FixConnection.cs",
+              "RelativeToolTip": "Migrations\\20260311102955_FixConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:29:55.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260311102257_UpdateDB.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Migrations\\20260311102257_UpdateDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311102257_UpdateDB.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Migrations\\20260311102257_UpdateDB.cs",
+              "RelativeToolTip": "Migrations\\20260311102257_UpdateDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:22:58.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260311101602_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Migrations\\20260311101602_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311101602_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Migrations\\20260311101602_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260311101602_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:16:07.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T10:10:21.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:27:47.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T08:26:04.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:29:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:28:09.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:26:25.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Models\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\manis\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week 10\\Day3_11thmarch\\HospitalDBApp\\Models\\HospitalDbContext.cs",
+              "RelativeToolTip": "Models\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:23:28.903Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

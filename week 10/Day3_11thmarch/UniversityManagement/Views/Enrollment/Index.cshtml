@@ -1,0 +1,24 @@
+﻿@model IEnumerable<UniversityManagement.Models.Enrollment>
+
+<h2>Enrollments</h2>
+
+<a asp-action="Create" class="btn btn-primary">Enroll Student</a>
+
+<table class="table">
+
+    <tr>
+        <th>Student</th>
+        <th>Course</th>
+        <th>Grade</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Student.FullName</td>
+            <td>@item.Course.Title</td>
+            <td>@item.Grade</td>
+        </tr>
+    }
+
+</table>

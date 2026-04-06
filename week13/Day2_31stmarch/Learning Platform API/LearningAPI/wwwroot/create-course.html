@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Course</title>
+    <style>
+        body { font-family: Arial; background: #f0f2f5; display: flex; justify-content: center; align-items: center; height: 100vh; }
+        .card { background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); width: 400px; }
+        h2 { text-align: center; color: #333; }
+        input { width: 100%; padding: 10px; margin: 8px 0; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; }
+        button { width: 100%; padding: 10px; background: #2196F3; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; }
+        button:hover { background: #1976D2; }
+        .error { color: red; font-size: 14px; }
+        .success { color: green; font-size: 14px; }
+        nav { margin-bottom: 20px; text-align: center; }
+        nav a { margin-right: 15px; color: #2196F3; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+<div class="card">
+    <nav>
+        <a href="courses.html">Back to Courses</a>
+    </nav>
+    <h2>Create Course</h2>
+    <input type="text" id="title" placeholder="Course Title" />
+    <p class="error" id="error"></p>
+    <p class="success" id="success"></p>
+    <button onclick="createCourse()">Create Course</button>
+</div>
+<script>
+    const token = localStorage.getItem("token");
+    if (!token) window.location.href = "login.html";
+
+    async function createCourse() {
+        const title = document.getElementById("title").value.trim();
+        const errorEl = document.getElementById("error");
+        const successEl = document.getElementById("success");
+
+        errorEl.textContent = "";
+        successEl.textContent = "";
+
+        if (!title) { errorEl.textContent = "Title is required"; return; }
+
+        try {
+            const res = await fetch("/api/v1/courses", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": "Bearer " + token
+                },
+                body: JSON.stringify({ title })
+            });
+            const data = await res.json();
+            if (!res.ok) { errorEl.textContent = data.error || "Failed to create course"; return; }
+            successEl.textContent = "Course created! Redirecting...";
+            setTimeout(() => window.location.href = "courses.html", 1500);
+        } catch {
+            errorEl.textContent = "Server error. Try again.";
+        }
+    }
+</script>
+</body>
+</html>

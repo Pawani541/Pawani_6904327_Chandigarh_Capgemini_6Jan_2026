@@ -1,0 +1,208 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Courses</title>
+    <style>
+        body { font-family: Arial; background: #f0f2f5; padding: 20px; }
+        h2, h3 { color: #333; }
+        .course-card { background: white; padding: 1rem; margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .course-card h3 { margin: 0 0 5px; color: #2196F3; }
+        .btn { padding: 8px 16px; background: #4CAF50; color: white; border: none; border-radius: 4px; cursor: pointer; margin-right: 5px; }
+        .btn-enrolled { background: #9E9E9E; cursor: not-allowed; }
+        .btn-purple { background: #9C27B0; }
+        .btn-small { padding: 5px 10px; font-size: 13px; }
+        nav { margin-bottom: 20px; display: flex; align-items: center; justify-content: space-between; }
+        nav div a { margin-right: 15px; color: #2196F3; text-decoration: none; font-weight: bold; }
+        .badge { padding: 5px 12px; border-radius: 20px; font-size: 13px; font-weight: bold; color: white; }
+        .badge-instructor { background: #9C27B0; }
+        .badge-student { background: #FF9800; }
+        .lesson-count { color: #666; font-size: 14px; margin: 5px 0; }
+        .section-title { margin-top: 30px; padding-bottom: 5px; border-bottom: 2px solid #2196F3; color: #2196F3; }
+        .enrolled-card { background: #E8F5E9; padding: 1rem; margin: 10px 0; border-radius: 8px; border-left: 4px solid #4CAF50; }
+        .enrolled-card h3 { margin: 0 0 5px; color: #2E7D32; }
+        .add-lesson-form { margin-top: 10px; display: flex; gap: 8px; }
+        .add-lesson-form input { flex: 1; padding: 6px 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 13px; }
+        .lessons-list { margin-top: 8px; font-size: 13px; color: #555; }
+        .lessons-list li { margin: 3px 0; }
+    </style>
+</head>
+<body>
+<nav>
+    <div id="nav-links"></div>
+    <span id="role-badge"></span>
+</nav>
+
+<h2>All Courses</h2>
+<div id="courses-list">Loading...</div>
+
+<div id="enrolled-section" style="display:none">
+    <h2 class="section-title">My Enrolled Courses</h2>
+    <div id="enrolled-list">Loading...</div>
+</div>
+
+<script>
+    const token = localStorage.getItem("token");
+    if (!token) window.location.href = "login.html";
+
+    function parseToken(t) {
+        try { return JSON.parse(atob(t.split(".")[1])); } catch { return {}; }
+    }
+
+    const payload = parseToken(token);
+    const role = payload["http://schemas.microsoft.com/ws/2008/06/identity/claims/role"] || "Unknown";
+    const userId = parseInt(payload["http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier"] || "0");
+    const username = payload["http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name"] || "User";
+
+    const badge = document.getElementById("role-badge");
+    badge.textContent = username + " (" + role + ")";
+    badge.className = "badge badge-" + role.toLowerCase();
+
+    const navLinks = document.getElementById("nav-links");
+    if (role === "Instructor" || role === "Admin") {
+        navLinks.innerHTML = '<a href="courses.html">Courses</a><a href="create-course.html">Create Course</a><a href="#" onclick="logout()">Logout</a>';
+    } else {
+        navLinks.innerHTML = '<a href="courses.html">Courses</a><a href="#" onclick="logout()">Logout</a>';
+    }
+
+    let enrolledCourseIds = [];
+    let allCourses = [];
+
+    async function loadEnrollments() {
+        try {
+            const res = await fetch("/api/v1/enrollments/" + userId, {
+                headers: { "Authorization": "Bearer " + token }
+            });
+            if (res.ok) {
+                const data = await res.json();
+                enrolledCourseIds = data.map(e => e.courseId);
+            }
+        } catch {}
+    }
+
+    async function loadCourses() {
+        await loadEnrollments();
+        const res = await fetch("/api/v1/courses", {
+            headers: { "Authorization": "Bearer " + token }
+        });
+        if (res.status === 401) { window.location.href = "login.html"; return; }
+        allCourses = await res.json();
+        renderCourses();
+        if (role === "Student") showEnrolledCourses();
+    }
+
+    function renderCourses() {
+        const container = document.getElementById("courses-list");
+        if (allCourses.length === 0) { container.innerHTML = "<p>No courses yet.</p>"; return; }
+
+        let html = "";
+        for (const c of allCourses) {
+            html += "<div class='course-card' id='card-" + c.id + "'>";
+            html += "<h3>" + c.title + "</h3>";
+            html += "<p class='lesson-count'>Lessons: " + c.lessons.length + "</p>";
+
+            if (c.lessons.length > 0) {
+                html += "<ul class='lessons-list'>";
+                for (const l of c.lessons) {
+                    html += "<li>📖 " + l.name + "</li>";
+                }
+                html += "</ul>";
+            }
+
+            if (role === "Instructor" || role === "Admin") {
+                html += "<div class='add-lesson-form'>";
+                html += "<input type='text' id='lesson-" + c.id + "' placeholder='New lesson name' />";
+                html += "<button class='btn btn-purple btn-small' onclick='addLesson(" + c.id + ")'>+ Add Lesson</button>";
+                html += "</div>";
+                html += "<p id='lesson-msg-" + c.id + "' style='color:green;font-size:13px;'></p>";
+            } else if (role === "Student") {
+                if (enrolledCourseIds.includes(c.id)) {
+                    html += "<button class='btn btn-enrolled' disabled>Enrolled</button>";
+                } else {
+                    html += "<button class='btn' onclick='enroll(" + c.id + ", this)'>Enroll</button>";
+                }
+            }
+
+            html += "</div>";
+        }
+        container.innerHTML = html;
+    }
+
+    async function addLesson(courseId) {
+        const input = document.getElementById("lesson-" + courseId);
+        const msg = document.getElementById("lesson-msg-" + courseId);
+        const name = input.value.trim();
+
+        if (!name) { msg.style.color = "red"; msg.textContent = "Lesson name is required"; return; }
+
+        const res = await fetch("/api/v1/courses/" + courseId + "/lessons", {
+            method: "POST",
+            headers: { "Content-Type": "application/json", "Authorization": "Bearer " + token },
+            body: JSON.stringify({ name: name })
+        });
+        const data = await res.json();
+        if (res.ok) {
+            msg.style.color = "green";
+            msg.textContent = "Lesson added!";
+            input.value = "";
+            const course = allCourses.find(c => c.id === courseId);
+            if (course) course.lessons.push(data);
+            renderCourses();
+        } else {
+            msg.style.color = "red";
+            msg.textContent = data.error || "Failed to add lesson";
+        }
+    }
+
+    function showEnrolledCourses() {
+        const section = document.getElementById("enrolled-section");
+        const list = document.getElementById("enrolled-list");
+        section.style.display = "block";
+
+        const enrolled = allCourses.filter(c => enrolledCourseIds.includes(c.id));
+        if (enrolled.length === 0) { list.innerHTML = "<p>You have not enrolled in any courses yet.</p>"; return; }
+
+        let html = "";
+        for (const c of enrolled) {
+            html += "<div class='enrolled-card'>";
+            html += "<h3>" + c.title + "</h3>";
+            html += "<p class='lesson-count'>Lessons: " + c.lessons.length + "</p>";
+            if (c.lessons.length > 0) {
+                html += "<ul class='lessons-list'>";
+                for (const l of c.lessons) {
+                    html += "<li>📖 " + l.name + "</li>";
+                }
+                html += "</ul>";
+            }
+            html += "</div>";
+        }
+        list.innerHTML = html;
+    }
+
+    async function enroll(courseId, btn) {
+        const res = await fetch("/api/v1/enroll", {
+            method: "POST",
+            headers: { "Content-Type": "application/json", "Authorization": "Bearer " + token },
+            body: JSON.stringify({ userId: userId, courseId: courseId })
+        });
+        const data = await res.json();
+        if (data.message) {
+            btn.textContent = "Enrolled";
+            btn.className = "btn btn-enrolled";
+            btn.disabled = true;
+            enrolledCourseIds.push(courseId);
+            showEnrolledCourses();
+        } else {
+            alert(data.error || "Failed to enroll");
+        }
+    }
+
+    function logout() {
+        localStorage.removeItem("token");
+        window.location.href = "login.html";
+    }
+
+    loadCourses();
+</script>
+</body>
+</html>

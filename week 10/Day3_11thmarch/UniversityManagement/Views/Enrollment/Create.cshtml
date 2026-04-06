@@ -1,0 +1,26 @@
+﻿@model UniversityManagement.Models.Enrollment
+
+<h2>Enroll Student</h2>
+
+<form asp-action="Create">
+
+    <div>
+        <label>Student</label>
+        <select asp-for="StudentId" asp-items="ViewBag.StudentId"></select>
+    </div>
+
+    <div>
+        <label>Course</label>
+        <select asp-for="CourseId" asp-items="ViewBag.CourseId"></select>
+    </div>
+
+    <div>
+        <label>Grade</label>
+        <input asp-for="Grade" />
+    </div>
+
+    <br>
+
+    <button type="submit" class="btn btn-success">Save</button>
+
+</form>

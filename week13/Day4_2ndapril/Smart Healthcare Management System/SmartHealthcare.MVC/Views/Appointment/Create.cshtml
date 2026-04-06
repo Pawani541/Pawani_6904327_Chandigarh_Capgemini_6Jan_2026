@@ -1,0 +1,67 @@
+﻿@model SmartHealthcare.MVC.Models.CreateAppointmentViewModel
+@{ ViewData["Title"] = "Book Appointment"; }
+<div class="container mt-4">
+    <h3>Book an Appointment</h3>
+    <hr/>
+    <form asp-action="Create" method="post" class="col-md-6">
+        <div asp-validation-summary="All" class="text-danger mb-2"></div>
+
+        @* Doctor dropdown - shown to Patient and Admin *@
+        @if (ViewBag.Role != "Doctor")
+        {
+        <div class="mb-3">
+            <label asp-for="DoctorId" class="form-label">Select Doctor</label>
+            <select asp-for="DoctorId" class="form-select">
+                <option value="">-- Choose Doctor --</option>
+                @foreach (var d in (List<SmartHealthcare.MVC.Models.DoctorViewModel>)ViewBag.Doctors)
+                {
+                    <option value="@d.Id">@d.FullName (@string.Join(", ", d.Specializations))</option>
+                }
+            </select>
+            <span asp-validation-for="DoctorId" class="text-danger"></span>
+        </div>
+        }
+        else
+        {
+            <input type="hidden" asp-for="DoctorId" value="@ViewBag.DoctorProfileId"/>
+        }
+
+        @* Patient dropdown - shown to Doctor and Admin *@
+        @if (ViewBag.Role == "Doctor" || ViewBag.Role == "Admin")
+        {
+        <div class="mb-3">
+            <label asp-for="PatientId" class="form-label">Select Patient</label>
+            <select asp-for="PatientId" class="form-select">
+                <option value="">-- Choose Patient --</option>
+                @foreach (var p in (List<SmartHealthcare.MVC.Models.PatientViewModel>)ViewBag.Patients)
+                {
+                    <option value="@p.Id">@p.FullName (@p.Phone)</option>
+                }
+            </select>
+            <span asp-validation-for="PatientId" class="text-danger"></span>
+        </div>
+        }
+        else
+        {
+            <input type="hidden" asp-for="PatientId"/>
+        }
+
+        <div class="mb-3">
+            <label asp-for="AppointmentDate" class="form-label">Appointment Date & Time</label>
+            <input asp-for="AppointmentDate" type="datetime-local" class="form-control"/>
+            <span asp-validation-for="AppointmentDate" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Notes" class="form-label">Notes</label>
+            <textarea asp-for="Notes" class="form-control" rows="3" placeholder="Optional notes..."></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-success">Book Appointment</button>
+        <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+    </form>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+

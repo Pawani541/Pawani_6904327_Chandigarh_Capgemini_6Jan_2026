@@ -1,0 +1,44 @@
+2026-03-27 12:05:23,655 INFO  Middleware - GET /swagger called
+2026-03-27 12:05:23,712 INFO  Middleware - GET /swagger/index.html called
+2026-03-27 12:05:23,843 INFO  Middleware - GET /swagger/swagger-ui.css called
+2026-03-27 12:05:23,847 INFO  Middleware - GET /swagger/index.css called
+2026-03-27 12:05:23,849 INFO  Middleware - GET /swagger/swagger-ui-standalone-preset.js called
+2026-03-27 12:05:23,849 INFO  Middleware - GET /swagger/swagger-ui-bundle.js called
+2026-03-27 12:05:23,851 INFO  Middleware - GET /swagger/index.js called
+2026-03-27 12:05:23,984 INFO  Middleware - GET /swagger/v1/swagger.json called
+2026-03-27 12:05:24,001 INFO  Middleware - GET /swagger/favicon-32x32.png called
+2026-03-27 12:05:56,830 INFO  Middleware - POST /api/Auth/login called
+2026-03-27 12:06:00,312 ERROR AuthController - Login error
+System.ArgumentOutOfRangeException: IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '176' bits. (Parameter 'keyBytes')
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.ValidateKeySize(Byte[] keyBytes, String algorithm, Int32 expectedNumberOfBytes)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateKeyedHashAlgorithm(Byte[] keyBytes, String algorithm)
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider.CreateKeyedHashAlgorithm()
+   at Microsoft.IdentityModel.Tokens.DisposableObjectPool`1.CreateInstance()
+   at Microsoft.IdentityModel.Tokens.DisposableObjectPool`1.Allocate()
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider.GetKeyedHashAlgorithm(Byte[] keyBytes, String algorithm)
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider.Sign(Byte[] input)
+   at Microsoft.IdentityModel.JsonWebTokens.JwtTokenUtilities.CreateEncodedSignature(String input, SigningCredentials signingCredentials)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(SecurityToken token)
+   at AuthController.GenerateToken(String username) in C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week 12\Day5_27thmarch\SecureAPI\Controllers\AuthController.cs:line 57
+   at AuthController.Login(String username, String password) in C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week 12\Day5_27thmarch\SecureAPI\Controllers\AuthController.cs:line 31
+2026-03-27 12:08:56,879 INFO  Middleware - GET /swagger/index.html called
+2026-03-27 12:08:57,041 INFO  Middleware - GET /swagger/index.css called
+2026-03-27 12:08:57,041 INFO  Middleware - GET /swagger/index.js called
+2026-03-27 12:08:57,041 INFO  Middleware - GET /swagger/swagger-ui-bundle.js called
+2026-03-27 12:08:57,041 INFO  Middleware - GET /swagger/swagger-ui.css called
+2026-03-27 12:08:57,041 INFO  Middleware - GET /swagger/swagger-ui-standalone-preset.js called
+2026-03-27 12:08:57,123 INFO  Middleware - GET /swagger/v1/swagger.json called
+2026-03-27 12:08:57,126 INFO  Middleware - GET /swagger/favicon-32x32.png called
+2026-03-27 12:09:08,640 INFO  Middleware - POST /api/Auth/login called
+2026-03-27 12:09:08,763 INFO  AuthController - Token generated for user: admin
+2026-03-27 12:10:27,320 INFO  Middleware - GET /api/Orders called
+2026-03-27 12:10:27,339 WARN  Program - Unauthorized access to /api/Orders
+2026-03-27 12:10:27,340 WARN  Middleware - Unauthorized access to /api/Orders
+2026-03-27 12:14:51,769 INFO  Middleware - GET /swagger/index.html called
+2026-03-27 12:14:51,924 INFO  Middleware - GET /swagger/swagger-ui-bundle.js called
+2026-03-27 12:14:51,924 INFO  Middleware - GET /swagger/swagger-ui.css called
+2026-03-27 12:14:51,925 INFO  Middleware - GET /swagger/swagger-ui-standalone-preset.js called
+2026-03-27 12:14:52,070 INFO  Middleware - GET /swagger/v1/swagger.json called
+2026-03-27 12:14:52,074 INFO  Middleware - GET /swagger/favicon-32x32.png called
+2026-03-27 12:15:09,467 INFO  Middleware - POST /api/Auth/login called
+2026-03-27 12:15:13,267 INFO  AuthController - Token generated for user: admin

@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Transactions</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Your Transactions</h2>
+
+    <!-- ADD NEW TRANSACTION FORM -->
+    <div class="form-section">
+      <h3>Add New Transaction</h3>
+      <input type="number" id="new-amount" placeholder="Amount" />
+      <select id="new-type">
+        <option value="Credit">Credit</option>
+        <option value="Debit">Debit</option>
+      </select>
+      <button onclick="addTransaction()">Add Transaction</button>
+      <p id="form-msg"></p>
+    </div>
+
+    <!-- TRANSACTIONS TABLE -->
+    <table>
+      <thead>
+        <tr>
+          <th>Amount</th>
+          <th>Date</th>
+          <th>Type</th>
+          <th>Edit</th>
+          <th>Delete</th>
+        </tr>
+      </thead>
+      <tbody id="table-body"></tbody>
+    </table>
+
+    <button onclick="logout()" class="logout-btn">Logout</button>
+  </div>
+
+  <!-- EDIT POPUP -->
+  <div id="edit-modal" style="display:none;">
+    <div class="modal-box">
+      <h3>Edit Transaction</h3>
+      <input type="number" id="edit-amount" placeholder="Amount" />
+      <select id="edit-type">
+        <option value="Credit">Credit</option>
+        <option value="Debit">Debit</option>
+      </select>
+      <button onclick="saveEdit()">Save</button>
+      <button onclick="closeModal()" class="cancel-btn">Cancel</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

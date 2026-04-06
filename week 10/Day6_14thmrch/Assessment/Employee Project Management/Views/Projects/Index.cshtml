@@ -1,0 +1,22 @@
+﻿@model IEnumerable<EmployeeProjectManagement.Models.Project>
+
+<h2>Projects List</h2>
+
+<a href="/Projects/Create">Add Project</a>
+
+<table border="1">
+
+    <tr>
+        <th>ID</th>
+        <th>Title</th>
+    </tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.ProjectId</td>
+            <td>@p.Title</td>
+        </tr>
+    }
+
+</table>

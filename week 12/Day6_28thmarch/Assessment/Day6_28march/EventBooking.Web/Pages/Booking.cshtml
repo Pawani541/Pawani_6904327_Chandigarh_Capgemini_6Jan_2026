@@ -1,0 +1,77 @@
+@page
+@model EventBooking.Web.Pages.BookingModel
+@{ ViewData["Title"] = "My Bookings"; }
+
+<h2 class="mb-4">📋 My Bookings</h2>
+<div id="alert" class="d-none"></div>
+<div class="table-responsive">
+  <table class="table table-bordered table-hover align-middle">
+    <thead class="table-primary">
+      <tr>
+        <th>#</th><th>Event</th><th>Seats</th><th>Booked On</th><th>Action</th>
+      </tr>
+    </thead>
+    <tbody id="bookingsBody">
+      <tr><td colspan="5" class="text-center">Loading...</td></tr>
+    </tbody>
+  </table>
+</div>
+
+@section Scripts {
+<script>
+document.addEventListener('DOMContentLoaded', loadBookings);
+
+async function loadBookings() {
+    const token = localStorage.getItem('jwt_token');
+    if (!token) { window.location.href = '/Login'; return; }
+
+    const res  = await fetch('http://localhost:5024/api/bookings', {
+        headers: { 'Authorization': `Bearer ${token}` }
+    });
+    const data = await res.json();
+    const body = document.getElementById('bookingsBody');
+
+    if (data.length === 0) {
+        body.innerHTML = '<tr><td colspan="5" class="text-center text-muted">No bookings yet.</td></tr>';
+        return;
+    }
+
+    body.innerHTML = data.map((b, i) => `
+        <tr>
+          <td>${i + 1}</td>
+          <td><strong>${b.eventTitle}</strong></td>
+          <td>${b.seatsBooked}</td>
+          <td>${new Date(b.bookedOn).toLocaleDateString()}</td>
+          <td>
+            <button class="btn btn-danger btn-sm" onclick="cancelBooking(${b.id})">
+              ❌ Cancel
+            </button>
+          </td>
+        </tr>`).join('');
+}
+
+async function cancelBooking(id) {
+    if (!confirm('Cancel this booking?')) return;
+    const token = localStorage.getItem('jwt_token');
+
+    const res = await fetch(`http://localhost:5024/api/bookings/${id}`, {
+        method:  'DELETE',
+        headers: { 'Authorization': `Bearer ${token}` }
+    });
+
+    if (res.ok) {
+        showAlert('Booking cancelled successfully!', 'success');
+        loadBookings();
+    } else {
+        showAlert('Failed to cancel booking.', 'danger');
+    }
+}
+
+function showAlert(msg, type) {
+    const el = document.getElementById('alert');
+    el.className = `alert alert-${type}`;
+    el.textContent = msg;
+    setTimeout(() => el.classList.add('d-none'), 3000);
+}
+</script>
+}

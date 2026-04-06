@@ -1,0 +1,137 @@
+@page
+@model EventBooking.Web.Pages.EventsModel
+@{ ViewData["Title"] = "Browse Events"; }
+
+<h2 class="mb-4">🎉 Available Events</h2>
+<div id="eventsContainer" class="row g-4"></div>
+
+<!-- Booking Modal -->
+<div class="modal fade" id="bookModal" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header bg-primary text-white">
+        <h5 class="modal-title">Book Tickets — <span id="modalEventTitle"></span></h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <div id="bookError" class="alert alert-danger d-none"></div>
+        <div id="bookSuccess" class="alert alert-success d-none"></div>
+        <input type="hidden" id="selectedEventId"/>
+        <input type="hidden" id="maxSeats"/>
+        <div class="mb-3">
+          <label class="form-label">Number of Seats</label>
+          <input id="seatsInput" type="number" class="form-control" min="1" placeholder="e.g. 2"/>
+          <div id="seatsError" class="text-danger small mt-1 d-none"></div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+        <button class="btn btn-primary" onclick="submitBooking()">Confirm Booking</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+@section Scripts {
+<script>
+// Load events from API on page load
+document.addEventListener('DOMContentLoaded', loadEvents);
+
+async function loadEvents() {
+    const res  = await fetch('http://localhost:5024/api/events');
+    const data = await res.json();
+    const container = document.getElementById('eventsContainer');
+
+    if (data.length === 0) {
+        container.innerHTML = '<p class="text-muted">No events available.</p>';
+        return;
+    }
+
+    container.innerHTML = data.map((ev, index) => `
+        <div class="col-md-4">
+          <div class="card h-100 shadow-sm border-0 fade-in-up float-animation" style="animation-delay: ${index * 0.1}s;">
+            <div class="card-body">
+              <h5 class="card-title fw-bold text-primary">${ev.title}</h5>
+              <p class="card-text text-muted">${ev.description}</p>
+              <ul class="list-unstyled small">
+                <li>📅 <strong>${new Date(ev.date).toLocaleDateString()}</strong></li>
+                <li>📍 ${ev.location}</li>
+                <li>🪑 <span class="${ev.availableSeats === 0 ? 'text-danger' : 'text-success'} fw-bold">
+                    ${ev.availableSeats} seats left</span></li>
+              </ul>
+            </div>
+            <div class="card-footer bg-transparent">
+              <button class="btn btn-primary w-100"
+                      onclick="openBookModal(${ev.id}, '${ev.title}', ${ev.availableSeats})"
+                      ${ev.availableSeats === 0 ? 'disabled' : ''}>
+                ${ev.availableSeats === 0 ? 'Sold Out' : '🎟 Book Now'}
+              </button>
+            </div>
+          </div>
+        </div>`).join('');
+}
+
+function openBookModal(eventId, title, maxSeats) {
+    const token = localStorage.getItem('jwt_token');
+    if (!token) { window.location.href = '/Login'; return; }
+
+    document.getElementById('selectedEventId').value  = eventId;
+    document.getElementById('modalEventTitle').textContent = title;
+    document.getElementById('maxSeats').value         = maxSeats;
+    document.getElementById('seatsInput').max         = maxSeats;
+    document.getElementById('seatsInput').value       = '';
+    document.getElementById('bookError').classList.add('d-none');
+    document.getElementById('bookSuccess').classList.add('d-none');
+
+    new bootstrap.Modal(document.getElementById('bookModal')).show();
+}
+
+// CLIENT-SIDE VALIDATION
+function validateSeats() {
+    const seats   = parseInt(document.getElementById('seatsInput').value);
+    const maxSeats = parseInt(document.getElementById('maxSeats').value);
+    const errEl   = document.getElementById('seatsError');
+
+    if (!seats || seats < 1) {
+        errEl.textContent = 'Please enter at least 1 seat.';
+        errEl.classList.remove('d-none');
+        return false;
+    }
+    if (seats > maxSeats) {
+        errEl.textContent = `Only ${maxSeats} seats available. You cannot book more.`;
+        errEl.classList.remove('d-none');
+        return false;
+    }
+    errEl.classList.add('d-none');
+    return true;
+}
+
+async function submitBooking() {
+    if (!validateSeats()) return;
+
+    const token    = localStorage.getItem('jwt_token');
+    const eventId  = parseInt(document.getElementById('selectedEventId').value);
+    const seats    = parseInt(document.getElementById('seatsInput').value);
+
+    const res = await fetch('http://localhost:5024/api/bookings', {
+        method:  'POST',
+        headers: {
+            'Content-Type':  'application/json',
+            'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify({ eventId, seatsBooked: seats })
+    });
+
+    if (res.ok) {
+        document.getElementById('bookSuccess').textContent = `✅ Booking confirmed for ${seats} seat(s)!`;
+        document.getElementById('bookSuccess').classList.remove('d-none');
+        document.getElementById('bookError').classList.add('d-none');
+        setTimeout(() => { bootstrap.Modal.getInstance(document.getElementById('bookModal')).hide(); loadEvents(); }, 2000);
+    } else {
+        const err = await res.text();
+        document.getElementById('bookError').textContent = err || 'Booking failed.';
+        document.getElementById('bookError').classList.remove('d-none');
+    }
+}
+</script>
+}

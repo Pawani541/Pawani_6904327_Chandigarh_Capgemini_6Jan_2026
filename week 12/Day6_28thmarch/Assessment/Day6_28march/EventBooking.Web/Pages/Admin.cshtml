@@ -1,0 +1,225 @@
+@page
+@{ ViewData["Title"] = "Admin Panel"; }
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2>⚙️ Admin Panel</h2>
+    <span class="badge bg-danger fs-6">Admin Only</span>
+</div>
+
+<!-- Add Event Card -->
+<div class="card shadow-sm mb-5">
+    <div class="card-header bg-primary text-white fw-bold">
+        ➕ Add New Event
+    </div>
+    <div class="card-body">
+        <div id="eventFormAlert" class="d-none"></div>
+        <div class="row g-3">
+            <div class="col-md-6">
+                <label class="form-label">Title <span class="text-danger">*</span></label>
+                <input id="ev_title" type="text" class="form-control" placeholder="Event title"/>
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Location</label>
+                <input id="ev_location" type="text" class="form-control" placeholder="City / Venue"/>
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Date &amp; Time <span class="text-danger">*</span></label>
+                <input id="ev_date" type="datetime-local" class="form-control"/>
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Available Seats <span class="text-danger">*</span></label>
+                <input id="ev_seats" type="number" class="form-control" placeholder="e.g. 100" min="1" max="10000"/>
+            </div>
+            <div class="col-12">
+                <label class="form-label">Description</label>
+                <textarea id="ev_desc" class="form-control" rows="3" placeholder="Event description..."></textarea>
+            </div>
+            <div class="col-12">
+                <button class="btn btn-primary px-4" onclick="submitNewEvent()">
+                    💾 Save Event
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Events Management Table -->
+<div class="card shadow-sm mb-5">
+    <div class="card-header bg-secondary text-white fw-bold d-flex justify-content-between">
+        <span>🎉 All Events</span>
+        <button class="btn btn-sm btn-light" onclick="loadEvents()">🔄 Refresh</button>
+    </div>
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered mb-0 align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>ID</th><th>Title</th><th>Date</th><th>Location</th><th>Seats</th><th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="eventsBody">
+                    <tr><td colspan="6" class="text-center py-3">Loading...</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- All Bookings Table -->
+<div class="card shadow-sm mb-5">
+    <div class="card-header bg-info text-white fw-bold d-flex justify-content-between">
+        <span>📋 All User Bookings</span>
+        <button class="btn btn-sm btn-light" onclick="loadAllBookings()">🔄 Refresh</button>
+    </div>
+    <div class="card-body p-0">
+        <div id="bookingsAlert" class="d-none m-3"></div>
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered mb-0 align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>#</th><th>User</th><th>Event</th><th>Seats</th><th>Booked On</th>
+                    </tr>
+                </thead>
+                <tbody id="bookingsBody">
+                    <tr><td colspan="5" class="text-center py-3">Loading...</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+<script>
+const API = 'http://localhost:5024';
+
+function getToken() {
+    return localStorage.getItem('jwt_token');
+}
+
+function isAdminToken() {
+    const token = getToken();
+    if (!token) return false;
+    try {
+        const payload = JSON.parse(atob(token.split('.')[1]));
+        return payload['IsAdmin'] === 'True';
+    } catch(e) { return false; }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const token = getToken();
+    if (!token) { window.location.href = '/Login'; return; }
+    if (!isAdminToken()) {
+        document.body.innerHTML = `
+          <div class="container mt-5 text-center">
+            <div class="alert alert-danger fs-5">🚫 Access Denied — Admins only.</div>
+            <a href="/" class="btn btn-primary mt-3">Go Home</a>
+          </div>`;
+        return;
+    }
+    loadEvents();
+    loadAllBookings();
+});
+
+async function submitNewEvent() {
+    const title    = document.getElementById('ev_title').value.trim();
+    const location = document.getElementById('ev_location').value.trim();
+    const date     = document.getElementById('ev_date').value;
+    const seats    = parseInt(document.getElementById('ev_seats').value);
+    const desc     = document.getElementById('ev_desc').value.trim();
+
+    if (!title || !date || !seats) {
+        showFormAlert('Please fill in Title, Date and Seats.', 'danger');
+        return;
+    }
+
+    const res = await fetch(`${API}/api/admin/events`, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${getToken()}`
+        },
+        body: JSON.stringify({ title, description: desc, date, location, availableSeats: seats })
+    });
+
+    if (res.ok) {
+        showFormAlert('✅ Event created successfully!', 'success');
+        // Clear form
+        ['ev_title','ev_location','ev_date','ev_seats','ev_desc'].forEach(id => document.getElementById(id).value = '');
+        loadEvents();
+    } else {
+        const err = await res.text();
+        showFormAlert('❌ Failed: ' + err, 'danger');
+    }
+}
+
+async function deleteEvent(id) {
+    if (!confirm('Delete this event and all its bookings?')) return;
+    const res = await fetch(`${API}/api/admin/events/${id}`, {
+        method: 'DELETE',
+        headers: { 'Authorization': `Bearer ${getToken()}` }
+    });
+    if (res.ok) { loadEvents(); loadAllBookings(); }
+    else alert('Failed to delete event.');
+}
+
+async function loadEvents() {
+    const res  = await fetch(`${API}/api/events`);
+    const data = await res.json();
+    const body = document.getElementById('eventsBody');
+
+    if (!data.length) {
+        body.innerHTML = '<tr><td colspan="6" class="text-center text-muted">No events found.</td></tr>';
+        return;
+    }
+
+    body.innerHTML = data.map(ev => `
+        <tr>
+          <td>${ev.id}</td>
+          <td><strong>${ev.title}</strong></td>
+          <td>${new Date(ev.date).toLocaleString()}</td>
+          <td>${ev.location || '—'}</td>
+          <td><span class="badge ${ev.availableSeats === 0 ? 'bg-danger' : 'bg-success'}">${ev.availableSeats}</span></td>
+          <td>
+            <button class="btn btn-danger btn-sm" onclick="deleteEvent(${ev.id})">🗑 Delete</button>
+          </td>
+        </tr>`).join('');
+}
+
+async function loadAllBookings() {
+    const res  = await fetch(`${API}/api/admin/bookings`, {
+        headers: { 'Authorization': `Bearer ${getToken()}` }
+    });
+
+    if (!res.ok) {
+        document.getElementById('bookingsBody').innerHTML =
+            '<tr><td colspan="5" class="text-danger text-center">Failed to load bookings.</td></tr>';
+        return;
+    }
+
+    const data = await res.json();
+    const body = document.getElementById('bookingsBody');
+
+    if (!data.length) {
+        body.innerHTML = '<tr><td colspan="5" class="text-center text-muted">No bookings yet.</td></tr>';
+        return;
+    }
+
+    body.innerHTML = data.map((b, i) => `
+        <tr>
+          <td>${i + 1}</td>
+          <td><span class="badge bg-secondary">${b.username}</span></td>
+          <td><strong>${b.eventTitle}</strong></td>
+          <td>${b.seatsBooked}</td>
+          <td>${new Date(b.bookedOn).toLocaleString()}</td>
+        </tr>`).join('');
+}
+
+function showFormAlert(msg, type) {
+    const el = document.getElementById('eventFormAlert');
+    el.className = `alert alert-${type}`;
+    el.textContent = msg;
+    el.classList.remove('d-none');
+    setTimeout(() => el.classList.add('d-none'), 4000);
+}
+</script>
+}

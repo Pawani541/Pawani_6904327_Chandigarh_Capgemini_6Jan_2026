@@ -1,0 +1,51 @@
+﻿@model SmartHealthcare.MVC.Models.DoctorViewModel
+
+@{
+    ViewData["Title"] = "Doctor Details";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-7">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">👨‍⚕️ Doctor Details</h4>
+                </div>
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-4">Full Name</dt>
+                        <dd class="col-sm-8">@Model.FullName</dd>
+
+                        <dt class="col-sm-4">Email</dt>
+                        <dd class="col-sm-8">@Model.Email</dd>
+
+                        <dt class="col-sm-4">Phone</dt>
+                        <dd class="col-sm-8">@Model.Phone</dd>
+
+                        <dt class="col-sm-4">Experience</dt>
+                        <dd class="col-sm-8">@Model.ExperienceYears years</dd>
+
+                        <dt class="col-sm-4">Specializations</dt>
+                        <dd class="col-sm-8">
+                            @if (Model.Specializations != null && Model.Specializations.Any())
+                            {
+                                foreach (var s in Model.Specializations)
+                                {
+                                    <span class="badge bg-info text-dark me-1">@s</span>
+                                }
+                            }
+                            else
+                            {
+                                <span class="text-muted">Not specified</span>
+                            }
+                        </dd>
+                    </dl>
+                </div>
+                <div class="card-footer">
+                    <a href="/Doctor" class="btn btn-secondary">⬅ Back to Doctors</a>
+                    <a href="/Appointment/Create?doctorId=@Model.Id" class="btn btn-success ms-2">📅 Book Appointment</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,23 @@
+2026-03-27 15:20:41,879 INFO  Middleware - GET /swagger
+2026-03-27 15:20:41,955 INFO  Middleware - GET /swagger/index.html
+2026-03-27 15:20:42,116 INFO  Middleware - GET /swagger/swagger-ui.css
+2026-03-27 15:20:42,117 INFO  Middleware - GET /swagger/swagger-ui-standalone-preset.js
+2026-03-27 15:20:42,117 INFO  Middleware - GET /swagger/swagger-ui-bundle.js
+2026-03-27 15:20:42,304 INFO  Middleware - GET /swagger/v1/swagger.json
+2026-03-27 15:20:42,323 INFO  Middleware - GET /swagger/favicon-32x32.png
+2026-03-27 15:24:40,857 INFO  Middleware - GET /swagger/index.html
+2026-03-27 15:24:41,150 INFO  Middleware - GET /swagger/v1/swagger.json
+2026-03-27 15:26:20,552 INFO  Middleware - POST /api/Orders
+2026-03-27 15:26:22,913 WARN  Program - Unauthorized access to /api/Orders
+2026-03-27 15:26:22,914 WARN  Middleware - Unauthorized access to /api/Orders
+2026-03-27 15:28:11,936 INFO  Middleware - GET /swagger/index.html
+2026-03-27 15:28:12,207 INFO  Middleware - GET /swagger/v1/swagger.json
+2026-03-27 15:28:24,689 INFO  Middleware - POST /api/Auth/login
+2026-03-27 15:28:24,807 INFO  AuthController - Token generated
+2026-03-27 15:29:52,395 INFO  Middleware - POST /api/Orders
+2026-03-27 15:29:52,419 WARN  Program - Invalid token
+2026-03-27 15:29:52,438 WARN  Program - Unauthorized access to /api/Orders
+2026-03-27 15:29:52,439 WARN  Middleware - Unauthorized access to /api/Orders
+2026-03-27 15:37:02,366 INFO  Middleware - POST /api/Orders
+2026-03-27 15:37:02,844 INFO  OrderApi.Services.OrderService - Order started
+2026-03-27 15:37:05,519 INFO  OrderApi.Services.OrderService - Order saved

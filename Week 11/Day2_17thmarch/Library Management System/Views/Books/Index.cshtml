@@ -1,0 +1,27 @@
+﻿@model List<LibraryManagementMVC.Models.BookViewModel>
+
+<h2>@ViewBag.Message</h2>
+<p>Total Books: @ViewData["TotalBooks"]</p>
+
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Year</th>
+        <th>Genre</th>
+        <th>Status</th>
+        <th>Borrower</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Book.Title</td>
+            <td>@item.Book.Author</td>
+            <td>@item.Book.PublishedYear</td>
+            <td>@item.Book.Genre</td>
+            <td>@(item.IsAvailable ? "Available" : "Not Available")</td>
+            <td>@item.BorrowerName</td>
+        </tr>
+    }
+</table>

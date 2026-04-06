@@ -1,11 +1,13 @@
-﻿using EfCoreBookDemo.Models;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
-public class BookDBContext : DbContext
+namespace EfCoreBookDemo.Models
 {
-    public BookDBContext(DbContextOptions<BookDBContext> options) : base(options)
+    public class BookDBContext : DbContext
     {
-    }
+        public BookDBContext(DbContextOptions<BookDBContext> options) : base(options)
+        {
+        }
 
-    public DbSet<BookModel> books { get; set; }
+        public DbSet<BookModel> BookModels { get; set; }
+    }
 }

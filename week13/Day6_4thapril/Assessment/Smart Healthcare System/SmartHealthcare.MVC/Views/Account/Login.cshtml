@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+<div class="row justify-content-center">
+    <div class="col-md-5">
+        <div class="card p-4 mt-4">
+            <h3 class="text-center mb-4">🔐 Login</h3>
+            <div class="mb-3">
+                <label class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter email" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Password</label>
+                <input type="password" class="form-control" id="password" placeholder="Enter password" />
+            </div>
+            <button class="btn btn-primary w-100" onclick="login()">Login</button>
+            <p class="text-center mt-3">Don't have an account? <a href="/Account/Register">Register</a></p>
+        </div>
+        <div id="message" class="mt-3"></div>
+    </div>
+</div>
+
+<script>
+    function login() {
+        const email = document.getElementById('email').value;
+        const password = document.getElementById('password').value;
+
+        if (!email || !password) {
+            document.getElementById('message').innerHTML = '<div class="alert alert-warning">Please enter email and password.</div>';
+            return;
+        }
+
+        fetch('https://localhost:7100/api/Users/login', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email, password })
+        })
+        .then(r => {
+            if (!r.ok) throw new Error('Invalid credentials');
+            return r.json();
+        })
+        .then(user => {
+            sessionStorage.setItem('userId', user.userId);
+            sessionStorage.setItem('userFullName', user.fullName);
+            sessionStorage.setItem('userRole', user.role);
+            sessionStorage.setItem('userEmail', user.email);
+
+            document.getElementById('message').innerHTML =
+                `<div class="alert alert-success">
+                    ✅ Welcome <strong>${user.fullName}</strong>! Role: <span class="badge bg-primary">${user.role}</span>
+                    <br><a href="/" class="btn btn-sm btn-outline-success mt-2">Go to Home</a>
+                    ${user.role === 'Doctor' ? '<a href="/Doctor" class="btn btn-sm btn-outline-info mt-2 ms-2">My Patients Bills</a>' : ''}
+                    ${user.role === 'Patient' ? '<a href="/Patient" class="btn btn-sm btn-outline-primary mt-2 ms-2">My Dashboard</a>' : ''}
+                 </div>`;
+        })
+        .catch(() => {
+            document.getElementById('message').innerHTML = '<div class="alert alert-danger">❌ Invalid email or password.</div>';
+        });
+    }
+</script>

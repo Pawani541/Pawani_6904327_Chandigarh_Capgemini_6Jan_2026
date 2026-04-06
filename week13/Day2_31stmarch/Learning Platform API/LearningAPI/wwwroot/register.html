@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <style>
+        body { font-family: Arial; display: flex; justify-content: center; align-items: center; height: 100vh; background: #f0f2f5; }
+        .card { background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); width: 350px; }
+        h2 { text-align: center; color: #333; }
+        input, select { width: 100%; padding: 10px; margin: 8px 0; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; }
+        button { width: 100%; padding: 10px; background: #2196F3; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; }
+        button:hover { background: #1976D2; }
+        .error { color: red; font-size: 14px; }
+        .success { color: green; font-size: 14px; }
+        a { display: block; text-align: center; margin-top: 10px; }
+    </style>
+</head>
+<body>
+<div class="card">
+    <h2>Register</h2>
+    <input type="text" id="username" placeholder="Username" />
+    <input type="email" id="email" placeholder="Email" />
+    <input type="password" id="password" placeholder="Password (min 6 chars)" />
+    <select id="role">
+        <option value="Student">Student</option>
+        <option value="Instructor">Instructor</option>
+    </select>
+    <p class="error" id="error"></p>
+    <p class="success" id="success"></p>
+    <button onclick="register()">Register</button>
+    <a href="login.html">Already have an account? Login</a>
+</div>
+<script>
+    async function register() {
+        const username = document.getElementById("username").value.trim();
+        const email = document.getElementById("email").value.trim();
+        const password = document.getElementById("password").value.trim();
+        const role = document.getElementById("role").value;
+        const errorEl = document.getElementById("error");
+        const successEl = document.getElementById("success");
+
+        errorEl.textContent = "";
+        successEl.textContent = "";
+
+        if (!username) { errorEl.textContent = "Username is required"; return; }
+        if (!email || !email.includes("@")) { errorEl.textContent = "Valid email is required"; return; }
+        if (password.length < 6) { errorEl.textContent = "Password must be at least 6 characters"; return; }
+
+        try {
+            const res = await fetch("/api/auth/register", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ username, email, password, role })
+            });
+            const data = await res.json();
+            if (!res.ok) { errorEl.textContent = data.error || "Registration failed"; return; }
+            successEl.textContent = "Registered! Redirecting to login...";
+            setTimeout(() => window.location.href = "login.html", 1500);
+        } catch {
+            errorEl.textContent = "Server error. Try again.";
+        }
+    }
+</script>
+</body>
+</html>

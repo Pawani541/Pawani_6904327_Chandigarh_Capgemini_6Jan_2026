@@ -1,0 +1,24 @@
+﻿@model IEnumerable<EmployeeProjectManagement.Models.Employee>
+
+<h2>Employees List</h2>
+
+<a href="/Employees/Create">Add Employee</a>
+
+<table border="1">
+
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Department</th>
+    </tr>
+
+    @foreach (var e in Model)
+    {
+        <tr>
+            <td>@e.EmployeeId</td>
+            <td>@e.Name</td>
+            <td>@e.Department.Name</td>
+        </tr>
+    }
+
+</table>

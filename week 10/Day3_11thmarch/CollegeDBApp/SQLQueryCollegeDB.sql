@@ -1,0 +1,28 @@
+create database CollegeDB;
+use CollegeDB;
+
+CREATE TABLE Authors (
+AuthorId INT PRIMARY KEY IDENTITY,
+Name NVARCHAR(100),
+Country NVARCHAR(100)
+);
+
+CREATE TABLE Books (
+BookId INT PRIMARY KEY IDENTITY,
+Title NVARCHAR(200),
+ISBN NVARCHAR(50),
+AuthorId INT FOREIGN KEY REFERENCES Authors(AuthorId)
+);
+
+CREATE TABLE Borrowers (
+BorrowerId INT PRIMARY KEY IDENTITY,
+FullName NVARCHAR(100),
+Email NVARCHAR(100)
+);
+
+CREATE TABLE BookBorrowers (
+BookId INT FOREIGN KEY REFERENCES Books(BookId),
+BorrowerId INT FOREIGN KEY REFERENCES Borrowers(BorrowerId),
+PRIMARY KEY (BookId, BorrowerId)
+);
+

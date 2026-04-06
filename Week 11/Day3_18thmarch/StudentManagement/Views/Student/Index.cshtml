@@ -1,0 +1,88 @@
+﻿@model List<StudentManagement.Models.Student>
+
+@{
+    ViewData["Title"] = "Students";
+}
+
+<h2>Student List</h2>
+
+<!-- Add Button -->
+<button class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#studentModal">
+    Add Student
+</button>
+
+<!-- TABLE -->
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Course</th>
+            <th>Date</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Course</td>
+                <td>@item.JoiningDate.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- MODAL -->
+<div class="modal fade" id="studentModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <!-- Header -->
+            <div class="modal-header">
+                <h5 class="modal-title">Add Student</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+
+            <!-- FORM -->
+            <form asp-action="Create" method="post">
+                <div class="modal-body">
+
+                    <div class="mb-3">
+                        <label>Name</label>
+                        <input type="text" name="Name" class="form-control" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Email</label>
+                        <input type="email" name="Email" class="form-control" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Course</label>
+                        <input type="text" name="Course" class="form-control" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Joining Date</label>
+                        <input type="date" name="JoiningDate" class="form-control" />
+                    </div>
+
+                </div>
+
+                <!-- Footer -->
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-success">Save</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>

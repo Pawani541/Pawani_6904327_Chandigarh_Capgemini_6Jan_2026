@@ -1,0 +1,39 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center py-5">
+    <h1 class="display-4 mb-4">Welcome to EventBooking</h1>
+    <p class="lead mb-4 text-light">Discover and book amazing events with ease. From concerts to conferences, find your next experience!</p>
+    <a href="/Events" class="btn btn-primary btn-lg me-3">Browse Events</a>
+    <a href="/Register" class="btn btn-outline-primary btn-lg">Get Started</a>
+</div>
+
+<div class="row mt-5 g-4">
+    <div class="col-md-4">
+        <div class="card h-100 text-center fade-in-up float-animation">
+            <div class="card-body">
+                <h5 class="card-title">🎉 Discover Events</h5>
+                <p class="card-text">Explore a wide variety of events happening around you.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card h-100 text-center fade-in-up float-animation" style="animation-delay: 0.5s;">
+            <div class="card-body">
+                <h5 class="card-title">🎟 Easy Booking</h5>
+                <p class="card-text">Book tickets instantly with our secure and simple process.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card h-100 text-center fade-in-up float-animation" style="animation-delay: 1s;">
+            <div class="card-body">
+                <h5 class="card-title">📱 Manage Bookings</h5>
+                <p class="card-text">View and manage all your bookings in one place.</p>
+            </div>
+        </div>
+    </div>
+</div>

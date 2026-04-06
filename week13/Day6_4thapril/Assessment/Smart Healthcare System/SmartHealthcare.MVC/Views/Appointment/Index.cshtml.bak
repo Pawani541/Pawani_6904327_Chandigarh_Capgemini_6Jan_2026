@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "All Appointments";
+}
+<h2 class="mb-4">📋 All Appointments</h2>
+<div id="appointmentsList">
+    <div class="text-center"><div class="spinner-border text-primary"></div><p>Loading...</p></div>
+</div>
+
+<script>
+    fetch('https://localhost:7100/api/Appointments')
+        .then(r => r.json())
+        .then(data => {
+            if (data.length === 0) {
+                document.getElementById('appointmentsList').innerHTML = '<div class="alert alert-info">No appointments found.</div>';
+                return;
+            }
+            let html = <table class="table table-striped table-hover">
+                <thead class="table-primary">
+                    <tr><th>ID</th><th>Patient</th><th>Doctor</th><th>Date</th><th>Status</th></tr>
+                </thead><tbody>;
+            data.forEach(a => {
+                const badge = a.status === 'Completed' ? 'success' : a.status === 'Cancelled' ? 'danger' : 'warning';
+                html += <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td><span class="badge bg-"></span></td>
+                </tr>;
+            });
+            html += '</tbody></table>';
+            document.getElementById('appointmentsList').innerHTML = html;
+        });
+</script>

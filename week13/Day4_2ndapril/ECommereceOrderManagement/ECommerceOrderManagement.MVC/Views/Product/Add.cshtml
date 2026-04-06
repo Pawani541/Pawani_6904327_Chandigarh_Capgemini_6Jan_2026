@@ -1,0 +1,33 @@
+@model ECommerceOrderManagement.MVC.Models.CreateProductViewModel
+@{ ViewData["Title"] = "Add Product"; Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<div class="row justify-content-center">
+<div class="col-md-6">
+<div class="card p-4">
+    <h3 class="text-center mb-4"><i class="fas fa-plus-circle me-2"></i>Add New Product</h3>
+    @if (ViewBag.Error != null) { <div class="alert alert-danger">@ViewBag.Error</div> }
+    <form method="post">
+        <div class="mb-3">
+            <label class="form-label fw-bold">Product Name</label>
+            <input asp-for="Name" class="form-control" placeholder="e.g. iPhone 15"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label fw-bold">Description</label>
+            <textarea asp-for="Description" class="form-control" rows="3" placeholder="Product description"></textarea>
+        </div>
+        <div class="mb-3">
+            <label class="form-label fw-bold">Price (?)</label>
+            <input asp-for="Price" type="number" class="form-control" placeholder="e.g. 50000"/>
+        </div>
+        <div class="mb-3">
+            <label class="form-label fw-bold">Stock Quantity</label>
+            <input asp-for="StockQuantity" type="number" class="form-control" placeholder="e.g. 100"/>
+        </div>
+        <button type="submit" class="btn btn-primary w-100">
+            <i class="fas fa-save me-2"></i>Add Product
+        </button>
+        <a href="/" class="btn btn-outline-secondary w-100 mt-2">Cancel</a>
+    </form>
+</div>
+</div>
+</div>

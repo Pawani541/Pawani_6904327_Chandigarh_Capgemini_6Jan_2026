@@ -1,34 +1,115 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Linq;
 using EfCoreBookDemo.Models;
 
-public class BookController : Controller
+namespace EfCoreBookDemo.Controllers
 {
-    private readonly BookDBContext _context;
-
-    public BookController(BookDBContext context)
+    public class BookController : Controller
     {
-        _context = context;
+        private readonly BookDBContext _context;
+
+        public BookController(BookDBContext context)
+        {
+            _context = context;
+        }
+
+        // LIST
+        public IActionResult Index()
+        {
+            var books = _context.BookModels.ToList();
+            return View(books);
+        }
+
+        // CREATE (GET)
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        // CREATE (POST)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(BookModel book)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.BookModels.Add(book);
+                _context.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(book);
+        }
+
+        // EDIT (GET)
+        public IActionResult Edit(int id)
+        {
+            var book = _context.BookModels.Find(id);
+
+            if (book == null)
+            {
+                return NotFound();
+            }
+
+            return View(book);
+        }
+
+        // EDIT (POST)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit(BookModel book)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.BookModels.Update(book);
+                _context.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(book);
+        }
+
+        // DETAILS
+        public IActionResult Details(int id)
+        {
+            var book = _context.BookModels.Find(id);
+
+            if (book == null)
+            {
+                return NotFound();
+            }
+
+            return View(book);
+        }
+
+        // DELETE (GET)
+        public IActionResult Delete(int id)
+        {
+            var book = _context.BookModels.Find(id);
+
+            if (book == null)
+            {
+                return NotFound();
+            }
+
+            return View(book);
+        }
+
+        // DELETE (POST)
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public IActionResult DeleteConfirmed(int id)
+        {
+            var book = _context.BookModels.Find(id);
+
+            if (book != null)
+            {
+                _context.BookModels.Remove(book);
+                _context.SaveChanges();
+            }
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 
-    public IActionResult Index()
-    {
-        var books = _context.books.ToList();
-        return View(books);
-    }
 
-    // GET: Create page open karega
-    public IActionResult Create()
-    {
-        return View();
-    }
-
-    // POST: Book database me save karega
-    [HttpPost]
-    public IActionResult Create(BookModel book)
-    {
-        _context.books.Add(book);
-        _context.SaveChanges();
-        return RedirectToAction("Index");
-    }
 }

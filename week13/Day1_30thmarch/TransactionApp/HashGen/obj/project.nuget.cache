@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ttm7H6Pcjeg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2005p\\OneDrive\\Documents\\GitHub\\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\\week13\\Day1_30thmarch\\TransactionApp\\HashGen\\HashGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2005p\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

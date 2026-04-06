@@ -1,0 +1,25 @@
+﻿@using Middleware_for_Request_Tracking.Models
+@model List<RequestLog>
+
+<h2>Request Logs</h2>
+
+<a href="/Students/Test" class="btn btn-primary">Generate Request</a>
+
+<br />
+<br />
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Request URL</th>
+        <th>Execution Time (ms)</th>
+    </tr>
+
+    @foreach (var log in Model)
+    {
+        <tr>
+            <td>@log.Url</td>
+            <td>@log.ExecutionTime</td>
+        </tr>
+    }
+
+</table>

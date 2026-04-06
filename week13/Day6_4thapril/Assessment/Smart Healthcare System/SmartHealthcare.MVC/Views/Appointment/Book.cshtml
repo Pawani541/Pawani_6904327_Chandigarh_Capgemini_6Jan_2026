@@ -1,0 +1,101 @@
+﻿@{
+    ViewData["Title"] = "Book Appointment";
+}
+<h2 class="mb-4">📅 Book an Appointment</h2>
+<div class="row">
+    <div class="col-md-6">
+        <div class="card p-4">
+            <div class="mb-3">
+                <label class="form-label fw-bold">Patient ID</label>
+                <input type="number" class="form-control" id="patientId" placeholder="Enter your User ID" />
+                <small class="text-muted" id="patientHint"></small>
+            </div>
+            <div class="mb-3">
+                <label class="form-label fw-bold">Select Doctor</label>
+                <select class="form-control" id="doctorId">
+                    <option value="">-- Loading doctors... --</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label fw-bold">Appointment Date &amp; Time</label>
+                <input type="datetime-local" class="form-control" id="appointmentDate" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label fw-bold">🤒 Describe Your Symptoms</label>
+                <textarea class="form-control" id="symptoms" rows="3" placeholder="e.g. I have fever, cold and cough since 2 days..."></textarea>
+            </div>
+            <button class="btn btn-success w-100" onclick="bookAppointment()">✅ Confirm Booking</button>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div id="message"></div>
+        <div class="card p-4 bg-light">
+            <h5>ℹ️ How it works</h5>
+            <ol>
+                <li>Enter your Patient User ID</li>
+                <li>Select a doctor from the list</li>
+                <li>Choose your preferred date and time</li>
+                <li>Describe your symptoms</li>
+                <li>Click Confirm Booking</li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+<script>
+    const storedUserId = sessionStorage.getItem('userId');
+    const storedName = sessionStorage.getItem('userFullName');
+    if (storedUserId) {
+        document.getElementById('patientId').value = storedUserId;
+        document.getElementById('patientHint').textContent = `Logged in as: ${storedName}`;
+    }
+
+    fetch('https://localhost:7100/api/Doctors')
+        .then(r => r.json())
+        .then(doctors => {
+            const sel = document.getElementById('doctorId');
+            sel.innerHTML = '<option value="">-- Select Doctor --</option>';
+            doctors.forEach(d => {
+                sel.innerHTML += `<option value="${d.doctorId}">Dr. ${d.fullName} - ${d.specialization} (${d.departmentName})</option>`;
+            });
+            const urlParams = new URLSearchParams(window.location.search);
+            const preSelected = urlParams.get('doctorId');
+            if (preSelected) sel.value = preSelected;
+        });
+
+    function bookAppointment() {
+        const patientId = document.getElementById('patientId').value;
+        const doctorId = document.getElementById('doctorId').value;
+        const appointmentDate = document.getElementById('appointmentDate').value;
+        const symptoms = document.getElementById('symptoms').value;
+
+        if (!patientId || !doctorId || !appointmentDate) {
+            document.getElementById('message').innerHTML = '<div class="alert alert-warning">Please fill all fields.</div>';
+            return;
+        }
+
+        fetch('https://localhost:7100/api/Appointments', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                patientId: parseInt(patientId),
+                doctorId: parseInt(doctorId),
+                appointmentDate: appointmentDate,
+                symptoms: symptoms
+            })
+        })
+        .then(r => { if (!r.ok) throw new Error('Booking failed'); return r.json(); })
+        .then(res => {
+            document.getElementById('message').innerHTML =
+                `<div class="alert alert-success">
+                    <h5>✅ Appointment Booked!</h5>
+                    <p>Appointment ID: <strong>${res.appointmentId}</strong></p>
+                    <p>Your symptoms have been recorded for the doctor.</p>
+                    <a href="/Patient" class="btn btn-primary btn-sm">View My Dashboard</a>
+                 </div>`;
+        })
+        .catch(() => {
+            document.getElementById('message').innerHTML = '<div class="alert alert-danger">Booking failed. Make sure API is running.</div>';
+        });
+    }
+</script>

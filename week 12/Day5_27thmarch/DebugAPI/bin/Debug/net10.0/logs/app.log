@@ -1,0 +1,16 @@
+2026-03-27 12:29:13,296 INFO  Middleware - GET /swagger
+2026-03-27 12:29:13,372 INFO  Middleware - GET /swagger/index.html
+2026-03-27 12:29:13,525 INFO  Middleware - GET /swagger/swagger-ui-bundle.js
+2026-03-27 12:29:13,525 INFO  Middleware - GET /swagger/swagger-ui.css
+2026-03-27 12:29:13,528 INFO  Middleware - GET /swagger/swagger-ui-standalone-preset.js
+2026-03-27 12:29:13,674 INFO  Middleware - GET /swagger/v1/swagger.json
+2026-03-27 12:29:13,689 INFO  Middleware - GET /swagger/favicon-32x32.png
+2026-03-27 12:29:44,625 INFO  Middleware - GET /api/Product/1
+2026-03-27 12:29:48,134 INFO  ProductController - API Started
+2026-03-27 12:29:52,147 WARN  ProductController - Slow API detected: 4.0121149
+2026-03-27 12:32:17,392 INFO  Middleware - GET /swagger/index.html
+2026-03-27 12:32:17,654 INFO  Middleware - GET /swagger/v1/swagger.json
+2026-03-27 12:32:26,025 INFO  Middleware - GET /api/Product/1
+2026-03-27 12:32:26,082 INFO  ProductController - API Started
+2026-03-27 12:32:30,093 WARN  ProductController - Slow API detected: 4.0094013
+2026-03-27 12:32:30,093 INFO  ProductController - API Completed

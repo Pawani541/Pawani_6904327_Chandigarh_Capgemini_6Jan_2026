@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Library</title>
+</head>
+<body>
+
+    <nav>
+        <a asp-controller="Home" asp-action="Index">Home</a> |
+        <a asp-controller="Books" asp-action="Index">Books</a> |
+        <a asp-controller="Books" asp-action="Create">Add Book</a>
+    </nav>
+
+    <div>
+        @RenderBody()
+    </div>
+
+</body>
+</html>

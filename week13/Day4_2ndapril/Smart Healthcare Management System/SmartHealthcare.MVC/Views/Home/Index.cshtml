@@ -1,0 +1,59 @@
+﻿@{ ViewData["Title"] = "Dashboard"; }
+<div class="container mt-4">
+    <h2>Welcome, @ViewBag.Username! <span class="badge bg-info">@ViewBag.Role</span></h2>
+    <hr/>
+    <div class="row g-4 mt-2">
+        <div class="col-md-3">
+            <div class="card text-white bg-primary shadow">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Doctors</h5>
+                    <p class="card-text">Browse available doctors</p>
+                    <a asp-controller="Doctor" asp-action="Index" class="btn btn-light">View Doctors</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-success shadow">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Appointments</h5>
+                    <p class="card-text">
+                        @if (ViewBag.Role == "Doctor")
+                        { <span>View & manage patient appointments</span> }
+                        else
+                        { <span>Manage your appointments</span> }
+                    </p>
+                    <a asp-controller="Appointment" asp-action="Index" class="btn btn-light">View Appointments</a>
+                </div>
+            </div>
+        </div>
+        @if (ViewBag.Role == "Admin")
+        {
+        <div class="col-md-3">
+            <div class="card text-white bg-secondary shadow">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Patients</h5>
+                    <p class="card-text">Manage all patients</p>
+                    <a asp-controller="Patient" asp-action="Index" class="btn btn-light">View Patients</a>
+                </div>
+            </div>
+        </div>
+        }
+        @if (ViewBag.Role == "Patient" || ViewBag.Role == "Doctor" || ViewBag.Role == "Admin")
+        {
+        <div class="col-md-3">
+            <div class="card text-white bg-warning shadow">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Book Appointment</h5>
+                    <p class="card-text">
+                        @if (ViewBag.Role == "Doctor")
+                        { <span>Schedule for a patient</span> }
+                        else
+                        { <span>Schedule a new appointment</span> }
+                    </p>
+                    <a asp-controller="Appointment" asp-action="Create" class="btn btn-light">Book Now</a>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+</div>

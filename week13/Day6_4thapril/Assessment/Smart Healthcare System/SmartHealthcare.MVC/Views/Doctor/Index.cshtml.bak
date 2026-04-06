@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Our Doctors";
+}
+<h2 class="mb-4">👨‍⚕️ Our Doctors</h2>
+<div class="row" id="doctorsList">
+    <div class="text-center"><div class="spinner-border text-primary"></div><p>Loading doctors...</p></div>
+</div>
+
+<script>
+    fetch('https://localhost:7100/api/Doctors')
+        .then(r => r.json())
+        .then(doctors => {
+            const container = document.getElementById('doctorsList');
+            if (doctors.length === 0) {
+                container.innerHTML = '<p>No doctors found.</p>';
+                return;
+            }
+            container.innerHTML = doctors.map(d => 
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">👨‍⚕️ </h5>
+                            <span class="badge bg-info text-dark mb-2"></span>
+                            <p><strong>🏥 Department:</strong> </p>
+                            <p><strong>⭐ Experience:</strong>  years</p>
+                            <p><strong>🕐 Available:</strong> </p>
+                        </div>
+                        <div class="card-footer">
+                            <a href="/Appointment/Book?doctorId=" class="btn btn-primary w-100">Book Appointment</a>
+                        </div>
+                    </div>
+                </div>
+            ).join('');
+        })
+        .catch(err => {
+            document.getElementById('doctorsList').innerHTML = '<div class="alert alert-danger">Could not load doctors. Make sure the API is running on port 7100.</div>';
+        });
+</script>

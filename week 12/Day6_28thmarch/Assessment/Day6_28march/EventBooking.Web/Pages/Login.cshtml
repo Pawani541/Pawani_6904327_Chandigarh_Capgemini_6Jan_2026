@@ -1,0 +1,60 @@
+@page
+@model EventBooking.Web.Pages.LoginModel
+@{ ViewData["Title"] = "Login"; }
+
+<div class="row justify-content-center">
+  <div class="col-md-4">
+    <div class="card shadow">
+      <div class="card-header bg-primary text-white text-center">
+        <h4>🔐 Login</h4>
+      </div>
+      <div class="card-body">
+        <div id="errorMsg" class="alert alert-danger d-none"></div>
+        <div class="mb-3">
+          <label class="form-label">Username</label>
+          <input id="username" type="text" class="form-control" placeholder="Enter username"/>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Password</label>
+          <input id="password" type="password" class="form-control" placeholder="Enter password"/>
+        </div>
+        <button onclick="login()" class="btn btn-primary w-100">Login</button>
+        <p class="text-center mt-3">No account? <a href="/Register">Register</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+@section Scripts {
+<script>
+async function login() {
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+
+    if (!username || !password) {
+        showError("Please fill in all fields.");
+        return;
+    }
+
+    const res = await fetch('http://localhost:5024/api/auth/login', {  // ← updated port
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ username, password })
+    });
+
+    if (res.ok) {
+        const data = await res.json();
+        localStorage.setItem('jwt_token', data.token);
+        window.location.href = '/Events';
+    } else {
+        showError("Invalid username or password.");
+    }
+}
+
+function showError(msg) {
+    const el = document.getElementById('errorMsg');
+    el.textContent = msg;
+    el.classList.remove('d-none');
+}
+</script>
+}

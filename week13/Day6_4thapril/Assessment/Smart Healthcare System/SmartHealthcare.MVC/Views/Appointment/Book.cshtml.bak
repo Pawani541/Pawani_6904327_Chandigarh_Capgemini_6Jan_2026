@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Book Appointment";
+}
+<h2 class="mb-4">📅 Book an Appointment</h2>
+<div class="row">
+    <div class="col-md-6">
+        <div class="card p-4">
+            <div class="mb-3">
+                <label class="form-label fw-bold">Patient ID</label>
+                <input type="number" class="form-control" id="patientId" placeholder="Enter your User ID" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label fw-bold">Select Doctor</label>
+                <select class="form-control" id="doctorId">
+                    <option value="">-- Loading doctors... --</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label fw-bold">Appointment Date & Time</label>
+                <input type="datetime-local" class="form-control" id="appointmentDate" />
+            </div>
+            <button class="btn btn-success w-100" onclick="bookAppointment()">✅ Confirm Booking</button>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div id="message"></div>
+        <div class="card p-4 bg-light">
+            <h5>ℹ️ How it works</h5>
+            <ol>
+                <li>Enter your Patient User ID</li>
+                <li>Select a doctor from the list</li>
+                <li>Choose your preferred date and time</li>
+                <li>Click Confirm Booking</li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+<script>
+    fetch('https://localhost:7100/api/Doctors')
+        .then(r => r.json())
+        .then(doctors => {
+            const sel = document.getElementById('doctorId');
+            sel.innerHTML = '<option value="">-- Select Doctor --</option>';
+            doctors.forEach(d => {
+                sel.innerHTML += <option value="">Dr.  -  ()</option>;
+            });
+            const urlParams = new URLSearchParams(window.location.search);
+            const preSelected = urlParams.get('doctorId');
+            if (preSelected) sel.value = preSelected;
+        });
+
+    function bookAppointment() {
+        const patientId = document.getElementById('patientId').value;
+        const doctorId = document.getElementById('doctorId').value;
+        const appointmentDate = document.getElementById('appointmentDate').value;
+
+        if (!patientId || !doctorId || !appointmentDate) {
+            document.getElementById('message').innerHTML = '<div class="alert alert-warning">Please fill all fields.</div>';
+            return;
+        }
+
+        fetch('https://localhost:7100/api/Appointments', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                patientId: parseInt(patientId),
+                doctorId: parseInt(doctorId),
+                appointmentDate: appointmentDate
+            })
+        })
+        .then(r => r.json())
+        .then(res => {
+            document.getElementById('message').innerHTML = 
+                <div class="alert alert-success">
+                    <h5>✅ Appointment Booked!</h5>
+                    <p>Appointment ID: <strong></strong></p>
+                    <a href="/Appointment" class="btn btn-primary btn-sm">View All Appointments</a>
+                </div>;
+        })
+        .catch(() => {
+            document.getElementById('message').innerHTML = '<div class="alert alert-danger">Booking failed. Please try again.</div>';
+        });
+    }
+</script>

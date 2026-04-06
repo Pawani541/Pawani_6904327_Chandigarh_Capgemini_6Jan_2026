@@ -1,0 +1,116 @@
+﻿@{
+    ViewData["Title"] = "Patient Dashboard";
+}
+<h2 class="mb-4">🏥 Patient Dashboard</h2>
+
+<div id="notLoggedIn" class="alert alert-warning" style="display:none;">
+    ⚠️ Please <a href="/Account/Login">login</a> first to view your dashboard.
+</div>
+
+<div id="patientContent" style="display:none;">
+    <div class="card p-3 mb-4 bg-light">
+        <h5>👤 Welcome, <span id="patientNameDisplay"></span></h5>
+        <small class="text-muted">User ID: <span id="patientIdDisplay"></span></small>
+    </div>
+
+    <h4>📅 My Appointments</h4>
+    <div id="myAppointments" class="mb-4">
+        <div class="text-center"><div class="spinner-border text-primary"></div></div>
+    </div>
+
+    <h4>💳 My Bills</h4>
+    <div class="mb-3">
+        <button class="btn btn-outline-danger me-2" onclick="filterMyBills('Unpaid')">🔴 Unpaid</button>
+        <button class="btn btn-outline-success me-2" onclick="filterMyBills('Paid')">🟢 Paid</button>
+        <button class="btn btn-outline-secondary" onclick="filterMyBills('All')">📋 All Bills</button>
+    </div>
+    <div id="myBills">
+        <div class="text-center"><div class="spinner-border text-warning"></div></div>
+    </div>
+</div>
+
+<script>
+    let patientBills = [];
+
+    const userId = sessionStorage.getItem('userId');
+    const userName = sessionStorage.getItem('userFullName');
+    const role = sessionStorage.getItem('userRole');
+
+    if (!userId) {
+        document.getElementById('notLoggedIn').style.display = 'block';
+    } else {
+        document.getElementById('patientContent').style.display = 'block';
+        document.getElementById('patientNameDisplay').textContent = userName;
+        document.getElementById('patientIdDisplay').textContent = userId;
+
+        // Load appointments
+        fetch(`https://localhost:7100/api/Appointments/patient/${userId}`)
+            .then(r => r.json())
+            .then(appts => {
+                const cont = document.getElementById('myAppointments');
+                if (appts.length === 0) {
+                    cont.innerHTML = '<div class="alert alert-info">No appointments yet. <a href="/Appointment/Book">Book one now!</a></div>';
+                    return;
+                }
+                let html = `<table class="table table-striped">
+                    <thead class="table-primary"><tr><th>Appt ID</th><th>Doctor</th><th>Date</th><th>Status</th></tr></thead><tbody>`;
+                appts.forEach(a => {
+                    const badge = a.status === 'Completed' ? 'success' : a.status === 'Cancelled' ? 'danger' : 'warning';
+                    const date = new Date(a.appointmentDate).toLocaleString();
+                    html += `<tr>
+                        <td>${a.appointmentId}</td>
+                        <td>${a.doctorName || 'N/A'}</td>
+                        <td>${date}</td>
+                        <td><span class="badge bg-${badge}">${a.status}</span></td>
+                    </tr>`;
+                });
+                html += '</tbody></table>';
+                cont.innerHTML = html;
+            })
+            .catch(() => {
+                document.getElementById('myAppointments').innerHTML = '<div class="alert alert-danger">Could not load appointments. Make sure the API is running.</div>';
+            });
+
+        // Load bills for this patient only
+        fetch(`https://localhost:7100/api/Bills/patient/${userId}`)
+            .then(r => r.json())
+            .then(bills => {
+                patientBills = bills;
+                renderMyBills(bills);
+            })
+            .catch(() => {
+                document.getElementById('myBills').innerHTML = '<div class="alert alert-danger">Could not load bills. Make sure the API is running.</div>';
+            });
+    }
+
+    function filterMyBills(status) {
+        const filtered = status === 'All' ? patientBills : patientBills.filter(b => b.paymentStatus === status);
+        renderMyBills(filtered);
+    }
+
+    function renderMyBills(bills) {
+        const cont = document.getElementById('myBills');
+        if (bills.length === 0) {
+            cont.innerHTML = '<div class="alert alert-info">No bills found for your account.</div>';
+            return;
+        }
+        let html = `<table class="table table-striped">
+            <thead class="table-dark">
+                <tr><th>Bill ID</th><th>Appointment ID</th><th>Consultation Fee</th><th>Medicine Charges</th><th>Total</th><th>Status</th></tr>
+            </thead><tbody>`;
+        bills.forEach(b => {
+            const total = (parseFloat(b.consultationFee) + parseFloat(b.medicineCharges)).toFixed(2);
+            const badge = b.paymentStatus === 'Paid' ? 'success' : 'danger';
+            html += `<tr>
+                <td>${b.billId}</td>
+                <td>${b.appointmentId}</td>
+                <td>₹${b.consultationFee}</td>
+                <td>₹${b.medicineCharges}</td>
+                <td><strong>₹${total}</strong></td>
+                <td><span class="badge bg-${badge}">${b.paymentStatus}</span></td>
+            </tr>`;
+        });
+        html += '</tbody></table>';
+        cont.innerHTML = html;
+    }
+</script>

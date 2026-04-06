@@ -1,0 +1,22 @@
+CREATE DATABASE MyAppDb;
+GO
+
+USE MyAppDb;
+
+CREATE TABLE Employees (
+    Id INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100),
+    Email NVARCHAR(100)
+);
+
+CREATE LOGIN myuser WITH PASSWORD = 'StrongPassword@123';
+USE MyAppDb;
+
+CREATE USER myuser FOR LOGIN myuser;
+ALTER ROLE db_owner ADD MEMBER myuser;
+SELECT * FROM Employees;
+CREATE TABLE Users (
+    Id INT PRIMARY KEY IDENTITY,
+    Username NVARCHAR(100),
+    Password NVARCHAR(100)
+);

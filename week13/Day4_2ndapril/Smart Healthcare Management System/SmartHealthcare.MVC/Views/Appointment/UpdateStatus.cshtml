@@ -1,0 +1,29 @@
+﻿@model SmartHealthcare.MVC.Models.AppointmentViewModel
+@{ ViewData["Title"] = "Update Appointment Status"; }
+<div class="container mt-4">
+    <h3>Update Appointment Status</h3>
+    <hr/>
+    <div class="card col-md-5 p-4 shadow-sm">
+        <p><strong>Patient:</strong> @Model.PatientName</p>
+        <p><strong>Doctor:</strong> @Model.DoctorName</p>
+        <p><strong>Date:</strong> @Model.AppointmentDate.ToString("dd MMM yyyy HH:mm")</p>
+        <p><strong>Notes:</strong> @Model.Notes</p>
+        <p><strong>Current Status:</strong>
+            <span class="badge bg-secondary">@Model.Status</span>
+        </p>
+        <hr/>
+        <form asp-action="UpdateStatus" asp-route-id="@Model.Id" method="post">
+            <div class="mb-3">
+                <label class="form-label">New Status</label>
+                <select name="status" class="form-select">
+                    <option value="Scheduled">Scheduled</option>
+                    <option value="InProgress">In Progress</option>
+                    <option value="Completed">Completed</option>
+                    <option value="Cancelled">Cancelled</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-warning">Update</button>
+            <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+        </form>
+    </div>
+</div>
