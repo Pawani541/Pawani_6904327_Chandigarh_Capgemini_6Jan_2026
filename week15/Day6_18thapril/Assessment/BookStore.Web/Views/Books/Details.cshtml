@@ -1,0 +1,54 @@
+@model BookStore.Application.DTOs.BookDto
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<div class="row">
+    <div class="col-md-4">
+        @if (!string.IsNullOrEmpty(Model.ImageUrl))
+        {
+            <img src="@Model.ImageUrl" class="img-fluid rounded shadow" alt="@Model.Title" />
+        }
+        else
+        {
+            <div class="bg-secondary rounded d-flex align-items-center justify-content-center" style="height:350px;">
+                <i class="fas fa-book fa-6x text-white"></i>
+            </div>
+        }
+    </div>
+    <div class="col-md-8">
+        <h2>@Model.Title</h2>
+        <table class="table table-bordered mt-3">
+            <tr><th>Author</th><td>@Model.AuthorName</td></tr>
+            <tr><th>Publisher</th><td>@Model.PublisherName</td></tr>
+            <tr><th>Category</th><td>@Model.CategoryName</td></tr>
+            <tr><th>ISBN</th><td>@Model.ISBN</td></tr>
+            <tr><th>Price</th><td class="text-success fw-bold">Rs. @Model.Price</td></tr>
+            <tr>
+                <th>Stock</th>
+                <td>
+                    <span class="badge @(Model.Stock > 0 ? "bg-success" : "bg-danger") fs-6">
+                        @(Model.Stock > 0 ? $"{Model.Stock} Available" : "Out of Stock")
+                    </span>
+                </td>
+            </tr>
+        </table>
+        <div class="d-flex gap-2 mt-3">
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="fas fa-arrow-left"></i> Back to Books
+            </a>
+            @if (Context.Session.GetString("UserEmail") != null && Model.Stock > 0)
+            {
+                <a asp-controller="Orders" asp-action="Checkout" class="btn btn-success">
+                    <i class="fas fa-shopping-cart"></i> Order Now
+                </a>
+            }
+            @if (Context.Session.GetString("UserRole") == "Admin")
+            {
+                <a asp-action="Edit" asp-route-id="@Model.BookId" class="btn btn-warning">
+                    <i class="fas fa-edit"></i> Edit
+                </a>
+            }
+        </div>
+    </div>
+</div>

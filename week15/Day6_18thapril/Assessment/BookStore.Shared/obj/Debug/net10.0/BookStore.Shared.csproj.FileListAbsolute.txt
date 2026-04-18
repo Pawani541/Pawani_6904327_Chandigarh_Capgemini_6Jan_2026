@@ -1,0 +1,12 @@
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\bin\Debug\net10.0\BookStore.Shared.deps.json
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\bin\Debug\net10.0\BookStore.Shared.dll
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\bin\Debug\net10.0\BookStore.Shared.pdb
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\obj\Debug\net10.0\BookStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\obj\Debug\net10.0\BookStore.Shared.AssemblyInfoInputs.cache
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\obj\Debug\net10.0\BookStore.Shared.AssemblyInfo.cs
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\obj\Debug\net10.0\BookStore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\obj\Debug\net10.0\BookStore.Shared.sourcelink.json
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\obj\Debug\net10.0\BookStore.Shared.dll
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\obj\Debug\net10.0\refint\BookStore.Shared.dll
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\obj\Debug\net10.0\BookStore.Shared.pdb
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week15\Day6_18thapril\Assessment\BookStore.Shared\obj\Debug\net10.0\ref\BookStore.Shared.dll

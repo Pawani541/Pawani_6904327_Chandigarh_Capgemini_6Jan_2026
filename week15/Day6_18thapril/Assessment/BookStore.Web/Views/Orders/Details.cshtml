@@ -1,0 +1,58 @@
+@model BookStore.Application.DTOs.OrderResponseDto
+@{
+    ViewData["Title"] = $"Order #{Model.OrderId}";
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="card p-4">
+            <h3><i class="fas fa-receipt"></i> Order #@Model.OrderId</h3>
+            <hr />
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <strong>Customer:</strong> @Model.CustomerName<br />
+                    <strong>Email:</strong> @Model.CustomerEmail<br />
+                    <strong>Date:</strong> @Model.OrderDate.ToString("dd MMM yyyy HH:mm")
+                </div>
+                <div class="col-md-6 text-end">
+                    <span class="badge fs-6 @(Model.Status == "Pending" ? "bg-warning" :
+                                             Model.Status == "Completed" ? "bg-success" :
+                                             Model.Status == "Cancelled" ? "bg-danger" : "bg-info")">
+                        @Model.Status
+                    </span>
+                </div>
+            </div>
+            <h5>Order Items</h5>
+            <table class="table table-bordered">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Book</th>
+                        <th>Qty</th>
+                        <th>Price</th>
+                        <th>Subtotal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Items)
+                    {
+                        <tr>
+                            <td>@item.BookTitle</td>
+                            <td>@item.Qty</td>
+                            <td>Rs. @item.Price</td>
+                            <td>Rs. @(item.Price * item.Qty)</td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot>
+                    <tr class="table-success">
+                        <td colspan="3" class="text-end fw-bold">Total Amount:</td>
+                        <td class="fw-bold">Rs. @Model.TotalAmount</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="fas fa-arrow-left"></i> Back to Orders
+            </a>
+        </div>
+    </div>
+</div>

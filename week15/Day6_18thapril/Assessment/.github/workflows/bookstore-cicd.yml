@@ -1,0 +1,146 @@
+name: BookStore Pro CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+env:
+  DOTNET_VERSION: '9.0.x'
+  API_APP_NAME: 'bookstore-api'
+  WEB_APP_NAME: 'bookstore-web'
+
+jobs:
+  # -----------------------------------------
+  # JOB 1: BUILD + TEST
+  # -----------------------------------------
+  build-and-test:
+    name: Build and Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 9
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: Restore Dependencies
+        run: dotnet restore BookStoreSolution.slnx
+
+      - name: Build Solution
+        run: dotnet build BookStoreSolution.slnx --no-restore --configuration Release
+
+      - name: Run xUnit Tests
+        run: dotnet test BookStore.Tests.XUnit/BookStore.Tests.XUnit.csproj --no-build --configuration Release --verbosity normal --logger "trx;LogFileName=xunit-results.trx"
+
+      - name: Run NUnit Tests
+        run: dotnet test BookStore.Tests.NUnit/BookStore.Tests.NUnit.csproj --no-build --configuration Release --verbosity normal --logger "trx;LogFileName=nunit-results.trx"
+
+      - name: Upload Test Results
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: test-results
+          path: |
+            **/xunit-results.trx
+            **/nunit-results.trx
+
+  # -----------------------------------------
+  # JOB 2: PUBLISH ARTIFACTS
+  # -----------------------------------------
+  publish:
+    name: Publish
+    runs-on: ubuntu-latest
+    needs: build-and-test
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 9
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: Restore Dependencies
+        run: dotnet restore BookStoreSolution.slnx
+
+      - name: Publish API
+        run: dotnet publish BookStore.API/BookStore.API.csproj --configuration Release --output ./publish/api
+
+      - name: Publish Web (MVC)
+        run: dotnet publish BookStore.Web/BookStore.Web.csproj --configuration Release --output ./publish/web
+
+      - name: Upload API Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: api-publish
+          path: ./publish/api
+
+      - name: Upload Web Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: web-publish
+          path: ./publish/web
+
+  # -----------------------------------------
+  # JOB 3: DEPLOY TO AZURE
+  # -----------------------------------------
+  deploy:
+    name: Deploy to Azure
+    runs-on: ubuntu-latest
+    needs: publish
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
+
+    steps:
+      - name: Download API Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: api-publish
+          path: ./publish/api
+
+      - name: Download Web Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: web-publish
+          path: ./publish/web
+
+      - name: Deploy API to Azure App Service
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: ${{ env.API_APP_NAME }}
+          publish-profile: ${{ secrets.AZURE_API_PUBLISH_PROFILE }}
+          package: ./publish/api
+
+      - name: Deploy Web to Azure App Service
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: ${{ env.WEB_APP_NAME }}
+          publish-profile: ${{ secrets.AZURE_WEB_PUBLISH_PROFILE }}
+          package: ./publish/web
+
+  # -----------------------------------------
+  # JOB 4: SMOKE TEST
+  # -----------------------------------------
+  smoke-test:
+    name: Smoke Test
+    runs-on: ubuntu-latest
+    needs: deploy
+
+    steps:
+      - name: Check API Health
+        run: |
+          echo "Running smoke test on API..."
+          curl --fail https://${{ env.API_APP_NAME }}.azurewebsites.net/health || exit 1
+
+      - name: Check Web Health
+        run: |
+          echo "Running smoke test on Web..."
+          curl --fail https://${{ env.WEB_APP_NAME }}.azurewebsites.net || exit 1
+
+      - name: Smoke Test Passed
+        run: echo "All smoke tests passed. Deployment successful!"

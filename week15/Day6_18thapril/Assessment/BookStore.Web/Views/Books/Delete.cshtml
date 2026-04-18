@@ -1,0 +1,30 @@
+@model BookStore.Application.DTOs.BookDto
+@{
+    ViewData["Title"] = "Delete Book";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card p-4 border-danger">
+            <h3 class="text-danger mb-4"><i class="fas fa-trash"></i> Delete Book</h3>
+            <div class="alert alert-warning">
+                <i class="fas fa-exclamation-triangle"></i>
+                Are you sure you want to delete <strong>@Model.Title</strong>? This action cannot be undone.
+            </div>
+            <table class="table table-bordered">
+                <tr><th>Title</th><td>@Model.Title</td></tr>
+                <tr><th>Author</th><td>@Model.AuthorName</td></tr>
+                <tr><th>Price</th><td>Rs. @Model.Price</td></tr>
+                <tr><th>Stock</th><td>@Model.Stock</td></tr>
+            </table>
+            <form asp-action="Delete" asp-route-id="@Model.BookId" method="post">
+                <div class="d-flex gap-2">
+                    <button type="submit" class="btn btn-danger">
+                        <i class="fas fa-trash"></i> Yes, Delete
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
